@@ -1,0 +1,10 @@
+﻿rank,player_name,age,team,first_place_votes,voting_points_won,maximum_voting_points,voting_points_share,games_played,minutes_per_game,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocks_per_game,field_goal_percentage,three_point_percentage,free_throw_percentage,win_shares,win_shares_per_48_minutes,season
+1,Nikola Jokić,28,DEN,79,926,990,0.935,79,34.6,26.4,12.4,9.0,1.4,0.9,.583,.359,.817,17.0,.299,2023-24
+2,Shai Gilgeous-Alexander,25,OKC,15,640,990,0.646,75,34.0,30.1,5.5,6.2,2.0,0.9,.535,.353,.874,14.6,.275,2023-24
+3,Luka Dončić,24,DAL,4,566,990,0.572,70,37.5,33.9,9.2,9.8,1.4,0.5,.487,.382,.786,12.0,.220,2023-24
+4,Giannis Antetokounmpo,29,MIL,1,192,990,0.194,73,35.2,30.4,11.5,6.5,1.2,1.1,.611,.274,.657,13.2,.246,2023-24
+5,Jalen Brunson,27,NYK,0,142,990,0.143,77,35.4,28.7,3.6,6.7,0.9,0.2,.479,.401,.847,11.2,.198,2023-24
+6,Jayson Tatum,25,BOS,0,86,990,0.087,74,35.7,26.9,8.1,4.9,1.0,0.6,.471,.376,.833,10.4,.189,2023-24
+7,Anthony Edwards,22,MIN,0,18,990,0.018,79,35.1,25.9,5.4,5.1,1.3,0.5,.461,.357,.836,7.5,.130,2023-24
+8,Domantas Sabonis,27,SAC,0,3,990,0.003,82,35.7,19.4,13.7,8.2,0.9,0.6,.594,.379,.704,12.6,.206,2023-24
+9,Kevin Durant,35,PHO,0,1,990,0.001,75,37.2,27.1,6.6,5.0,0.9,1.2,.523,.413,.856,8.3,.142,2023-24
