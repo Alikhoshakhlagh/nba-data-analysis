@@ -1,0 +1,615 @@
+﻿rank,player_name,salary_usd,season,team_name
+1,Khris Middleton,33051724,2020-21,Milwaukee Bucks
+2,Giannis Antetokounmpo,27528088,2020-21,Milwaukee Bucks
+3,Jrue Holiday,25876111,2020-21,Milwaukee Bucks
+4,Brook Lopez,12697675,2020-21,Milwaukee Bucks
+5,P.J. Tucker,7969537,2020-21,Milwaukee Bucks
+6,Pat Connaughton,4938273,2020-21,Milwaukee Bucks
+7,Bobby Portis,3623000,2020-21,Milwaukee Bucks
+8,Jon Leuer,3169348,2020-21,Milwaukee Bucks
+9,Donte DiVincenzo,3044160,2020-21,Milwaukee Bucks
+10,Bryn Forbes,2337145,2020-21,Milwaukee Bucks
+11,Larry Sanders,1865546,2020-21,Milwaukee Bucks
+12,Rodions Kurucs,1780152,2020-21,Milwaukee Bucks
+13,Thanasis Antetokounmpo,1701593,2020-21,Milwaukee Bucks
+14,Sam Merrill,898310,2020-21,Milwaukee Bucks
+15,Jordan Nwora,898310,2020-21,Milwaukee Bucks
+16,Jeff Teague,510589,2020-21,Milwaukee Bucks
+17,Mamadi Diakite,160173,2020-21,Milwaukee Bucks
+18,Elijah Bryant,24611,2020-21,Milwaukee Bucks
+19,Justin Jackson,0,2020-21,Milwaukee Bucks
+20,Axel Toupane,0,2020-21,Milwaukee Bucks
+1,James Harden,41254920,2020-21,Brooklyn Nets
+2,Kevin Durant,39058950,2020-21,Brooklyn Nets
+3,Kyrie Irving,33460350,2020-21,Brooklyn Nets
+4,Joe Harris,16071429,2020-21,Brooklyn Nets
+5,Spencer Dinwiddie,11454048,2020-21,Brooklyn Nets
+6,DeAndre Jordan,10375678,2020-21,Brooklyn Nets
+7,Jeff Green,2564753,2020-21,Brooklyn Nets
+8,Landry Shamet,2090040,2020-21,Brooklyn Nets
+9,Timothé Luwawu-Cabarrot,1824003,2020-21,Brooklyn Nets
+10,Bruce Brown,1663861,2020-21,Brooklyn Nets
+11,Tyler Johnson,1620564,2020-21,Brooklyn Nets
+12,Nic Claxton,1517981,2020-21,Brooklyn Nets
+13,Blake Griffin,776983,2020-21,Brooklyn Nets
+14,Alize Johnson,621587,2020-21,Brooklyn Nets
+15,Iman Shumpert,558153,2020-21,Brooklyn Nets
+16,LaMarcus Aldridge,554988,2020-21,Brooklyn Nets
+17,Andre Roberson,274816,2020-21,Brooklyn Nets
+18,Noah Vonleh,263995,2020-21,Brooklyn Nets
+19,Mike James,237648,2020-21,Brooklyn Nets
+20,Norvel Pelle,217845,2020-21,Brooklyn Nets
+21,Tyler Cook,99020,2020-21,Brooklyn Nets
+22,Chris Chiozza,0,2020-21,Brooklyn Nets
+23,Reggie Perry,0,2020-21,Brooklyn Nets
+1,Russell Westbrook,41358814,2020-21,Washington Wizards
+2,Bradley Beal,28751774,2020-21,Washington Wizards
+3,Dāvis Bertāns,15000000,2020-21,Washington Wizards
+4,Thomas Bryant,8333333,2020-21,Washington Wizards
+5,Robin Lopez,7300000,2020-21,Washington Wizards
+6,Ish Smith,6000000,2020-21,Washington Wizards
+7,Rui Hachimura,4692840,2020-21,Washington Wizards
+8,Deni Avdija,4469160,2020-21,Washington Wizards
+9,Jerome Robinson,3737520,2020-21,Washington Wizards
+10,Chandler Hutchison,2443440,2020-21,Washington Wizards
+11,Isaac Bonga,1663861,2020-21,Washington Wizards
+12,Raul Neto,1620564,2020-21,Washington Wizards
+13,Daniel Gafford,1517981,2020-21,Washington Wizards
+14,Alex Len,1265372,2020-21,Washington Wizards
+15,Anthony Gill,898310,2020-21,Washington Wizards
+16,Anžejs Pasečņiks,374297,2020-21,Washington Wizards
+17,Jordan Bell,221996,2020-21,Washington Wizards
+18,Caleb Homesley,20000,2020-21,Washington Wizards
+19,Garrison Mathews,0,2020-21,Washington Wizards
+20,Cassius Winston,0,2020-21,Washington Wizards
+1,Mike Conley,34504132,2020-21,Utah Jazz
+2,Rudy Gobert,27525281,2020-21,Utah Jazz
+3,Bojan Bogdanović,17661000,2020-21,Utah Jazz
+4,Jordan Clarkson,11500000,2020-21,Utah Jazz
+5,Joe Ingles,10863637,2020-21,Utah Jazz
+6,Derrick Favors,9258000,2020-21,Utah Jazz
+7,Royce O'Neale,8500000,2020-21,Utah Jazz
+8,Donovan Mitchell,5195501,2020-21,Utah Jazz
+9,Udoka Azubuike,1977000,2020-21,Utah Jazz
+10,Georges Niang,1783557,2020-21,Utah Jazz
+11,Matt Thomas,1517981,2020-21,Utah Jazz
+12,Miye Oni,1517981,2020-21,Utah Jazz
+13,Juwan Morgan,1517981,2020-21,Utah Jazz
+14,Elijah Hughes,898310,2020-21,Utah Jazz
+15,Shaquille Harrison,770433,2020-21,Utah Jazz
+16,Ersan İlyasova,754783,2020-21,Utah Jazz
+17,Trent Forrest,0,2020-21,Utah Jazz
+18,Jarrell Brantley,0,2020-21,Utah Jazz
+1,Damian Lillard,31626953,2020-21,Portland Trail Blazers
+2,CJ McCollum,29354152,2020-21,Portland Trail Blazers
+3,Jusuf Nurkić,12888889,2020-21,Portland Trail Blazers
+4,Robert Covington,12138345,2020-21,Portland Trail Blazers
+5,Norman Powell,10865952,2020-21,Portland Trail Blazers
+6,Derrick Jones,9258000,2020-21,Portland Trail Blazers
+7,Zach Collins,5406255,2020-21,Portland Trail Blazers
+8,Enes Freedom,5005350,2020-21,Portland Trail Blazers
+9,Andrew Nicholson,2844430,2020-21,Portland Trail Blazers
+10,Anfernee Simons,2252040,2020-21,Portland Trail Blazers
+11,Nassir Little,2210640,2020-21,Portland Trail Blazers
+12,Anderson Varejão,1913345,2020-21,Portland Trail Blazers
+13,Carmelo Anthony,1620564,2020-21,Portland Trail Blazers
+14,Harry Giles,1620564,2020-21,Portland Trail Blazers
+15,CJ Elleby,898310,2020-21,Portland Trail Blazers
+16,Rondae Hollis-Jefferson,432891,2020-21,Portland Trail Blazers
+17,T.J. Leaf,0,2020-21,Portland Trail Blazers
+18,Keljin Blevins,0,2020-21,Portland Trail Blazers
+1,Malcolm Brogdon,20700000,2020-21,Indiana Pacers
+2,Domantas Sabonis,19800000,2020-21,Indiana Pacers
+3,Myles Turner,17500000,2020-21,Indiana Pacers
+4,Caris LeVert,16203704,2020-21,Indiana Pacers
+5,T.J. Warren,12000000,2020-21,Indiana Pacers
+6,Jeremy Lamb,10500000,2020-21,Indiana Pacers
+7,Doug McDermott,7333333,2020-21,Indiana Pacers
+8,Justin Holiday,5720400,2020-21,Indiana Pacers
+9,T.J. McConnell,3500000,2020-21,Indiana Pacers
+10,Goga Bitadze,2957520,2020-21,Indiana Pacers
+11,Aaron Holiday,2345640,2020-21,Indiana Pacers
+12,Monta Ellis,2245400,2020-21,Indiana Pacers
+13,Edmond Sumner,2160000,2020-21,Indiana Pacers
+14,JaKarr Sampson,1620564,2020-21,Indiana Pacers
+15,Jalen Lecque,1517981,2020-21,Indiana Pacers
+16,Oshae Brissett,955493,2020-21,Indiana Pacers
+17,Kelan Martin,801900,2020-21,Indiana Pacers
+18,Amida Brimah,0,2020-21,Indiana Pacers
+19,Cassius Stanley,0,2020-21,Indiana Pacers
+20,Brian Bowen,0,2020-21,Indiana Pacers
+1,Chris Paul,41358814,2020-21,Phoenix Suns
+2,Devin Booker,29467800,2020-21,Phoenix Suns
+3,Deandre Ayton,10018200,2020-21,Phoenix Suns
+4,Jae Crowder,9258000,2020-21,Phoenix Suns
+5,Dario Šarić,9250000,2020-21,Phoenix Suns
+6,Mikal Bridges,4359000,2020-21,Phoenix Suns
+7,Jalen Smith,4245720,2020-21,Phoenix Suns
+8,Cameron Johnson,4235160,2020-21,Phoenix Suns
+9,Jevon Carter,3925000,2020-21,Phoenix Suns
+10,Cameron Payne,1977011,2020-21,Phoenix Suns
+11,Abdel Nader,1752950,2020-21,Phoenix Suns
+12,Langston Galloway,1620564,2020-21,Phoenix Suns
+13,Frank Kaminsky,1620564,2020-21,Phoenix Suns
+14,E'Twaun Moore,1620564,2020-21,Phoenix Suns
+15,Torrey Craig,1620564,2020-21,Phoenix Suns
+16,Damian Jones,785285,2020-21,Phoenix Suns
+17,Ty-Shon Alexander,0,2020-21,Phoenix Suns
+1,Nikola Jokić,29542010,2020-21,Denver Nuggets
+2,Jamal Murray,27285000,2020-21,Denver Nuggets
+3,Aaron Gordon,18136364,2020-21,Denver Nuggets
+4,Will Barton,13723214,2020-21,Denver Nuggets
+5,Paul Millsap,10000000,2020-21,Denver Nuggets
+6,JaMychal Green,7199760,2020-21,Denver Nuggets
+7,JaVale McGee,4200000,2020-21,Denver Nuggets
+8,Michael Porter,3550800,2020-21,Denver Nuggets
+9,Facundo Campazzo,3100000,2020-21,Denver Nuggets
+10,Zeke Nnaji,2379840,2020-21,Denver Nuggets
+11,Bol Bol,2058240,2020-21,Denver Nuggets
+12,Gary Clark,2000000,2020-21,Denver Nuggets
+13,PJ Dozier,1762796,2020-21,Denver Nuggets
+14,Monte Morris,1723707,2020-21,Denver Nuggets
+15,Vlatko Čančar,1517981,2020-21,Denver Nuggets
+16,Austin Rivers,299694,2020-21,Denver Nuggets
+17,Greg Whittington,0,2020-21,Denver Nuggets
+18,Markus Howard,0,2020-21,Denver Nuggets
+19,Shaquille Harrison,0,2020-21,Denver Nuggets
+1,Steven Adams,29592695,2020-21,New Orleans Pelicans
+2,Brandon Ingram,27285000,2020-21,New Orleans Pelicans
+3,Eric Bledsoe,16875000,2020-21,New Orleans Pelicans
+4,James Johnson,16047100,2020-21,New Orleans Pelicans
+5,Lonzo Ball,11003782,2020-21,New Orleans Pelicans
+6,Zion Williamson,10245480,2020-21,New Orleans Pelicans
+7,Jaxson Hayes,5105160,2020-21,New Orleans Pelicans
+8,Kira Lewis,3640200,2020-21,New Orleans Pelicans
+9,Josh Hart,3491159,2020-21,New Orleans Pelicans
+10,Nickeil Alexander-Walker,3113160,2020-21,New Orleans Pelicans
+11,Wes Iwundu,1678854,2020-21,New Orleans Pelicans
+12,Willy Hernangómez,1620564,2020-21,New Orleans Pelicans
+13,Wenyen Gabriel,1620564,2020-21,New Orleans Pelicans
+14,Sindarius Thornwell,943480,2020-21,New Orleans Pelicans
+15,Marcos Louzada Silva,123056,2020-21,New Orleans Pelicans
+16,Naji Marshall,120000,2020-21,New Orleans Pelicans
+17,Isaiah Thomas,110998,2020-21,New Orleans Pelicans
+18,Will Magnay,0,2020-21,New Orleans Pelicans
+19,James Nunnally,0,2020-21,New Orleans Pelicans
+1,Paul George,35450412,2020-21,Los Angeles Clippers
+2,Kawhi Leonard,34379100,2020-21,Los Angeles Clippers
+3,Marcus Morris,14883721,2020-21,Los Angeles Clippers
+4,Patrick Beverley,13333333,2020-21,Los Angeles Clippers
+5,Serge Ibaka,9258000,2020-21,Los Angeles Clippers
+6,Rajon Rondo,8250000,2020-21,Los Angeles Clippers
+7,Ivica Zubac,7000000,2020-21,Los Angeles Clippers
+8,Luke Kennard,5273826,2020-21,Los Angeles Clippers
+9,Patrick Patterson,3077704,2020-21,Los Angeles Clippers
+10,Reggie Jackson,1620564,2020-21,Los Angeles Clippers
+11,Nicolas Batum,1620564,2020-21,Los Angeles Clippers
+12,Terance Mann,1517984,2020-21,Los Angeles Clippers
+13,Daniel Oturu,898310,2020-21,Los Angeles Clippers
+14,DeMarcus Cousins,455091,2020-21,Los Angeles Clippers
+15,Yogi Ferrell,325167,2020-21,Los Angeles Clippers
+16,Malik Fitts,61528,2020-21,Los Angeles Clippers
+17,Amir Coffey,0,2020-21,Los Angeles Clippers
+18,Jay Scrubb,0,2020-21,Los Angeles Clippers
+1,Buddy Hield,24701834,2020-21,Sacramento Kings
+2,Harrison Barnes,22215909,2020-21,Sacramento Kings
+3,Delon Wright,9000000,2020-21,Sacramento Kings
+4,Marvin Bagley,8963640,2020-21,Sacramento Kings
+5,De'Aaron Fox,8099627,2020-21,Sacramento Kings
+6,Jabari Parker,6500000,2020-21,Sacramento Kings
+7,Richaun Holmes,5005350,2020-21,Sacramento Kings
+8,Tyrese Haliburton,3831840,2020-21,Sacramento Kings
+9,Maurice Harkless,3623000,2020-21,Sacramento Kings
+10,Mfiondu Kabengele,2075880,2020-21,Sacramento Kings
+11,Hassan Whiteside,1620564,2020-21,Sacramento Kings
+12,Terence Davis,1517981,2020-21,Sacramento Kings
+13,Justin James,1517981,2020-21,Sacramento Kings
+14,Chris Silva,1517981,2020-21,Sacramento Kings
+15,Robert Woodard,1500000,2020-21,Sacramento Kings
+16,Jahmi'us Ramsey,1000000,2020-21,Sacramento Kings
+17,Glenn Robinson,930930,2020-21,Sacramento Kings
+18,Chimezie Metu,750000,2020-21,Sacramento Kings
+19,Damian Jones,459961,2020-21,Sacramento Kings
+20,Norvel Pelle,99020,2020-21,Sacramento Kings
+21,Louis King,0,2020-21,Sacramento Kings
+22,Kyle Guy,0,2020-21,Sacramento Kings
+1,Stephen Curry,43006362,2020-21,Golden State Warriors
+2,Klay Thompson,35361360,2020-21,Golden State Warriors
+3,Andrew Wiggins,29542010,2020-21,Golden State Warriors
+4,Draymond Green,22246956,2020-21,Golden State Warriors
+5,Kelly Oubre,14375000,2020-21,Golden State Warriors
+6,James Wiseman,8730240,2020-21,Golden State Warriors
+7,Kevon Looney,4821429,2020-21,Golden State Warriors
+8,Jordan Poole,2063280,2020-21,Golden State Warriors
+9,Damion Lee,1762796,2020-21,Golden State Warriors
+10,Kent Bazemore,1620564,2020-21,Golden State Warriors
+11,Mychal Mulder,1517981,2020-21,Golden State Warriors
+12,Eric Paschall,1517981,2020-21,Golden State Warriors
+13,Alen Smailagić,1517981,2020-21,Golden State Warriors
+14,Shaun Livingston,666667,2020-21,Golden State Warriors
+15,Juan Toscano-Anderson,358295,2020-21,Golden State Warriors
+16,Gary Payton,233894,2020-21,Golden State Warriors
+17,Nico Mannion,0,2020-21,Golden State Warriors
+18,Jordan Bell,0,2020-21,Golden State Warriors
+1,Danilo Gallinari,19500000,2020-21,Atlanta Hawks
+2,Bogdan Bogdanović,18000000,2020-21,Atlanta Hawks
+3,Clint Capela,16000000,2020-21,Atlanta Hawks
+4,Tony Snell,12178571,2020-21,Atlanta Hawks
+5,Lou Williams,8000000,2020-21,Atlanta Hawks
+6,De'Andre Hunter,7422000,2020-21,Atlanta Hawks
+7,Trae Young,6571800,2020-21,Atlanta Hawks
+8,Onyeka Okongwu,5813640,2020-21,Atlanta Hawks
+9,Kris Dunn,4767000,2020-21,Atlanta Hawks
+10,Cam Reddish,4458000,2020-21,Atlanta Hawks
+11,John Collins,4137302,2020-21,Atlanta Hawks
+12,Kevin Huerter,2761920,2020-21,Atlanta Hawks
+13,Brandon Goodwin,1701593,2020-21,Atlanta Hawks
+14,Solomon Hill,1620564,2020-21,Atlanta Hawks
+15,Bruno Fernando,1517981,2020-21,Atlanta Hawks
+16,Khyri Thomas,744684,2020-21,Atlanta Hawks
+17,Nathan Knight,0,2020-21,Atlanta Hawks
+18,Skylar Mays,0,2020-21,Atlanta Hawks
+1,Tobias Harris,34358850,2020-21,Philadelphia 76ers
+2,Ben Simmons,30559200,2020-21,Philadelphia 76ers
+3,Joel Embiid,29542010,2020-21,Philadelphia 76ers
+4,Danny Green,15365853,2020-21,Philadelphia 76ers
+5,George Hill,9590602,2020-21,Philadelphia 76ers
+6,Seth Curry,7834449,2020-21,Philadelphia 76ers
+7,Mike Scott,5005350,2020-21,Philadelphia 76ers
+8,Matisse Thybulle,2711280,2020-21,Philadelphia 76ers
+9,Tyrese Maxey,2478840,2020-21,Philadelphia 76ers
+10,Furkan Korkmaz,1762796,2020-21,Philadelphia 76ers
+11,Shake Milton,1701593,2020-21,Philadelphia 76ers
+12,Dwight Howard,1620564,2020-21,Philadelphia 76ers
+13,Ignas Brazdeikis,1517981,2020-21,Philadelphia 76ers
+14,Isaiah Joe,898310,2020-21,Philadelphia 76ers
+15,Paul Reed,609128,2020-21,Philadelphia 76ers
+16,Anthony Tolliver,485498,2020-21,Philadelphia 76ers
+17,Justin Anderson,125000,2020-21,Philadelphia 76ers
+18,Rayjon Tucker,0,2020-21,Philadelphia 76ers
+19,Mason Jones,0,2020-21,Philadelphia 76ers
+20,Gary Clark,0,2020-21,Philadelphia 76ers
+1,Gorgui Dieng,16587688,2020-21,Memphis Grizzlies
+2,Jonas Valančiūnas,15000000,2020-21,Memphis Grizzlies
+3,Justise Winslow,13000000,2020-21,Memphis Grizzlies
+4,Dion Waiters,12650000,2020-21,Memphis Grizzlies
+5,Dillon Brooks,11400000,2020-21,Memphis Grizzlies
+6,De'Anthony Melton,9571712,2020-21,Memphis Grizzlies
+7,Kyle Anderson,9505100,2020-21,Memphis Grizzlies
+8,Ja Morant,9166800,2020-21,Memphis Grizzlies
+9,Tyus Jones,7965100,2020-21,Memphis Grizzlies
+10,Jaren Jackson,7257360,2020-21,Memphis Grizzlies
+11,Marko Guduric,2750000,2020-21,Memphis Grizzlies
+12,Brandon Clarke,2602920,2020-21,Memphis Grizzlies
+13,Grayson Allen,2545320,2020-21,Memphis Grizzlies
+14,John Konchar,2100000,2020-21,Memphis Grizzlies
+15,Mario Hezonja,1977011,2020-21,Memphis Grizzlies
+16,Desmond Bane,1936440,2020-21,Memphis Grizzlies
+17,Jontay Porter,1900000,2020-21,Memphis Grizzlies
+18,Xavier Tillman,1300000,2020-21,Memphis Grizzlies
+19,Tim Frazier,518612,2020-21,Memphis Grizzlies
+20,Dakari Johnson,459414,2020-21,Memphis Grizzlies
+21,Sean McDermott,0,2020-21,Memphis Grizzlies
+22,Killian Tillie,0,2020-21,Memphis Grizzlies
+1,Kemba Walker,34379100,2020-21,Boston Celtics
+2,Jaylen Brown,23437500,2020-21,Boston Celtics
+3,Evan Fournier,17450000,2020-21,Boston Celtics
+4,Marcus Smart,13446428,2020-21,Boston Celtics
+5,Jayson Tatum,9897120,2020-21,Boston Celtics
+6,Tristan Thompson,9258000,2020-21,Boston Celtics
+7,Romeo Langford,3631200,2020-21,Boston Celtics
+8,Aaron Nesmith,3458400,2020-21,Boston Celtics
+9,Grant Williams,2498760,2020-21,Boston Celtics
+10,Luke Kornet,2250000,2020-21,Boston Celtics
+11,Moritz Wagner,2161920,2020-21,Boston Celtics
+12,Payton Pritchard,2035800,2020-21,Boston Celtics
+13,Robert Williams,2029920,2020-21,Boston Celtics
+14,Semi Ojeleye,1752950,2020-21,Boston Celtics
+15,Carsen Edwards,1517981,2020-21,Boston Celtics
+16,Guerschon Yabusele,1039080,2020-21,Boston Celtics
+17,Jabari Parker,430729,2020-21,Boston Celtics
+18,Demetrius Jackson,92857,2020-21,Boston Celtics
+19,Tremont Waters,0,2020-21,Boston Celtics
+20,Tacko Fall,0,2020-21,Boston Celtics
+1,Kristaps Porziņģis,29467800,2020-21,Dallas Mavericks
+2,Tim Hardaway,18975000,2020-21,Dallas Mavericks
+3,J.J. Redick,13013700,2020-21,Dallas Mavericks
+4,Dwight Powell,11080125,2020-21,Dallas Mavericks
+5,Josh Richardson,10865952,2020-21,Dallas Mavericks
+6,Maxi Kleber,8325000,2020-21,Dallas Mavericks
+7,Luka Dončić,8049360,2020-21,Dallas Mavericks
+8,Willie Cauley-Stein,4100000,2020-21,Dallas Mavericks
+9,Dorian Finney-Smith,4000000,2020-21,Dallas Mavericks
+10,Nicolò Melli,3897436,2020-21,Dallas Mavericks
+11,Boban Marjanović,3500000,2020-21,Dallas Mavericks
+12,Trey Burke,3000000,2020-21,Dallas Mavericks
+13,Josh Green,2816760,2020-21,Dallas Mavericks
+14,Jalen Brunson,1663861,2020-21,Dallas Mavericks
+15,J.J. Barea,1620564,2020-21,Dallas Mavericks
+16,Tyrell Terry,1289846,2020-21,Dallas Mavericks
+17,Nate Hinton,0,2020-21,Dallas Mavericks
+18,Tyler Bey,0,2020-21,Dallas Mavericks
+1,Karl-Anthony Towns,29467800,2020-21,Minnesota Timberwolves
+2,D'Angelo Russell,28649250,2020-21,Minnesota Timberwolves
+3,Ricky Rubio,17000000,2020-21,Minnesota Timberwolves
+4,Malik Beasley,13425895,2020-21,Minnesota Timberwolves
+5,Anthony Edwards,9757440,2020-21,Minnesota Timberwolves
+6,Jarrett Culver,6104280,2020-21,Minnesota Timberwolves
+7,Juancho Hernangómez,5718000,2020-21,Minnesota Timberwolves
+8,Ed Davis,5005350,2020-21,Minnesota Timberwolves
+9,Jake Layman,3761085,2020-21,Minnesota Timberwolves
+10,Josh Okogie,2651040,2020-21,Minnesota Timberwolves
+11,Jaden McDaniels,1964760,2020-21,Minnesota Timberwolves
+12,Jarred Vanderbilt,1663861,2020-21,Minnesota Timberwolves
+13,Jaylen Nowell,1517981,2020-21,Minnesota Timberwolves
+14,Naz Reid,1517981,2020-21,Minnesota Timberwolves
+15,Cole Aldrich,685340,2020-21,Minnesota Timberwolves
+16,Jordan McLaughlin,0,2020-21,Minnesota Timberwolves
+1,Pascal Siakam,30559200,2020-21,Toronto Raptors
+2,Kyle Lowry,30500000,2020-21,Toronto Raptors
+3,Fred VanVleet,21250000,2020-21,Toronto Raptors
+4,Rodney Hood,10047450,2020-21,Toronto Raptors
+5,Aron Baynes,7000000,2020-21,Toronto Raptors
+6,Chris Boucher,6500000,2020-21,Toronto Raptors
+7,Patrick McCaw,4000000,2020-21,Toronto Raptors
+8,OG Anunoby,3872215,2020-21,Toronto Raptors
+9,Stanley Johnson,3804150,2020-21,Toronto Raptors
+10,Alex Len,2258000,2020-21,Toronto Raptors
+11,Malachi Flynn,1950600,2020-21,Toronto Raptors
+12,DeAndre' Bembry,1737145,2020-21,Toronto Raptors
+13,Gary Trent,1663861,2020-21,Toronto Raptors
+14,Paul Watson,1445697,2020-21,Toronto Raptors
+15,Khem Birch,410691,2020-21,Toronto Raptors
+16,Yuta Watanabe,321893,2020-21,Toronto Raptors
+17,Oshae Brissett,300000,2020-21,Toronto Raptors
+18,Freddie Gillespie,239959,2020-21,Toronto Raptors
+19,Henry Ellenson,160998,2020-21,Toronto Raptors
+20,Donta Hall,99020,2020-21,Toronto Raptors
+21,Jalen Harris,0,2020-21,Toronto Raptors
+1,DeMar DeRozan,27739975,2020-21,San Antonio Spurs
+2,LaMarcus Aldridge,16750000,2020-21,San Antonio Spurs
+3,Rudy Gay,14500000,2020-21,San Antonio Spurs
+4,Dejounte Murray,14286000,2020-21,San Antonio Spurs
+5,Patty Mills,13535714,2020-21,San Antonio Spurs
+6,Jakob Poeltl,8101852,2020-21,San Antonio Spurs
+7,DeMarre Carroll,6119676,2020-21,San Antonio Spurs
+8,Trey Lyles,5500000,2020-21,San Antonio Spurs
+9,Devin Vassell,4033440,2020-21,San Antonio Spurs
+10,Derrick White,3516284,2020-21,San Antonio Spurs
+11,Lonnie Walker,2892000,2020-21,San Antonio Spurs
+12,Luka Šamanić,2824320,2020-21,San Antonio Spurs
+13,Keldon Johnson,2048040,2020-21,San Antonio Spurs
+14,Marquese Chriss,1824003,2020-21,San Antonio Spurs
+15,Drew Eubanks,1620564,2020-21,San Antonio Spurs
+16,DaQuan Jeffries,1445697,2020-21,San Antonio Spurs
+17,Gorgui Dieng,1000000,2020-21,San Antonio Spurs
+18,Tre Jones,898310,2020-21,San Antonio Spurs
+19,Cameron Reynolds,110998,2020-21,San Antonio Spurs
+20,Quinndary Weatherspoon,0,2020-21,San Antonio Spurs
+21,Keita Bates-Diop,0,2020-21,San Antonio Spurs
+1,Nikola Vučević,26000000,2020-21,Chicago Bulls
+2,Zach LaVine,19500000,2020-21,Chicago Bulls
+3,Thaddeus Young,13545000,2020-21,Chicago Bulls
+4,Tomáš Satoranský,10000000,2020-21,Chicago Bulls
+5,Al-Farouq Aminu,9720900,2020-21,Chicago Bulls
+6,Cristiano Felício,7529020,2020-21,Chicago Bulls
+7,Patrick Williams,7068360,2020-21,Chicago Bulls
+8,Lauri Markkanen,6731508,2020-21,Chicago Bulls
+9,Coby White,5572680,2020-21,Chicago Bulls
+10,Daniel Theis,5000000,2020-21,Chicago Bulls
+11,Garrett Temple,4767000,2020-21,Chicago Bulls
+12,Denzel Valentine,4642800,2020-21,Chicago Bulls
+13,Troy Brown,3372840,2020-21,Chicago Bulls
+14,Ryan Arcidiacono,3000000,2020-21,Chicago Bulls
+15,Javonte Green,1517981,2020-21,Chicago Bulls
+16,Adam Mokoka,0,2020-21,Chicago Bulls
+17,Devon Dotson,0,2020-21,Chicago Bulls
+1,LeBron James,39219566,2020-21,Los Angeles Lakers
+2,Anthony Davis,32742000,2020-21,Los Angeles Lakers
+3,Dennis Schröder,16000000,2020-21,Los Angeles Lakers
+4,Kentavious Caldwell-Pope,12073020,2020-21,Los Angeles Lakers
+5,Montrezl Harrell,9258000,2020-21,Los Angeles Lakers
+6,Luol Deng,5000000,2020-21,Los Angeles Lakers
+7,Wesley Matthews,3623000,2020-21,Los Angeles Lakers
+8,Kyle Kuzma,3562178,2020-21,Los Angeles Lakers
+9,Alex Caruso,2750000,2020-21,Los Angeles Lakers
+10,Marc Gasol,2564753,2020-21,Los Angeles Lakers
+11,Quinn Cook,1797183,2020-21,Los Angeles Lakers
+12,Alfonzo McKinnie,1762796,2020-21,Los Angeles Lakers
+13,Jared Dudley,1620564,2020-21,Los Angeles Lakers
+14,Markieff Morris,1620564,2020-21,Los Angeles Lakers
+15,Talen Horton-Tucker,1517981,2020-21,Los Angeles Lakers
+16,Jordan Bell,580062,2020-21,Los Angeles Lakers
+17,Andre Drummond,554988,2020-21,Los Angeles Lakers
+18,Ben McLemore,455090,2020-21,Los Angeles Lakers
+19,Damian Jones,221996,2020-21,Los Angeles Lakers
+20,Kostas Antetokounmpo,0,2020-21,Los Angeles Lakers
+21,Devontae Cacok,0,2020-21,Los Angeles Lakers
+1,Gordon Hayward,28500000,2020-21,Charlotte Hornets
+2,Terry Rozier,18900000,2020-21,Charlotte Hornets
+3,Cody Zeller,15415730,2020-21,Charlotte Hornets
+4,Nicolas Batum,8856969,2020-21,Charlotte Hornets
+5,LaMelo Ball,7839960,2020-21,Charlotte Hornets
+6,Malik Monk,5345687,2020-21,Charlotte Hornets
+7,P.J. Washington,4023600,2020-21,Charlotte Hornets
+8,Miles Bridges,3934320,2020-21,Charlotte Hornets
+9,Bismack Biyombo,3500000,2020-21,Charlotte Hornets
+10,Brad Wanamaker,2250000,2020-21,Charlotte Hornets
+11,Devonte' Graham,1663861,2020-21,Charlotte Hornets
+12,Caleb Martin,1517981,2020-21,Charlotte Hornets
+13,Cody Martin,1517981,2020-21,Charlotte Hornets
+14,Jalen McDaniels,1517981,2020-21,Charlotte Hornets
+15,Vernon Carey,1350000,2020-21,Charlotte Hornets
+16,Nick Richards,1000000,2020-21,Charlotte Hornets
+17,Nate Darling,0,2020-21,Charlotte Hornets
+18,Grant Riller,0,2020-21,Charlotte Hornets
+1,John Wall,41254920,2020-21,Houston Rockets
+2,Eric Gordon,16869276,2020-21,Houston Rockets
+3,Christian Wood,13015874,2020-21,Houston Rockets
+4,Kelly Olynyk,12819649,2020-21,Houston Rockets
+5,Dante Exum,9600000,2020-21,Houston Rockets
+6,D.J. Augustin,6666667,2020-21,Houston Rockets
+7,Avery Bradley,5635000,2020-21,Houston Rockets
+8,D.J. Wilson,4548280,2020-21,Houston Rockets
+9,Danuel House,3717000,2020-21,Houston Rockets
+10,Ben McLemore,2283034,2020-21,Houston Rockets
+11,David Nwaba,1824003,2020-21,Houston Rockets
+12,Kevin Porter,1717981,2020-21,Houston Rockets
+13,Sterling Brown,1620564,2020-21,Houston Rockets
+14,DeMarcus Cousins,1620564,2020-21,Houston Rockets
+15,Chris Clemons,1517981,2020-21,Houston Rockets
+16,Jae'Sean Tate,1445967,2020-21,Houston Rockets
+17,Kenyon Martin,898310,2020-21,Houston Rockets
+18,Bruno Caboclo,361256,2020-21,Houston Rockets
+19,Khyri Thomas,360998,2020-21,Houston Rockets
+20,Troy Williams,122741,2020-21,Houston Rockets
+21,Mason Jones,61528,2020-21,Houston Rockets
+22,Jerian Grant,50000,2020-21,Houston Rockets
+23,Cameron Oliver,43070,2020-21,Houston Rockets
+24,Cameron Reynolds,33299,2020-21,Houston Rockets
+25,Justin Patton,0,2020-21,Houston Rockets
+26,Anthony Lamb,0,2020-21,Houston Rockets
+27,Armoni Brooks,0,2020-21,Houston Rockets
+1,Jimmy Butler,34379100,2020-21,Miami Heat
+2,Victor Oladipo,21000000,2020-21,Miami Heat
+3,Goran Dragić,18000000,2020-21,Miami Heat
+4,Andre Iguodala,15000000,2020-21,Miami Heat
+5,Trevor Ariza,12800000,2020-21,Miami Heat
+6,Nemanja Bjelica,7150000,2020-21,Miami Heat
+7,Ryan Anderson,5214583,2020-21,Miami Heat
+8,Bam Adebayo,5115492,2020-21,Miami Heat
+9,Tyler Herro,3822240,2020-21,Miami Heat
+10,Precious Achiuwa,2582160,2020-21,Miami Heat
+11,Duncan Robinson,1663861,2020-21,Miami Heat
+12,Kendrick Nunn,1663861,2020-21,Miami Heat
+13,Udonis Haslem,1620564,2020-21,Miami Heat
+14,KZ Okpala,1517981,2020-21,Miami Heat
+15,Dewayne Dedmon,432890,2020-21,Miami Heat
+16,A.J. Hammons,350087,2020-21,Miami Heat
+17,Omer Yurtseven,18458,2020-21,Miami Heat
+18,Max Strus,0,2020-21,Miami Heat
+19,Gabe Vincent,0,2020-21,Miami Heat
+1,Julius Randle,18900000,2020-21,New York Knicks
+2,RJ Barrett,8231760,2020-21,New York Knicks
+3,Derrick Rose,7682926,2020-21,New York Knicks
+4,Joakim Noah,6431667,2020-21,New York Knicks
+5,Frank Ntilikina,6176578,2020-21,New York Knicks
+6,Alec Burks,6000000,2020-21,New York Knicks
+7,Elfrid Payton,5767000,2020-21,New York Knicks
+8,Nerlens Noel,5000000,2020-21,New York Knicks
+9,Obi Toppin,4862040,2020-21,New York Knicks
+10,Kevin Knox,4588680,2020-21,New York Knicks
+11,Reggie Bullock,4200000,2020-21,New York Knicks
+12,Terrance Ferguson,3944013,2020-21,New York Knicks
+13,Luca Vildoza,3500000,2020-21,New York Knicks
+14,Vincent Poirier,2619207,2020-21,New York Knicks
+15,Taj Gibson,2442968,2020-21,New York Knicks
+16,Immanuel Quickley,2105520,2020-21,New York Knicks
+17,Jacob Evans,2017320,2020-21,New York Knicks
+18,Omari Spellman,1988280,2020-21,New York Knicks
+19,Mitchell Robinson,1663861,2020-21,New York Knicks
+20,Wayne Ellington,1000000,2020-21,New York Knicks
+21,Norvel Pelle,698040,2020-21,New York Knicks
+22,John Henson,110998,2020-21,New York Knicks
+23,Jared Harper,99020,2020-21,New York Knicks
+24,Tyler Hall,25000,2020-21,New York Knicks
+25,Andrew White,25000,2020-21,New York Knicks
+26,Theo Pinson,0,2020-21,New York Knicks
+27,Myles Powell,0,2020-21,New York Knicks
+1,Blake Griffin,32670565,2020-21,Detroit Pistons
+2,Jerami Grant,19050000,2020-21,Detroit Pistons
+3,Cory Joseph,12600000,2020-21,Detroit Pistons
+4,Mason Plumlee,8000000,2020-21,Detroit Pistons
+5,Dennis Smith,5686677,2020-21,Detroit Pistons
+6,Killian Hayes,5307120,2020-21,Detroit Pistons
+7,Rodney McGruder,5192307,2020-21,Detroit Pistons
+8,Josh Jackson,4767000,2020-21,Detroit Pistons
+9,Sekou Doumbouya,3449400,2020-21,Detroit Pistons
+10,Isaiah Stewart,3121080,2020-21,Detroit Pistons
+11,Dewayne Dedmon,2866667,2020-21,Detroit Pistons
+12,Saddiq Bey,2689920,2020-21,Detroit Pistons
+13,Wayne Ellington,2564753,2020-21,Detroit Pistons
+14,Džanan Musa,2002800,2020-21,Detroit Pistons
+15,Jahlil Okafor,1882867,2020-21,Detroit Pistons
+16,Hamidou Diallo,1663861,2020-21,Detroit Pistons
+17,Deividas Sirvydis,898310,2020-21,Detroit Pistons
+18,Tyler Cook,594121,2020-21,Detroit Pistons
+19,Frank Jackson,0,2020-21,Detroit Pistons
+20,Saben Lee,0,2020-21,Detroit Pistons
+1,Al Horford,27500000,2020-21,Oklahoma City Thunder
+2,Meyers Leonard,9400000,2020-21,Oklahoma City Thunder
+3,Darius Miller,7000000,2020-21,Oklahoma City Thunder
+4,Justin Jackson,5029650,2020-21,Oklahoma City Thunder
+5,T.J. Leaf,4326825,2020-21,Oklahoma City Thunder
+6,Shai Gilgeous-Alexander,4141320,2020-21,Oklahoma City Thunder
+7,Gabriel Deck,3870370,2020-21,Oklahoma City Thunder
+8,Tony Bradley,3542060,2020-21,Oklahoma City Thunder
+9,Austin Rivers,3500000,2020-21,Oklahoma City Thunder
+10,Aleksej Pokusevski,2964840,2020-21,Oklahoma City Thunder
+11,Darius Bazley,2399160,2020-21,Oklahoma City Thunder
+12,Ty Jerome,2303040,2020-21,Oklahoma City Thunder
+13,Mike Muscala,2283034,2020-21,Oklahoma City Thunder
+14,Kenrich Williams,2000000,2020-21,Oklahoma City Thunder
+15,Théo Maledon,2000000,2020-21,Oklahoma City Thunder
+16,Svi Mykhailiuk,1663861,2020-21,Oklahoma City Thunder
+17,Josh Gray,1620564,2020-21,Oklahoma City Thunder
+18,Luguentz Dort,1517981,2020-21,Oklahoma City Thunder
+19,Isaiah Roby,1517981,2020-21,Oklahoma City Thunder
+20,Admiral Schofield,1517981,2020-21,Oklahoma City Thunder
+21,Zylan Cheatham,1445697,2020-21,Oklahoma City Thunder
+22,Moses Brown,1250000,2020-21,Oklahoma City Thunder
+23,Kyle Singler,999200,2020-21,Oklahoma City Thunder
+24,Patrick Patterson,737067,2020-21,Oklahoma City Thunder
+25,Frank Jackson,250000,2020-21,Oklahoma City Thunder
+26,Charlie Brown,217844,2020-21,Oklahoma City Thunder
+27,Justin Robinson,198040,2020-21,Oklahoma City Thunder
+28,Josh Hall,0,2020-21,Oklahoma City Thunder
+29,Jaylen Hoard,0,2020-21,Oklahoma City Thunder
+1,Otto Porter,28489239,2020-21,Orlando Magic
+2,Gary Harris,19160714,2020-21,Orlando Magic
+3,Terrence Ross,13500000,2020-21,Orlando Magic
+4,Markelle Fultz,12288697,2020-21,Orlando Magic
+5,Jonathan Isaac,7362566,2020-21,Orlando Magic
+6,Mohamed Bamba,5969040,2020-21,Orlando Magic
+7,Wendell Carter,5448840,2020-21,Orlando Magic
+8,Michael Carter-Williams,3300000,2020-21,Orlando Magic
+9,James Ennis,3300000,2020-21,Orlando Magic
+10,Cole Anthony,3285120,2020-21,Orlando Magic
+11,Chuma Okeke,3121080,2020-21,Orlando Magic
+12,Khem Birch,2586036,2020-21,Orlando Magic
+13,R.J. Hampton,2193480,2020-21,Orlando Magic
+14,Dwayne Bacon,1678854,2020-21,Orlando Magic
+15,Jeff Teague,1620564,2020-21,Orlando Magic
+16,Donta Hall,277256,2020-21,Orlando Magic
+17,Moritz Wagner,221995,2020-21,Orlando Magic
+18,Robert Franks,198040,2020-21,Orlando Magic
+19,Ignas Brazdeikis,148530,2020-21,Orlando Magic
+20,Devin Cannady,61528,2020-21,Orlando Magic
+21,Karim Mané,0,2020-21,Orlando Magic
+22,Chasson Randle,0,2020-21,Orlando Magic
+23,Sindarius Thornwell,0,2020-21,Orlando Magic
+1,Kevin Love,31258256,2020-21,Cleveland Cavaliers
+2,Andre Drummond,27957238,2020-21,Cleveland Cavaliers
+3,Taurean Prince,12250000,2020-21,Cleveland Cavaliers
+4,Larry Nance,11709091,2020-21,Cleveland Cavaliers
+5,Cedi Osman,8840580,2020-21,Cleveland Cavaliers
+6,Darius Garland,6720720,2020-21,Cleveland Cavaliers
+7,Isaac Okoro,6400920,2020-21,Cleveland Cavaliers
+8,Collin Sexton,4991880,2020-21,Cleveland Cavaliers
+9,Jarrett Allen,3909902,2020-21,Cleveland Cavaliers
+10,Dylan Windler,2137440,2020-21,Cleveland Cavaliers
+11,Damyean Dotson,2000000,2020-21,Cleveland Cavaliers
+12,Matthew Dellavedova,1620564,2020-21,Cleveland Cavaliers
+13,Isaiah Hartenstein,1620564,2020-21,Cleveland Cavaliers
+14,Dean Wade,1517981,2020-21,Cleveland Cavaliers
+15,J.R. Smith,1456667,2020-21,Cleveland Cavaliers
+16,Lamar Stevens,652366,2020-21,Cleveland Cavaliers
+17,Mfiondu Kabengele,356473,2020-21,Cleveland Cavaliers
+18,Rayjon Tucker,340000,2020-21,Cleveland Cavaliers
+19,Thon Maker,309355,2020-21,Cleveland Cavaliers
+20,Quinn Cook,221996,2020-21,Cleveland Cavaliers
+21,Anderson Varejão,144297,2020-21,Cleveland Cavaliers
+22,Yogi Ferrell,110998,2020-21,Cleveland Cavaliers
+23,Jeremiah Martin,0,2020-21,Cleveland Cavaliers
+24,Brodric Thomas,0,2020-21,Cleveland Cavaliers
+25,Marques Bolden,0,2020-21,Cleveland Cavaliers

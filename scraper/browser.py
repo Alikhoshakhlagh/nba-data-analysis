@@ -24,7 +24,7 @@ class BrowserClient:
         self.playwright = sync_playwright().start()
 
         self.browser = self.playwright.chromium.launch(
-            headless=True
+            headless=False
         )
 
         self.context = self.browser.new_context()
@@ -176,5 +176,42 @@ class BrowserClient:
                 "text": text,
                 "url": absolute_url,
             })
+
+        return results
+
+    def extract_table(self, table_id, field_map):
+        """Extract selected fields from the current page's table body.
+
+        Args:
+            table_id: The HTML ID of the table to read.
+            field_map: A dictionary mapping data-stat values to output keys.
+
+        Returns:
+            A list of dictionaries containing stripped cell text.
+            Empty cells are preserved as empty strings.
+
+        Raises:
+            RuntimeError: If the browser has not been started.
+        """
+        if self.page is None:
+            raise RuntimeError("Start the browser before extracting table.")
+
+        rows_locator = self.page.locator(f"#{table_id} tbody tr")
+        rows_locator.first.wait_for(state="attached")
+
+        results = []
+
+        for row in rows_locator.all():
+
+            salary = {}
+
+            for source_field, output_field in field_map.items():
+
+                cell = row.locator(f'[data-stat="{source_field}"]')
+                value = cell.inner_text().strip()
+
+                salary[output_field] = value
+
+            results.append(salary)
 
         return results
