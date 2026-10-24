@@ -1,9 +1,10 @@
 import csv
 from io import StringIO
 import pandas as pd
+from pathlib import Path
 
 class CsvParser:
-    """Parse exported CSV tables and normalize columns and dates."""
+    """Parse CSV exports, normalize table data, and save CSV files."""
 
     def parse_export(self, csv_text, required_columns, drop_columns=None):
         """Parse an exported CSV table into a string-valued DataFrame.
@@ -101,3 +102,59 @@ class CsvParser:
             )
 
         return cleaned_df
+
+    def normalize_currency(self, df, columns):
+        """Convert dollar amounts to nullable integer columns.
+
+        Args:
+            df: The DataFrame containing currency columns.
+            columns: Names of the currency columns to convert.
+
+        Returns:
+            A new DataFrame with currency columns converted to Int64.
+            Empty amounts are preserved as missing values.
+
+        Raises:
+            KeyError: If a specified column does not exist.
+            ValueError: If a non-empty amount cannot be converted.
+        """
+        clean_df = df.copy()
+
+        for column in columns:
+            amounts = (
+                clean_df[column]
+                .str.replace("$", "", regex=False)
+                .str.replace(",", "", regex=False)
+                .str.strip()
+                .replace("", pd.NA)
+            )
+
+            clean_df[column] = pd.to_numeric(
+                amounts,
+                errors="raise",
+            ).astype("Int64")
+
+        return clean_df
+
+    def save_csv(self, df, file_path):
+        """Save a DataFrame as CSV, creating parent directories if needed.
+
+        Args:
+            df: The DataFrame to save.
+            file_path: The destination CSV file path.
+
+        Returns:
+            A pathlib.Path pointing to the saved CSV file.
+
+        Raises:
+            OSError: If the destination directory or file cannot be written.
+        """
+        path = Path(file_path)
+        path.parent.mkdir(parents=True, exist_ok=True)
+        df.to_csv(
+            path,
+            index=False,
+            encoding="utf-8-sig",
+            date_format="%Y-%m-%d",
+        )
+        return path

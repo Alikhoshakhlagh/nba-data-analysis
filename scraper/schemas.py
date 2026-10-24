@@ -144,3 +144,15 @@ MVP_COLUMN_MAP = {
     "WS": "win_shares",
     "WS/48": "win_shares_per_48_minutes",
 }
+
+SALARY_TABLE_ID = "salaries2"
+
+SALARY_FIELD_MAP = {
+    "ranker": "rank",
+    "player": "player_name",
+    "salary": "salary_usd",
+}
+
+SALARY_AMOUNT_COLUMNS = [
+    "salary_usd",
+]

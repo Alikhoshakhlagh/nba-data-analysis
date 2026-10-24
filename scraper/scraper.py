@@ -286,33 +286,72 @@ class BasketballScraper:
             "champion": champion_df,
         }
 
-    def scrape_season_rosters(self, teams, season):
-        """Extract and combine rosters for all supplied teams in a season.
+    def scrape_season_team_data(self, teams, season):
+        """Extract rosters and salaries for every team in a season.
 
         Args:
             teams: A list of dictionaries containing team_name and url.
             season: The season label, such as "2023-24".
 
         Returns:
-            A combined roster DataFrame with season and team_name columns
-            and a continuous index.
+            A dictionary mapping rosters and salaries to their combined
+            DataFrames, with season and team_name included.
 
         Raises:
             RuntimeError: If navigation fails or a team page is unexpected.
-            ValueError: If header detection or date parsing fails.
             KeyError: If a configured column is missing.
+            ValueError: If parsing or data conversion fails.
         """
         data_frames = []
+        salary = []
 
         for team in teams:
             data_frames.append(self.scrape_roster(team["url"], season, team["team_name"]))
+            salary.append(self.scrape_salaries(season, team["team_name"]))
 
         combined_df = pd.concat(
             data_frames,
             ignore_index=True,
         )
 
-        return combined_df
+        combined_salary = pd.concat(
+            salary,
+            ignore_index=True,
+        )
+
+        return {
+            "rosters": combined_df,
+            "salaries": combined_salary,
+        }
+
+    def scrape_salaries(self, season, team_name):
+        """Extract and process salaries from the currently open team page.
+
+        Args:
+            season: The season label, such as "2023-24".
+            team_name: The team name to include in the output.
+
+        Returns:
+            A DataFrame containing rank, player_name, salary_usd,
+            season, and team_name. Missing salaries are preserved.
+
+        Raises:
+            RuntimeError: If the browser has not been started.
+            KeyError: If a configured column is missing.
+            ValueError: If a non-empty salary cannot be converted.
+        """
+        rows = self.browser.extract_table(SALARY_TABLE_ID, SALARY_FIELD_MAP)
+
+        df = pd.DataFrame(rows, dtype="string")
+        df = df.loc[df["salary_usd"] != "Salary"].copy()
+
+        normalized_df = self.parser.normalize_currency(df, SALARY_AMOUNT_COLUMNS)
+
+        normalized_df["season"] = season
+        normalized_df["team_name"] = team_name
+
+        return normalized_df
+
 
     def scrape_season(self, end_year):
         """Extract all required datasets for a season.
@@ -321,7 +360,7 @@ class BasketballScraper:
             end_year: The calendar year in which the season ends.
 
         Returns:
-            A dictionary mapping dataset names to seven processed DataFrames.
+            A dictionary mapping dataset names to eight processed DataFrames.
 
         Raises:
             RuntimeError: If navigation fails or a page is unexpected.
@@ -341,10 +380,11 @@ class BasketballScraper:
         totals = self.scrape_totals(totals_url, time_period)
         advanced = self.scrape_advanced(advanced_url, time_period)
         mvp_voting = self.scrape_mvp_voting(mvp_url, time_period)
-        rosters = self.scrape_season_rosters(overview["teams"], time_period)
+        team_data = self.scrape_season_team_data(overview["teams"], time_period)
 
         return {
-            "rosters": rosters,
+            "rosters": team_data["rosters"],
+            "salaries": team_data["salaries"],
             "totals_regular": totals["regular_season"],
             "totals_playoffs": totals["playoffs"],
             "advanced_regular": advanced["regular_season"],

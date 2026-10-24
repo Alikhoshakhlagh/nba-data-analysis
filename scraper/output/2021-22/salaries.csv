@@ -1,0 +1,748 @@
+﻿rank,player_name,salary_usd,season,team_name
+1,Karl-Anthony Towns,31650600,2021-22,Minnesota Timberwolves
+2,D'Angelo Russell,30013500,2021-22,Minnesota Timberwolves
+3,Malik Beasley,14391964,2021-22,Minnesota Timberwolves
+4,Patrick Beverley,14320988,2021-22,Minnesota Timberwolves
+5,Taurean Prince,13000000,2021-22,Minnesota Timberwolves
+6,Anthony Edwards,10245480,2021-22,Minnesota Timberwolves
+7,Josh Okogie,4087904,2021-22,Minnesota Timberwolves
+8,Jarred Vanderbilt,4000000,2021-22,Minnesota Timberwolves
+9,Jake Layman,3940184,2021-22,Minnesota Timberwolves
+10,Leandro Bolmaro,2353320,2021-22,Minnesota Timberwolves
+11,Jaden McDaniels,2063280,2021-22,Minnesota Timberwolves
+12,Jordan McLaughlin,2000000,2021-22,Minnesota Timberwolves
+13,Jaylen Nowell,1782621,2021-22,Minnesota Timberwolves
+14,Naz Reid,1782621,2021-22,Minnesota Timberwolves
+15,Greg Monroe,193227,2021-22,Minnesota Timberwolves
+16,Chris Silva,95930,2021-22,Minnesota Timberwolves
+17,Rayjon Tucker,95930,2021-22,Minnesota Timberwolves
+18,Nathan Knight,0,2021-22,Minnesota Timberwolves
+19,McKinley Wright,0,2021-22,Minnesota Timberwolves
+1,Steven Adams,17073171,2021-22,Memphis Grizzlies
+2,Dillon Brooks,12200000,2021-22,Memphis Grizzlies
+3,Kyle Anderson,9937150,2021-22,Memphis Grizzlies
+4,Ja Morant,9603360,2021-22,Memphis Grizzlies
+5,Jaren Jackson,9180560,2021-22,Memphis Grizzlies
+6,De'Anthony Melton,8805976,2021-22,Memphis Grizzlies
+7,Tyus Jones,7600000,2021-22,Memphis Grizzlies
+8,Jarrett Culver,6395160,2021-22,Memphis Grizzlies
+9,Kris Dunn,5005350,2021-22,Memphis Grizzlies
+10,Rajon Rondo,4858309,2021-22,Memphis Grizzlies
+11,Ziaire Williams,4373160,2021-22,Memphis Grizzlies
+12,Brandon Clarke,2726880,2021-22,Memphis Grizzlies
+13,Marc Gasol,2692991,2021-22,Memphis Grizzlies
+14,John Konchar,2200000,2021-22,Memphis Grizzlies
+15,Desmond Bane,2033160,2021-22,Memphis Grizzlies
+16,Santi Aldama,1994520,2021-22,Memphis Grizzlies
+17,Killian Tillie,1901625,2021-22,Memphis Grizzlies
+18,Carsen Edwards,1782621,2021-22,Memphis Grizzlies
+19,Sam Merrill,1517981,2021-22,Memphis Grizzlies
+20,Daniel Oturu,1517981,2021-22,Memphis Grizzlies
+21,Xavier Tillman,1517981,2021-22,Memphis Grizzlies
+22,Jontay Porter,300000,2021-22,Memphis Grizzlies
+23,Dakota Mathias,106352,2021-22,Memphis Grizzlies
+24,Shaquille Harrison,102831,2021-22,Memphis Grizzlies
+25,DaQuan Jeffries,95930,2021-22,Memphis Grizzlies
+26,Tyrell Terry,85578,2021-22,Memphis Grizzlies
+27,Shaq Buchanan,53176,2021-22,Memphis Grizzlies
+28,Xavier Sneed,53176,2021-22,Memphis Grizzlies
+29,Jon Teske,53176,2021-22,Memphis Grizzlies
+30,Yves Pons,0,2021-22,Memphis Grizzlies
+1,Giannis Antetokounmpo,39344970,2021-22,Milwaukee Bucks
+2,Khris Middleton,35500000,2021-22,Milwaukee Bucks
+3,Jrue Holiday,30133333,2021-22,Milwaukee Bucks
+4,Brook Lopez,13302325,2021-22,Milwaukee Bucks
+5,Serge Ibaka,9720900,2021-22,Milwaukee Bucks
+6,Pat Connaughton,5333333,2021-22,Milwaukee Bucks
+7,Bobby Portis,4347600,2021-22,Milwaukee Bucks
+8,Grayson Allen,4054695,2021-22,Milwaukee Bucks
+9,George Hill,4000000,2021-22,Milwaukee Bucks
+10,Jon Leuer,3169347,2021-22,Milwaukee Bucks
+11,Wesley Matthews,1958501,2021-22,Milwaukee Bucks
+12,Larry Sanders,1865547,2021-22,Milwaukee Bucks
+13,Thanasis Antetokounmpo,1729217,2021-22,Milwaukee Bucks
+14,Jordan Nwora,1517981,2021-22,Milwaukee Bucks
+15,DeMarcus Cousins,607285,2021-22,Milwaukee Bucks
+16,DeAndre' Bembry,601867,2021-22,Milwaukee Bucks
+17,Georgios Kalaitzakis,462629,2021-22,Milwaukee Bucks
+18,Jevon Carter,457149,2021-22,Milwaukee Bucks
+19,Greg Monroe,138019,2021-22,Milwaukee Bucks
+20,Langston Galloway,128709,2021-22,Milwaukee Bucks
+21,Luke Kornet,102831,2021-22,Milwaukee Bucks
+22,Jeff Dowtin,53176,2021-22,Milwaukee Bucks
+23,Javin DeLaurier,53176,2021-22,Milwaukee Bucks
+24,Luca Vildoza,42789,2021-22,Milwaukee Bucks
+25,Rayjon Tucker,28779,2021-22,Milwaukee Bucks
+26,Sandro Mamukelashvili,0,2021-22,Milwaukee Bucks
+27,Justin Robinson,0,2021-22,Milwaukee Bucks
+28,Javonte Smart,0,2021-22,Milwaukee Bucks
+29,Lindell Wigginton,0,2021-22,Milwaukee Bucks
+1,Gordon Hayward,29925000,2021-22,Charlotte Hornets
+2,Terry Rozier,17905263,2021-22,Charlotte Hornets
+3,Kelly Oubre,12000000,2021-22,Charlotte Hornets
+4,Montrezl Harrell,9720900,2021-22,Charlotte Hornets
+5,Nicolas Batum,8856969,2021-22,Charlotte Hornets
+6,LaMelo Ball,8231760,2021-22,Charlotte Hornets
+7,Mason Plumlee,8137500,2021-22,Charlotte Hornets
+8,Miles Bridges,5421493,2021-22,Charlotte Hornets
+9,P.J. Washington,4215120,2021-22,Charlotte Hornets
+10,James Bouknight,4154400,2021-22,Charlotte Hornets
+11,Kai Jones,2770560,2021-22,Charlotte Hornets
+12,Wes Iwundu,1824003,2021-22,Charlotte Hornets
+13,Cody Martin,1782621,2021-22,Charlotte Hornets
+14,Jalen McDaniels,1782621,2021-22,Charlotte Hornets
+15,Nick Richards,1517981,2021-22,Charlotte Hornets
+16,JT Thor,1250000,2021-22,Charlotte Hornets
+17,Isaiah Thomas,552077,2021-22,Charlotte Hornets
+18,Scottie Lewis,0,2021-22,Charlotte Hornets
+19,Arnoldas Kulboka,0,2021-22,Charlotte Hornets
+1,Devin Booker,31650600,2021-22,Phoenix Suns
+2,Chris Paul,30800000,2021-22,Phoenix Suns
+3,Deandre Ayton,12632950,2021-22,Phoenix Suns
+4,Jae Crowder,9720900,2021-22,Phoenix Suns
+5,Dario Šarić,8510000,2021-22,Phoenix Suns
+6,Cameron Payne,6500000,2021-22,Phoenix Suns
+7,Mikal Bridges,5557725,2021-22,Phoenix Suns
+8,JaVale McGee,5000000,2021-22,Phoenix Suns
+9,Torrey Craig,4878049,2021-22,Phoenix Suns
+10,Cameron Johnson,4437000,2021-22,Phoenix Suns
+11,Aaron Holiday,3980551,2021-22,Phoenix Suns
+12,Landry Shamet,3768342,2021-22,Phoenix Suns
+13,Elfrid Payton,2239544,2021-22,Phoenix Suns
+14,Frank Kaminsky,2089448,2021-22,Phoenix Suns
+15,Abdel Nader,2000000,2021-22,Phoenix Suns
+16,Bismack Biyombo,1518213,2021-22,Phoenix Suns
+17,Justin Jackson,205662,2021-22,Phoenix Suns
+18,Paris Bass,106352,2021-22,Phoenix Suns
+19,Emanuel Terry,85578,2021-22,Phoenix Suns
+20,M.J. Walker,53176,2021-22,Phoenix Suns
+21,Ish Wainright,8558,2021-22,Phoenix Suns
+22,Gabriel Lundberg,0,2021-22,Phoenix Suns
+23,Chandler Hutchison,0,2021-22,Phoenix Suns
+1,John Collins,23000000,2021-22,Atlanta Hawks
+2,Danilo Gallinari,20475000,2021-22,Atlanta Hawks
+3,Bogdan Bogdanović,18000000,2021-22,Atlanta Hawks
+4,Clint Capela,17103448,2021-22,Atlanta Hawks
+5,Delon Wright,8526316,2021-22,Atlanta Hawks
+6,Trae Young,8326471,2021-22,Atlanta Hawks
+7,De'Andre Hunter,7775400,2021-22,Atlanta Hawks
+8,Onyeka Okongwu,6104280,2021-22,Atlanta Hawks
+9,Kevin Knox,5845978,2021-22,Atlanta Hawks
+10,Lou Williams,5000000,2021-22,Atlanta Hawks
+11,Kevin Huerter,4253357,2021-22,Atlanta Hawks
+12,Gorgui Dieng,4000000,2021-22,Atlanta Hawks
+13,Jalen Johnson,2659560,2021-22,Atlanta Hawks
+14,Timothé Luwawu-Cabarrot,1939350,2021-22,Atlanta Hawks
+15,Lance Stephenson,138019,2021-22,Atlanta Hawks
+16,Wes Iwundu,102831,2021-22,Atlanta Hawks
+17,Chris Clemons,95930,2021-22,Atlanta Hawks
+18,Cameron Oliver,85578,2021-22,Atlanta Hawks
+19,Malcolm Hill,53176,2021-22,Atlanta Hawks
+20,Malik Ellison,53176,2021-22,Atlanta Hawks
+21,Justin Tillman,53176,2021-22,Atlanta Hawks
+22,Chaundee Brown,53176,2021-22,Atlanta Hawks
+23,Cat Barber,53176,2021-22,Atlanta Hawks
+24,Skylar Mays,34231,2021-22,Atlanta Hawks
+25,Sharife Cooper,0,2021-22,Atlanta Hawks
+1,Rudy Gobert,35344828,2021-22,Utah Jazz
+2,Donovan Mitchell,28103500,2021-22,Utah Jazz
+3,Mike Conley,21000000,2021-22,Utah Jazz
+4,Bojan Bogdanović,18502000,2021-22,Utah Jazz
+5,Jordan Clarkson,12420000,2021-22,Utah Jazz
+6,Royce O'Neale,8800000,2021-22,Utah Jazz
+7,Juancho Hernangómez,6175440,2021-22,Utah Jazz
+8,Rudy Gay,5890000,2021-22,Utah Jazz
+9,Nickeil Alexander-Walker,3261480,2021-22,Utah Jazz
+10,Hassan Whiteside,2401537,2021-22,Utah Jazz
+11,Udoka Azubuike,2075880,2021-22,Utah Jazz
+12,Eric Paschall,1782621,2021-22,Utah Jazz
+13,Danuel House,991967,2021-22,Utah Jazz
+14,Jared Butler,925258,2021-22,Utah Jazz
+15,Greg Monroe,138019,2021-22,Utah Jazz
+16,Denzel Valentine,111457,2021-22,Utah Jazz
+17,Norvel Pelle,95930,2021-22,Utah Jazz
+18,Zylan Cheatham,89057,2021-22,Utah Jazz
+19,Jarrell Brantley,84414,2021-22,Utah Jazz
+20,Trent Forrest,8558,2021-22,Utah Jazz
+21,Malik Fitts,0,2021-22,Utah Jazz
+22,Justin James,0,2021-22,Utah Jazz
+23,Xavier Sneed,0,2021-22,Utah Jazz
+1,Goran Dragić,18620165,2021-22,San Antonio Spurs
+2,Dejounte Murray,15428880,2021-22,San Antonio Spurs
+3,Doug McDermott,13750000,2021-22,San Antonio Spurs
+4,Josh Richardson,11615328,2021-22,San Antonio Spurs
+5,Al-Farouq Aminu,10183800,2021-22,San Antonio Spurs
+6,Tomáš Satoranský,9531881,2021-22,San Antonio Spurs
+7,Jakob Poeltl,8750000,2021-22,San Antonio Spurs
+8,Zach Collins,7000000,2021-22,San Antonio Spurs
+9,Lonnie Walker,4447896,2021-22,San Antonio Spurs
+10,Devin Vassell,4235160,2021-22,San Antonio Spurs
+11,Chandler Hutchison,4019459,2021-22,San Antonio Spurs
+12,Joshua Primo,3946800,2021-22,San Antonio Spurs
+13,Romeo Langford,3804360,2021-22,San Antonio Spurs
+14,Luka Šamanić,2959080,2021-22,San Antonio Spurs
+15,Keldon Johnson,2145720,2021-22,San Antonio Spurs
+16,Keita Bates-Diop,1729217,2021-22,San Antonio Spurs
+17,Tre Jones,1517981,2021-22,San Antonio Spurs
+18,DeMarre Carroll,1242340,2021-22,San Antonio Spurs
+19,Jock Landale,925258,2021-22,San Antonio Spurs
+20,Devontae Cacok,364533,2021-22,San Antonio Spurs
+21,Joe Wieskamp,202068,2021-22,San Antonio Spurs
+22,Tyler Johnson,128709,2021-22,San Antonio Spurs
+23,Jaylen Morris,95930,2021-22,San Antonio Spurs
+24,Anthony Lamb,85578,2021-22,San Antonio Spurs
+25,D. J. Stewart,0,2021-22,San Antonio Spurs
+26,Robert Woodard,0,2021-22,San Antonio Spurs
+1,Kevin Durant,40918900,2021-22,Brooklyn Nets
+2,Kyrie Irving,34916200,2021-22,Brooklyn Nets
+3,Ben Simmons,33003936,2021-22,Brooklyn Nets
+4,Joe Harris,17357143,2021-22,Brooklyn Nets
+5,Seth Curry,8207518,2021-22,Brooklyn Nets
+6,Patty Mills,5890000,2021-22,Brooklyn Nets
+7,Bruce Brown,4736102,2021-22,Brooklyn Nets
+8,Jevon Carter,3650000,2021-22,Brooklyn Nets
+9,James Johnson,2641691,2021-22,Brooklyn Nets
+10,Blake Griffin,2641691,2021-22,Brooklyn Nets
+11,LaMarcus Aldridge,2641691,2021-22,Brooklyn Nets
+12,Andre Drummond,2401537,2021-22,Brooklyn Nets
+13,Edmond Sumner,2320000,2021-22,Brooklyn Nets
+14,Jahlil Okafor,2130023,2021-22,Brooklyn Nets
+15,Cam Thomas,2036280,2021-22,Brooklyn Nets
+16,Day'Ron Sharpe,2009040,2021-22,Brooklyn Nets
+17,DeAndre' Bembry,1939350,2021-22,Brooklyn Nets
+18,Nic Claxton,1782621,2021-22,Brooklyn Nets
+19,Goran Dragić,728742,2021-22,Brooklyn Nets
+20,Langston Galloway,257418,2021-22,Brooklyn Nets
+21,Shaquille Harrison,205662,2021-22,Brooklyn Nets
+22,James Ennis,126528,2021-22,Brooklyn Nets
+23,Wenyen Gabriel,99380,2021-22,Brooklyn Nets
+24,Kessler Edwards,5318,2021-22,Brooklyn Nets
+25,David Duke,0,2021-22,Brooklyn Nets
+1,Nikola Jokić,30510423,2021-22,Denver Nuggets
+2,Jamal Murray,29467800,2021-22,Denver Nuggets
+3,Aaron Gordon,16409091,2021-22,Denver Nuggets
+4,Will Barton,15625000,2021-22,Denver Nuggets
+5,Monte Morris,8849071,2021-22,Denver Nuggets
+6,JaMychal Green,8200000,2021-22,Denver Nuggets
+7,Michael Porter,5258735,2021-22,Denver Nuggets
+8,Jeff Green,4500000,2021-22,Denver Nuggets
+9,Bryn Forbes,4500000,2021-22,Denver Nuggets
+10,Facundo Campazzo,2975000,2021-22,Denver Nuggets
+11,Zeke Nnaji,2498760,2021-22,Denver Nuggets
+12,Austin Rivers,2401537,2021-22,Denver Nuggets
+13,Bones Hyland,2096880,2021-22,Denver Nuggets
+14,Vlatko Čančar,1782621,2021-22,Denver Nuggets
+15,DeMarcus Cousins,1138659,2021-22,Denver Nuggets
+16,Davon Reed,286164,2021-22,Denver Nuggets
+17,James Ennis,128709,2021-22,Denver Nuggets
+18,Rayjon Tucker,95930,2021-22,Denver Nuggets
+19,Carlik Jones,53176,2021-22,Denver Nuggets
+20,Markus Howard,0,2021-22,Denver Nuggets
+21,Petr Cornelie,0,2021-22,Denver Nuggets
+1,Russell Westbrook,44211146,2021-22,Los Angeles Lakers
+2,LeBron James,41180544,2021-22,Los Angeles Lakers
+3,Anthony Davis,35361360,2021-22,Los Angeles Lakers
+4,Talen Horton-Tucker,9500000,2021-22,Los Angeles Lakers
+5,Kendrick Nunn,5000000,2021-22,Los Angeles Lakers
+6,Luol Deng,5000000,2021-22,Los Angeles Lakers
+7,Dwight Howard,2641691,2021-22,Los Angeles Lakers
+8,DeAndre Jordan,2641691,2021-22,Los Angeles Lakers
+9,Carmelo Anthony,2641691,2021-22,Los Angeles Lakers
+10,Wayne Ellington,2641691,2021-22,Los Angeles Lakers
+11,Avery Bradley,2641691,2021-22,Los Angeles Lakers
+12,Trevor Ariza,2641691,2021-22,Los Angeles Lakers
+13,Kent Bazemore,2401537,2021-22,Los Angeles Lakers
+14,Malik Monk,1789256,2021-22,Los Angeles Lakers
+15,Stanley Johnson,1248865,2021-22,Los Angeles Lakers
+16,Austin Reaves,925258,2021-22,Los Angeles Lakers
+17,D.J. Augustin,622467,2021-22,Los Angeles Lakers
+18,Darren Collison,151821,2021-22,Los Angeles Lakers
+19,Isaiah Thomas,138019,2021-22,Los Angeles Lakers
+20,Jemerrio Jones,85578,2021-22,Los Angeles Lakers
+21,Wenyen Gabriel,29814,2021-22,Los Angeles Lakers
+22,Sekou Doumbouya,0,2021-22,Los Angeles Lakers
+23,Chaundee Brown,0,2021-22,Los Angeles Lakers
+24,Jay Huff,0,2021-22,Los Angeles Lakers
+25,Mason Jones,0,2021-22,Los Angeles Lakers
+26,Mac McClung,0,2021-22,Los Angeles Lakers
+1,Jayson Tatum,28103550,2021-22,Boston Celtics
+2,Al Horford,27000000,2021-22,Boston Celtics
+3,Jaylen Brown,24830357,2021-22,Boston Celtics
+4,Derrick White,15178571,2021-22,Boston Celtics
+5,Marcus Smart,13839285,2021-22,Boston Celtics
+6,Daniel Theis,8280351,2021-22,Boston Celtics
+7,Robert Williams,3661976,2021-22,Boston Celtics
+8,Aaron Nesmith,3631200,2021-22,Boston Celtics
+9,Grant Williams,2617800,2021-22,Boston Celtics
+10,Payton Pritchard,2137440,2021-22,Boston Celtics
+11,Jabari Parker,1168288,2021-22,Boston Celtics
+12,Guerschon Yabusele,1039080,2021-22,Boston Celtics
+13,Luke Kornet,606702,2021-22,Boston Celtics
+14,Nik Stauskas,423536,2021-22,Boston Celtics
+15,Malik Fitts,402218,2021-22,Boston Celtics
+16,Sam Hauser,313737,2021-22,Boston Celtics
+17,Kelan Martin,191860,2021-22,Boston Celtics
+18,C.J. Miles,151821,2021-22,Boston Celtics
+19,Al-Farouq Aminu,151821,2021-22,Boston Celtics
+20,Joe Johnson,151821,2021-22,Boston Celtics
+21,Juwan Morgan,115116,2021-22,Boston Celtics
+22,Justin Jackson,102831,2021-22,Boston Celtics
+23,Norvel Pelle,95930,2021-22,Boston Celtics
+24,Demetrius Jackson,92857,2021-22,Boston Celtics
+25,Matt Ryan,0,2021-22,Boston Celtics
+26,Brodric Thomas,0,2021-22,Boston Celtics
+1,DeMar DeRozan,26000000,2021-22,Chicago Bulls
+2,Nikola Vučević,24000000,2021-22,Chicago Bulls
+3,Zach LaVine,19500000,2021-22,Chicago Bulls
+4,Lonzo Ball,18604651,2021-22,Chicago Bulls
+5,Derrick Jones,9720900,2021-22,Chicago Bulls
+6,Alex Caruso,8604651,2021-22,Chicago Bulls
+7,Patrick Williams,7422000,2021-22,Chicago Bulls
+8,Coby White,5837760,2021-22,Chicago Bulls
+9,Troy Brown,5170564,2021-22,Chicago Bulls
+10,Tony Bradley,1789256,2021-22,Chicago Bulls
+11,Javonte Green,1669178,2021-22,Chicago Bulls
+12,Matt Thomas,1669178,2021-22,Chicago Bulls
+13,Alfonzo McKinnie,1293926,2021-22,Chicago Bulls
+14,Tristan Thompson,1000000,2021-22,Chicago Bulls
+15,Ayo Dosunmu,925258,2021-22,Chicago Bulls
+16,Marko Simonovic,925258,2021-22,Chicago Bulls
+17,Alize Johnson,705598,2021-22,Chicago Bulls
+18,Ersan İlyasova,151821,2021-22,Chicago Bulls
+19,Stanley Johnson,120083,2021-22,Chicago Bulls
+20,Mac McClung,106352,2021-22,Chicago Bulls
+21,Jordan Bell,102831,2021-22,Chicago Bulls
+22,Malcolm Hill,53176,2021-22,Chicago Bulls
+23,Devon Dotson,0,2021-22,Chicago Bulls
+24,Tyler Cook,0,2021-22,Chicago Bulls
+1,Buddy Hield,22477273,2021-22,Indiana Pacers
+2,Malcolm Brogdon,21700000,2021-22,Indiana Pacers
+3,Ricky Rubio,17800000,2021-22,Indiana Pacers
+4,Myles Turner,17500000,2021-22,Indiana Pacers
+5,T.J. Warren,12690000,2021-22,Indiana Pacers
+6,Tristan Thompson,8946611,2021-22,Indiana Pacers
+7,T.J. McConnell,7500000,2021-22,Indiana Pacers
+8,Jalen Smith,4458000,2021-22,Indiana Pacers
+9,Tyrese Haliburton,4023600,2021-22,Indiana Pacers
+10,Chris Duarte,3749520,2021-22,Indiana Pacers
+11,Goga Bitadze,3098400,2021-22,Indiana Pacers
+12,Isaiah Jackson,2451120,2021-22,Indiana Pacers
+13,Monta Ellis,2245400,2021-22,Indiana Pacers
+14,Oshae Brissett,1701593,2021-22,Indiana Pacers
+15,Lance Stephenson,1476806,2021-22,Indiana Pacers
+16,Duane Washington,950000,2021-22,Indiana Pacers
+17,Brad Wanamaker,715538,2021-22,Indiana Pacers
+18,Terry Taylor,600000,2021-22,Indiana Pacers
+19,Keifer Sykes,558345,2021-22,Indiana Pacers
+20,Justin Anderson,334371,2021-22,Indiana Pacers
+21,Reggie Perry,85578,2021-22,Indiana Pacers
+22,Nate Hinton,85578,2021-22,Indiana Pacers
+23,Ahmad Caver,53176,2021-22,Indiana Pacers
+24,DeJon Jarreau,0,2021-22,Indiana Pacers
+25,Gabe York,0,2021-22,Indiana Pacers
+1,Stephen Curry,45780966,2021-22,Golden State Warriors
+2,Klay Thompson,37980720,2021-22,Golden State Warriors
+3,Andrew Wiggins,31579390,2021-22,Golden State Warriors
+4,Draymond Green,24026712,2021-22,Golden State Warriors
+5,James Wiseman,9166800,2021-22,Golden State Warriors
+6,Jonathan Kuminga,5466360,2021-22,Golden State Warriors
+7,Kevon Looney,5178572,2021-22,Golden State Warriors
+8,Moses Moody,3562080,2021-22,Golden State Warriors
+9,Andre Iguodala,2641691,2021-22,Golden State Warriors
+10,Otto Porter,2389641,2021-22,Golden State Warriors
+11,Jordan Poole,2161440,2021-22,Golden State Warriors
+12,Nemanja Bjelica,2089448,2021-22,Golden State Warriors
+13,Gary Payton,1939350,2021-22,Golden State Warriors
+14,Damion Lee,1910860,2021-22,Golden State Warriors
+15,Juan Toscano-Anderson,1701593,2021-22,Golden State Warriors
+16,Shaun Livingston,666667,2021-22,Golden State Warriors
+17,Quinndary Weatherspoon,95930,2021-22,Golden State Warriors
+18,Jeff Dowtin,0,2021-22,Golden State Warriors
+19,Chris Chiozza,0,2021-22,Golden State Warriors
+1,De'Aaron Fox,28103500,2021-22,Sacramento Kings
+2,Harrison Barnes,20284091,2021-22,Sacramento Kings
+3,Domantas Sabonis,18500000,2021-22,Sacramento Kings
+4,Jeremy Lamb,10500000,2021-22,Sacramento Kings
+5,Richaun Holmes,10384500,2021-22,Sacramento Kings
+6,Justin Holiday,6006420,2021-22,Sacramento Kings
+7,Josh Jackson,5005350,2021-22,Sacramento Kings
+8,Donte DiVincenzo,4675830,2021-22,Sacramento Kings
+9,Davion Mitchell,4603200,2021-22,Sacramento Kings
+10,Maurice Harkless,4347600,2021-22,Sacramento Kings
+11,Terence Davis,4000000,2021-22,Sacramento Kings
+12,Alex Len,3732000,2021-22,Sacramento Kings
+13,Trey Lyles,2500000,2021-22,Sacramento Kings
+14,Damian Jones,1977011,2021-22,Sacramento Kings
+15,Chimezie Metu,1762796,2021-22,Sacramento Kings
+16,Jahmi'us Ramsey,1517981,2021-22,Sacramento Kings
+17,Robert Woodard,1517981,2021-22,Sacramento Kings
+18,Emmanuel Mudiay,111457,2021-22,Sacramento Kings
+19,Justin Robinson,94304,2021-22,Sacramento Kings
+20,Ade Murkey,53176,2021-22,Sacramento Kings
+21,Louis King,0,2021-22,Sacramento Kings
+22,Neemias Queta,0,2021-22,Sacramento Kings
+1,Jimmy Butler,36016200,2021-22,Miami Heat
+2,Bam Adebayo,28103550,2021-22,Miami Heat
+3,Kyle Lowry,26984128,2021-22,Miami Heat
+4,Duncan Robinson,15560000,2021-22,Miami Heat
+5,P.J. Tucker,7000000,2021-22,Miami Heat
+6,Ryan Anderson,5214584,2021-22,Miami Heat
+7,Tyler Herro,4004280,2021-22,Miami Heat
+8,Udonis Haslem,2641691,2021-22,Miami Heat
+9,Markieff Morris,2641691,2021-22,Miami Heat
+10,Dewayne Dedmon,2389641,2021-22,Miami Heat
+11,Victor Oladipo,2389641,2021-22,Miami Heat
+12,Gabe Vincent,1669178,2021-22,Miami Heat
+13,Max Strus,1669178,2021-22,Miami Heat
+14,Omer Yurtseven,1489065,2021-22,Miami Heat
+15,Haywood Highsmith,547701,2021-22,Miami Heat
+16,Caleb Martin,527615,2021-22,Miami Heat
+17,Chris Silva,383720,2021-22,Miami Heat
+18,Kyle Guy,191860,2021-22,Miami Heat
+19,Mario Chalmers,138019,2021-22,Miami Heat
+20,Nik Stauskas,111457,2021-22,Miami Heat
+21,Zylan Cheatham,85578,2021-22,Miami Heat
+22,Aric Holman,53176,2021-22,Miami Heat
+23,Javonte Smart,0,2021-22,Miami Heat
+24,Mychal Mulder,0,2021-22,Miami Heat
+25,Marcus Garrett,0,2021-22,Miami Heat
+1,James Harden,44310840,2021-22,Philadelphia 76ers
+2,Tobias Harris,35995950,2021-22,Philadelphia 76ers
+3,Joel Embiid,31579390,2021-22,Philadelphia 76ers
+4,Danny Green,10000000,2021-22,Philadelphia 76ers
+5,Furkan Korkmaz,4629630,2021-22,Philadelphia 76ers
+6,Georges Niang,3300000,2021-22,Philadelphia 76ers
+7,Matisse Thybulle,2840160,2021-22,Philadelphia 76ers
+8,Paul Millsap,2641691,2021-22,Philadelphia 76ers
+9,Tyrese Maxey,2602920,2021-22,Philadelphia 76ers
+10,Jaden Springer,2023680,2021-22,Philadelphia 76ers
+11,Shake Milton,1846738,2021-22,Philadelphia 76ers
+12,Paul Reed,1517981,2021-22,Philadelphia 76ers
+13,Isaiah Joe,1517981,2021-22,Philadelphia 76ers
+14,George Hill,1275491,2021-22,Philadelphia 76ers
+15,Charles Bassey,925258,2021-22,Philadelphia 76ers
+16,DeAndre Jordan,592103,2021-22,Philadelphia 76ers
+17,Tyler Johnson,128709,2021-22,Philadelphia 76ers
+18,Willie Cauley-Stein,120083,2021-22,Philadelphia 76ers
+19,Charlie Brown,95930,2021-22,Philadelphia 76ers
+20,Braxton Key,53176,2021-22,Philadelphia 76ers
+21,Grant Riller,0,2021-22,Philadelphia 76ers
+22,Myles Powell,0,2021-22,Philadelphia 76ers
+23,Aaron Henry,0,2021-22,Philadelphia 76ers
+24,Rayjon Tucker,0,2021-22,Philadelphia 76ers
+1,John Wall,44310840,2021-22,Houston Rockets
+2,Eric Gordon,18218818,2021-22,Houston Rockets
+3,Christian Wood,13666667,2021-22,Houston Rockets
+4,Jalen Green,8992200,2021-22,Houston Rockets
+5,D.J. Augustin,7000000,2021-22,Houston Rockets
+6,Dennis Schröder,5890000,2021-22,Houston Rockets
+7,David Nwaba,4650000,2021-22,Houston Rockets
+8,Sekou Doumbouya,3613680,2021-22,Houston Rockets
+9,Alperen Şengün,3214680,2021-22,Houston Rockets
+10,Enes Freedom,2641691,2021-22,Houston Rockets
+11,Usman Garuba,2353320,2021-22,Houston Rockets
+12,Josh Christopher,2259240,2021-22,Houston Rockets
+13,Garrison Mathews,2000000,2021-22,Houston Rockets
+14,Bruno Fernando,1782621,2021-22,Houston Rockets
+15,Kevin Porter,1782621,2021-22,Houston Rockets
+16,Kenyon Martin,1517981,2021-22,Houston Rockets
+17,Jae'Sean Tate,1517981,2021-22,Houston Rockets
+18,Armoni Brooks,1489065,2021-22,Houston Rockets
+19,Danuel House,1387498,2021-22,Houston Rockets
+20,Daishen Nix,612000,2021-22,Houston Rockets
+21,Troy Williams,122741,2021-22,Houston Rockets
+22,DeJon Jarreau,53176,2021-22,Houston Rockets
+23,Mfiondu Kabengele,19186,2021-22,Houston Rockets
+24,Anthony Lamb,0,2021-22,Houston Rockets
+25,Trevelin Queen,0,2021-22,Houston Rockets
+26,Tyler Bey,0,2021-22,Houston Rockets
+1,Pascal Siakam,33003936,2021-22,Toronto Raptors
+2,Fred VanVleet,19675926,2021-22,Toronto Raptors
+3,OG Anunoby,16071429,2021-22,Toronto Raptors
+4,Gary Trent,16000000,2021-22,Toronto Raptors
+5,Thaddeus Young,14190000,2021-22,Toronto Raptors
+6,Scottie Barnes,7280400,2021-22,Toronto Raptors
+7,Chris Boucher,7020000,2021-22,Toronto Raptors
+8,Khem Birch,6350000,2021-22,Toronto Raptors
+9,Precious Achiuwa,2711280,2021-22,Toronto Raptors
+10,Malachi Flynn,2048040,2021-22,Toronto Raptors
+11,Drew Eubanks,1762796,2021-22,Toronto Raptors
+12,Yuta Watanabe,1762796,2021-22,Toronto Raptors
+13,Svi Mykhailiuk,1729217,2021-22,Toronto Raptors
+14,Isaac Bonga,1729217,2021-22,Toronto Raptors
+15,Dalano Banton,925258,2021-22,Toronto Raptors
+16,Armoni Brooks,421156,2021-22,Toronto Raptors
+17,Sam Dekker,350000,2021-22,Toronto Raptors
+18,D.J. Wilson,308493,2021-22,Toronto Raptors
+19,Ish Wainright,250000,2021-22,Toronto Raptors
+20,Juwan Morgan,95930,2021-22,Toronto Raptors
+21,Tremont Waters,95930,2021-22,Toronto Raptors
+22,Daniel Oturu,85578,2021-22,Toronto Raptors
+23,David Johnson,0,2021-22,Toronto Raptors
+24,Justin Champagnie,0,2021-22,Toronto Raptors
+1,CJ McCollum,30864198,2021-22,New Orleans Pelicans
+2,Brandon Ingram,29467800,2021-22,New Orleans Pelicans
+3,Jonas Valančiūnas,14000000,2021-22,New Orleans Pelicans
+4,Devonte' Graham,11000000,2021-22,New Orleans Pelicans
+5,Zion Williamson,10733400,2021-22,New Orleans Pelicans
+6,Larry Nance,10690909,2021-22,New Orleans Pelicans
+7,Jaxson Hayes,5348280,2021-22,New Orleans Pelicans
+8,Garrett Temple,4910000,2021-22,New Orleans Pelicans
+9,Kira Lewis,3822240,2021-22,New Orleans Pelicans
+10,Trey Murphy,3053760,2021-22,New Orleans Pelicans
+11,Tony Snell,2389641,2021-22,New Orleans Pelicans
+12,Willy Hernangómez,2327220,2021-22,New Orleans Pelicans
+13,Herbert Jones,1700000,2021-22,New Orleans Pelicans
+14,Naji Marshall,1517981,2021-22,New Orleans Pelicans
+15,Jose Alvarado,1500000,2021-22,New Orleans Pelicans
+16,Gary Clark,377645,2021-22,New Orleans Pelicans
+17,Alize Johnson,198760,2021-22,New Orleans Pelicans
+18,Tyrone Wallace,191860,2021-22,New Orleans Pelicans
+19,Wenyen Gabriel,99380,2021-22,New Orleans Pelicans
+20,Justin James,95930,2021-22,New Orleans Pelicans
+21,Miye Oni,95930,2021-22,New Orleans Pelicans
+22,Jared Harper,95930,2021-22,New Orleans Pelicans
+23,Zylan Cheatham,89057,2021-22,New Orleans Pelicans
+24,Feron Hunt,53176,2021-22,New Orleans Pelicans
+25,Daulton Hommes,0,2021-22,New Orleans Pelicans
+26,Anthony Tolliver,0,2021-22,New Orleans Pelicans
+1,Bradley Beal,33724200,2021-22,Washington Wizards
+2,Kristaps Porziņģis,31650600,2021-22,Washington Wizards
+3,Kentavious Caldwell-Pope,13038862,2021-22,Washington Wizards
+4,Kyle Kuzma,13000000,2021-22,Washington Wizards
+5,Thomas Bryant,8666667,2021-22,Washington Wizards
+6,Rui Hachimura,4916160,2021-22,Washington Wizards
+7,Deni Avdija,4692840,2021-22,Washington Wizards
+8,Ish Smith,4500000,2021-22,Washington Wizards
+9,Corey Kispert,3383640,2021-22,Washington Wizards
+10,Raul Neto,2089448,2021-22,Washington Wizards
+11,Daniel Gafford,1782621,2021-22,Washington Wizards
+12,Anthony Gill,1517981,2021-22,Washington Wizards
+13,Vernon Carey,1517981,2021-22,Washington Wizards
+14,Isaiah Todd,1500000,2021-22,Washington Wizards
+15,Tomáš Satoranský,468119,2021-22,Washington Wizards
+16,Greg Monroe,138019,2021-22,Washington Wizards
+17,Alize Johnson,99380,2021-22,Washington Wizards
+18,Brad Wanamaker,99380,2021-22,Washington Wizards
+19,Tremont Waters,95930,2021-22,Washington Wizards
+20,Jordan Goodwin,53176,2021-22,Washington Wizards
+21,Jaime Echenique,53176,2021-22,Washington Wizards
+22,Jordan Schakel,53176,2021-22,Washington Wizards
+23,Craig Sword,53176,2021-22,Washington Wizards
+24,Cassius Winston,0,2021-22,Washington Wizards
+25,Joel Ayayi,0,2021-22,Washington Wizards
+1,Paul George,39344970,2021-22,Los Angeles Clippers
+2,Kawhi Leonard,39344900,2021-22,Los Angeles Clippers
+3,Marcus Morris,15627907,2021-22,Los Angeles Clippers
+4,Norman Powell,15517242,2021-22,Los Angeles Clippers
+5,Robert Covington,12975471,2021-22,Los Angeles Clippers
+6,Luke Kennard,12727273,2021-22,Los Angeles Clippers
+7,Reggie Jackson,10384500,2021-22,Los Angeles Clippers
+8,Ivica Zubac,7518518,2021-22,Los Angeles Clippers
+9,Nicolas Batum,3170029,2021-22,Los Angeles Clippers
+10,Rodney Hood,2239544,2021-22,Los Angeles Clippers
+11,Semi Ojeleye,1789256,2021-22,Los Angeles Clippers
+12,Terance Mann,1782621,2021-22,Los Angeles Clippers
+13,Isaiah Hartenstein,1729217,2021-22,Los Angeles Clippers
+14,Jason Preston,1062303,2021-22,Los Angeles Clippers
+15,Brandon Boston,925258,2021-22,Los Angeles Clippers
+16,Wenyen Gabriel,198760,2021-22,Los Angeles Clippers
+17,Xavier Moon,159528,2021-22,Los Angeles Clippers
+18,Amir Coffey,153488,2021-22,Los Angeles Clippers
+19,James Ennis,128709,2021-22,Los Angeles Clippers
+20,Moses Wright,53176,2021-22,Los Angeles Clippers
+21,Jay Scrubb,0,2021-22,Los Angeles Clippers
+1,Tim Hardaway,21306816,2021-22,Dallas Mavericks
+2,Spencer Dinwiddie,17142857,2021-22,Dallas Mavericks
+3,Dāvis Bertāns,16000000,2021-22,Dallas Mavericks
+4,Dwight Powell,11080125,2021-22,Dallas Mavericks
+5,Luka Dončić,10174391,2021-22,Dallas Mavericks
+6,Reggie Bullock,9536000,2021-22,Dallas Mavericks
+7,Maxi Kleber,8750000,2021-22,Dallas Mavericks
+8,Willie Cauley-Stein,4100000,2021-22,Dallas Mavericks
+9,Dorian Finney-Smith,4000000,2021-22,Dallas Mavericks
+10,Boban Marjanović,3500000,2021-22,Dallas Mavericks
+11,Trey Burke,3150000,2021-22,Dallas Mavericks
+12,Sterling Brown,3000000,2021-22,Dallas Mavericks
+13,Josh Green,2957520,2021-22,Dallas Mavericks
+14,Jalen Brunson,1802057,2021-22,Dallas Mavericks
+15,Frank Ntilikina,1789256,2021-22,Dallas Mavericks
+16,Moses Brown,1701593,2021-22,Dallas Mavericks
+17,Tyrell Terry,1517981,2021-22,Dallas Mavericks
+18,Marquese Chriss,1292900,2021-22,Dallas Mavericks
+19,Brandon Knight,276038,2021-22,Dallas Mavericks
+20,Theo Pinson,197076,2021-22,Dallas Mavericks
+21,Isaiah Thomas,138019,2021-22,Dallas Mavericks
+22,Charlie Brown,95930,2021-22,Dallas Mavericks
+23,George King,85578,2021-22,Dallas Mavericks
+24,Carlik Jones,53176,2021-22,Dallas Mavericks
+25,Moses Wright,0,2021-22,Dallas Mavericks
+26,Eugene Omoruyi,0,2021-22,Dallas Mavericks
+27,JaQuori McLaughlin,0,2021-22,Dallas Mavericks
+28,Nate Hinton,0,2021-22,Dallas Mavericks
+1,Kevin Love,31258256,2021-22,Cleveland Cavaliers
+2,Jarrett Allen,20000000,2021-22,Cleveland Cavaliers
+3,Caris LeVert,17500000,2021-22,Cleveland Cavaliers
+4,Lauri Markkanen,15690909,2021-22,Cleveland Cavaliers
+5,Cedi Osman,8133334,2021-22,Cleveland Cavaliers
+6,Evan Mobley,8075160,2021-22,Cleveland Cavaliers
+7,Darius Garland,7040880,2021-22,Cleveland Cavaliers
+8,Isaac Okoro,6720720,2021-22,Cleveland Cavaliers
+9,Collin Sexton,6349671,2021-22,Cleveland Cavaliers
+10,Ed Davis,2641691,2021-22,Cleveland Cavaliers
+11,Rajon Rondo,2641691,2021-22,Cleveland Cavaliers
+12,Dylan Windler,2239200,2021-22,Cleveland Cavaliers
+13,Dean Wade,1782621,2021-22,Cleveland Cavaliers
+14,Kevin Pangos,1669178,2021-22,Cleveland Cavaliers
+15,Lamar Stevens,1517981,2021-22,Cleveland Cavaliers
+16,J.R. Smith,1456666,2021-22,Cleveland Cavaliers
+17,Moses Brown,211046,2021-22,Cleveland Cavaliers
+18,Tim Frazier,128709,2021-22,Cleveland Cavaliers
+19,Justin Anderson,111457,2021-22,Cleveland Cavaliers
+20,Luke Kornet,102831,2021-22,Cleveland Cavaliers
+21,Brandon Goodwin,99380,2021-22,Cleveland Cavaliers
+22,Malik Newman,85578,2021-22,Cleveland Cavaliers
+23,RJ Nembhard,58493,2021-22,Cleveland Cavaliers
+24,Tre Scott,53176,2021-22,Cleveland Cavaliers
+25,Tacko Fall,0,2021-22,Cleveland Cavaliers
+1,Julius Randle,19800000,2021-22,New York Knicks
+2,Evan Fournier,17142857,2021-22,New York Knicks
+3,Derrick Rose,13445120,2021-22,New York Knicks
+4,Alec Burks,9536000,2021-22,New York Knicks
+5,Nerlens Noel,8800000,2021-22,New York Knicks
+6,Kemba Walker,8729020,2021-22,New York Knicks
+7,RJ Barrett,8623920,2021-22,New York Knicks
+8,Joakim Noah,6431666,2021-22,New York Knicks
+9,Obi Toppin,5105160,2021-22,New York Knicks
+10,Taj Gibson,4910000,2021-22,New York Knicks
+11,Cam Reddish,4670160,2021-22,New York Knicks
+12,Solomon Hill,2389641,2021-22,New York Knicks
+13,Immanuel Quickley,2210640,2021-22,New York Knicks
+14,Quentin Grimes,2168760,2021-22,New York Knicks
+15,Mitchell Robinson,1802057,2021-22,New York Knicks
+16,Miles McBride,925258,2021-22,New York Knicks
+17,Denzel Valentine,902801,2021-22,New York Knicks
+18,Ryan Arcidiacono,791798,2021-22,New York Knicks
+19,Wayne Selden,785102,2021-22,New York Knicks
+20,Damyean Dotson,205662,2021-22,New York Knicks
+21,Matt Mooney,171156,2021-22,New York Knicks
+22,Danuel House,111457,2021-22,New York Knicks
+23,Tyler Hall,53176,2021-22,New York Knicks
+24,Feron Hunt,0,2021-22,New York Knicks
+25,Luka Šamanić,0,2021-22,New York Knicks
+26,Jericho Sims,0,2021-22,New York Knicks
+1,Damian Lillard,39344900,2021-22,Portland Trail Blazers
+2,Eric Bledsoe,18125000,2021-22,Portland Trail Blazers
+3,Joe Ingles,12436364,2021-22,Portland Trail Blazers
+4,Jusuf Nurkić,12000000,2021-22,Portland Trail Blazers
+5,Josh Hart,12000000,2021-22,Portland Trail Blazers
+6,Anfernee Simons,3938818,2021-22,Portland Trail Blazers
+7,Justise Winslow,3902439,2021-22,Portland Trail Blazers
+8,Andrew Nicholson,2844430,2021-22,Portland Trail Blazers
+9,Keon Johnson,2553240,2021-22,Portland Trail Blazers
+10,Cody Zeller,2389641,2021-22,Portland Trail Blazers
+11,Ben McLemore,2389641,2021-22,Portland Trail Blazers
+12,Nassir Little,2316240,2021-22,Portland Trail Blazers
+13,Dennis Smith,1789256,2021-22,Portland Trail Blazers
+14,Marcos Louzada Silva,1786878,2021-22,Portland Trail Blazers
+15,Elijah Hughes,1517981,2021-22,Portland Trail Blazers
+16,CJ Elleby,1517981,2021-22,Portland Trail Blazers
+17,Greg Brown,925258,2021-22,Portland Trail Blazers
+18,Drew Eubanks,477024,2021-22,Portland Trail Blazers
+19,Trendon Watford,436482,2021-22,Portland Trail Blazers
+20,Kris Dunn,312079,2021-22,Portland Trail Blazers
+21,Reggie Perry,188272,2021-22,Portland Trail Blazers
+22,Cameron McGriff,53176,2021-22,Portland Trail Blazers
+23,Jarron Cumberland,53176,2021-22,Portland Trail Blazers
+24,Brandon Williams,53176,2021-22,Portland Trail Blazers
+25,Keljin Blevins,0,2021-22,Portland Trail Blazers
+1,Blake Griffin,29764126,2021-22,Detroit Pistons
+2,Jerami Grant,20002500,2021-22,Detroit Pistons
+3,Kelly Olynyk,12195122,2021-22,Detroit Pistons
+4,Marvin Bagley,11312114,2021-22,Detroit Pistons
+5,Cade Cunningham,10050120,2021-22,Detroit Pistons
+6,DeAndre Jordan,7875533,2021-22,Detroit Pistons
+7,Cory Joseph,7310000,2021-22,Detroit Pistons
+8,Killian Hayes,5572680,2021-22,Detroit Pistons
+9,Hamidou Diallo,5200000,2021-22,Detroit Pistons
+10,Isaiah Stewart,3277080,2021-22,Detroit Pistons
+11,Frank Jackson,3000000,2021-22,Detroit Pistons
+12,Dewayne Dedmon,2866667,2021-22,Detroit Pistons
+13,Saddiq Bey,2824320,2021-22,Detroit Pistons
+14,Rodney McGruder,1939350,2021-22,Detroit Pistons
+15,Deividas Sirvydis,1603559,2021-22,Detroit Pistons
+16,Saben Lee,1489065,2021-22,Detroit Pistons
+17,Isaiah Livers,1057260,2021-22,Detroit Pistons
+18,Luka Garza,925258,2021-22,Detroit Pistons
+19,Cassius Stanley,256734,2021-22,Detroit Pistons
+20,Cheick Diallo,102831,2021-22,Detroit Pistons
+21,Derrick Walton,95930,2021-22,Detroit Pistons
+22,Justin Robinson,95930,2021-22,Detroit Pistons
+23,Carsen Edwards,76744,2021-22,Detroit Pistons
+24,Micah Potter,53176,2021-22,Detroit Pistons
+25,Trayvon Palmer,53176,2021-22,Detroit Pistons
+26,Jaysean Paige,53176,2021-22,Detroit Pistons
+27,Braxton Key,53176,2021-22,Detroit Pistons
+28,Jamorko Pickett,0,2021-22,Detroit Pistons
+29,Chris Smith,0,2021-22,Detroit Pistons
+1,Gary Harris,20482143,2021-22,Orlando Magic
+2,Jonathan Isaac,17400000,2021-22,Orlando Magic
+3,Markelle Fultz,16500000,2021-22,Orlando Magic
+4,Terrence Ross,12500000,2021-22,Orlando Magic
+5,Mohamed Bamba,7568742,2021-22,Orlando Magic
+6,Wendell Carter,6920027,2021-22,Orlando Magic
+7,Jalen Suggs,6592920,2021-22,Orlando Magic
+8,Timofey Mozgov,5573334,2021-22,Orlando Magic
+9,Franz Wagner,5007840,2021-22,Orlando Magic
+10,Robin Lopez,5000000,2021-22,Orlando Magic
+11,Cole Anthony,3449400,2021-22,Orlando Magic
+12,Michael Carter-Williams,3300000,2021-22,Orlando Magic
+13,Chuma Okeke,3277080,2021-22,Orlando Magic
+14,E'Twaun Moore,2641691,2021-22,Orlando Magic
+15,R.J. Hampton,2303040,2021-22,Orlando Magic
+16,Bol Bol,2161152,2021-22,Orlando Magic
+17,PJ Dozier,1910860,2021-22,Orlando Magic
+18,Moritz Wagner,1729217,2021-22,Orlando Magic
+19,Tim Frazier,257418,2021-22,Orlando Magic
+20,Devin Cannady,185578,2021-22,Orlando Magic
+21,Freddie Gillespie,171156,2021-22,Orlando Magic
+22,Admiral Schofield,171156,2021-22,Orlando Magic
+23,Hassani Gravett,106352,2021-22,Orlando Magic
+24,B.J. Johnson,95930,2021-22,Orlando Magic
+25,Aleem Ford,53176,2021-22,Orlando Magic
+26,Jeff Dowtin,53176,2021-22,Orlando Magic
+27,Mychal Mulder,0,2021-22,Orlando Magic
+28,Ignas Brazdeikis,0,2021-22,Orlando Magic
+1,Kemba Walker,26238422,2021-22,Oklahoma City Thunder
+2,Derrick Favors,9720900,2021-22,Oklahoma City Thunder
+3,Josh Giddey,5988000,2021-22,Oklahoma City Thunder
+4,Shai Gilgeous-Alexander,5495532,2021-22,Oklahoma City Thunder
+5,Mike Muscala,3500000,2021-22,Oklahoma City Thunder
+6,Aleksej Pokusevski,3113160,2021-22,Oklahoma City Thunder
+7,Tre Mann,2901240,2021-22,Oklahoma City Thunder
+8,Darius Bazley,2513040,2021-22,Oklahoma City Thunder
+9,Ty Jerome,2412840,2021-22,Oklahoma City Thunder
+10,Kenrich Williams,2000000,2021-22,Oklahoma City Thunder
+11,Jeremiah Robinson-Earl,2000000,2021-22,Oklahoma City Thunder
+12,Théo Maledon,2000000,2021-22,Oklahoma City Thunder
+13,Isaiah Roby,1782621,2021-22,Oklahoma City Thunder
+14,Luguentz Dort,1782621,2021-22,Oklahoma City Thunder
+15,KZ Okpala,1782621,2021-22,Oklahoma City Thunder
+16,Gabriel Deck,1690507,2021-22,Oklahoma City Thunder
+17,Mamadi Diakite,1040234,2021-22,Oklahoma City Thunder
+18,Aaron Wiggins,1000000,2021-22,Oklahoma City Thunder
+19,Kyle Singler,999200,2021-22,Oklahoma City Thunder
+20,Vit Krejci,925258,2021-22,Oklahoma City Thunder
+21,Patrick Patterson,737066,2021-22,Oklahoma City Thunder
+22,Admiral Schofield,300000,2021-22,Oklahoma City Thunder
+23,Jaylen Hoard,191860,2021-22,Oklahoma City Thunder
+24,Olivier Sarr,106352,2021-22,Oklahoma City Thunder
+25,Scotty Hopson,99380,2021-22,Oklahoma City Thunder
+26,Georgios Kalaitzakis,53176,2021-22,Oklahoma City Thunder
+27,Zavier Simpson,53176,2021-22,Oklahoma City Thunder
+28,Rob Edwards,53176,2021-22,Oklahoma City Thunder
+29,Miye Oni,51225,2021-22,Oklahoma City Thunder
+30,Lindy Waters,0,2021-22,Oklahoma City Thunder
+31,Paul Watson,0,2021-22,Oklahoma City Thunder
+32,Melvin Frazier,0,2021-22,Oklahoma City Thunder
+33,Josh Hall,0,2021-22,Oklahoma City Thunder
