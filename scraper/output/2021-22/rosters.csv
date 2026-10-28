@@ -1,0 +1,717 @@
+﻿jersey_number,player_name,position,height_feet_inches,weight_pounds,birth_date,birth_country,experience,college,season,team_name
+5,Malik Beasley,SG,6-4,187,1996-11-26,us US,5,Florida State,2021-22,Minnesota Timberwolves
+22,Patrick Beverley,PG,6-2,180,1988-07-12,us US,9,Arkansas,2021-22,Minnesota Timberwolves
+9,Leandro Bolmaro,SF,6-6,200,2000-09-11,ar AR,R,,2021-22,Minnesota Timberwolves
+1,Anthony Edwards,SG,6-4,225,2001-08-05,us US,1,Georgia,2021-22,Minnesota Timberwolves
+13,Nathan Knight,PF,6-8,253,1997-09-20,us US,1,William & Mary,2021-22,Minnesota Timberwolves
+10,Jake Layman,SF,6-8,209,1994-03-07,us US,5,Maryland,2021-22,Minnesota Timberwolves
+3,Jaden McDaniels,PF,6-9,185,2000-09-29,us US,1,Washington,2021-22,Minnesota Timberwolves
+6,Jordan McLaughlin,PG,5-11,185,1996-04-09,us US,2,USC,2021-22,Minnesota Timberwolves
+55,Greg Monroe,C,6-11,265,1990-06-04,us US,9,Georgetown,2021-22,Minnesota Timberwolves
+4,Jaylen Nowell,SG,6-4,201,1999-07-09,us US,2,Washington,2021-22,Minnesota Timberwolves
+20,Josh Okogie,SG,6-4,213,1998-09-01,ng NG,3,Georgia Tech,2021-22,Minnesota Timberwolves
+12,Taurean Prince,PF,6-6,218,1994-03-22,us US,5,Baylor,2021-22,Minnesota Timberwolves
+11,Naz Reid,C,6-9,264,1999-08-26,us US,2,LSU,2021-22,Minnesota Timberwolves
+0,D'Angelo Russell,PG,6-3,193,1996-02-23,us US,6,Ohio State,2021-22,Minnesota Timberwolves
+30,Chris Silva,PF,6-8,234,1996-09-19,ga GA,2,South Carolina,2021-22,Minnesota Timberwolves
+32,Karl-Anthony Towns,C,7-0,248,1995-11-15,us US,6,Kentucky,2021-22,Minnesota Timberwolves
+8,Jarred Vanderbilt,PF,6-8,214,1999-04-03,us US,3,Kentucky,2021-22,Minnesota Timberwolves
+25,McKinley Wright IV,PG,5-11,192,1998-10-25,us US,R,Colorado,2021-22,Minnesota Timberwolves
+4,Steven Adams,C,6-11,265,1993-07-20,nz NZ,8,Pitt,2021-22,Memphis Grizzlies
+7,Santi Aldama,PF,7-0,215,2001-01-10,es ES,R,Loyola (MD),2021-22,Memphis Grizzlies
+1,Kyle Anderson,PF,6-8,230,1993-09-20,us US,7,UCLA,2021-22,Memphis Grizzlies
+22,Desmond Bane,SG,6-6,215,1998-06-25,us US,1,TCU,2021-22,Memphis Grizzlies
+24,Dillon Brooks,SF,6-7,225,1996-01-22,ca CA,4,Oregon,2021-22,Memphis Grizzlies
+6,Shaq Buchanan,SG,6-3,190,1997-01-30,us US,R,Northeast Mississippi Community College Murray State,2021-22,Memphis Grizzlies
+15,Brandon Clarke,PF,6-8,215,1996-09-19,ca CA,2,San Jose State Gonzaga,2021-22,Memphis Grizzlies
+23,Jarrett Culver,SG,6-6,195,1999-02-20,us US,2,Texas Tech,2021-22,Memphis Grizzlies
+13,Jaren Jackson Jr.,PF,6-10,242,1999-09-15,us US,3,Michigan State,2021-22,Memphis Grizzlies
+55,DaQuan Jeffries,SG,6-5,222,1997-08-30,us US,2,Oral Roberts Tulsa,2021-22,Memphis Grizzlies
+21,Tyus Jones,PG,6-0,196,1996-05-10,us US,6,Duke,2021-22,Memphis Grizzlies
+46,John Konchar,SG,6-5,210,1996-03-22,us US,2,Purdue-Fort Wayne,2021-22,Memphis Grizzlies
+31,Dakota Mathias,SG,6-4,200,1995-07-11,us US,1,Purdue,2021-22,Memphis Grizzlies
+0,De'Anthony Melton,SG,6-2,201,1998-05-28,us US,3,USC,2021-22,Memphis Grizzlies
+25,Sam Merrill,SG,6-4,205,1996-05-15,us US,1,Utah State University,2021-22,Memphis Grizzlies
+12,Ja Morant,PG,6-2,174,1999-08-10,us US,2,Murray State,2021-22,Memphis Grizzlies
+5,Yves Pons,SF,6-5,206,1999-05-07,ht HT,R,Tennessee,2021-22,Memphis Grizzlies
+20,Xavier Sneed,SF,6-5,215,1997-12-21,us US,R,Kansas State,2021-22,Memphis Grizzlies
+3,Tyrell Terry,PG,6-2,160,2000-09-28,us US,1,Stanford,2021-22,Memphis Grizzlies
+10,Jon Teske,C,7-1,265,1997-05-04,us US,R,Michigan,2021-22,Memphis Grizzlies
+35,Killian Tillie,C,6-9,220,1998-03-05,fr FR,1,Gonzaga,2021-22,Memphis Grizzlies
+2,Xavier Tillman Sr.,PF,6-8,245,1999-01-12,us US,1,Michigan State,2021-22,Memphis Grizzlies
+8,Ziaire Williams,SF,6-9,185,2001-09-12,us US,R,Stanford,2021-22,Memphis Grizzlies
+7,Grayson Allen,SG,6-3,198,1995-10-08,us US,3,Duke,2021-22,Milwaukee Bucks
+34,Giannis Antetokounmpo,PF,6-11,250,1994-12-06,gr GR,8,,2021-22,Milwaukee Bucks
+43,Thanasis Antetokounmpo,SF,6-7,219,1992-07-18,gr GR,3,,2021-22,Milwaukee Bucks
+95,DeAndre' Bembry,SF,6-5,210,1994-07-04,us US,5,Saint Joseph's,2021-22,Milwaukee Bucks
+5,Jevon Carter,PG,6-0,190,1995-09-14,us US,3,West Virginia,2021-22,Milwaukee Bucks
+24,Pat Connaughton,SF,6-5,209,1993-01-06,us US,6,Notre Dame,2021-22,Milwaukee Bucks
+15,DeMarcus Cousins,C,6-10,270,1990-08-13,us US,10,Kentucky,2021-22,Milwaukee Bucks
+12,Javin DeLaurier,C,6-10,237,1998-04-07,us US,R,Duke,2021-22,Milwaukee Bucks
+0,Donte DiVincenzo,SG,6-4,203,1997-01-31,us US,3,Villanova,2021-22,Milwaukee Bucks
+15,Jeff Dowtin Jr.,PG,6-3,177,1997-05-10,us US,R,Rhode Island,2021-22,Milwaukee Bucks
+12,Langston Galloway,SG,6-1,200,1991-12-09,us US,7,Saint Joseph's,2021-22,Milwaukee Bucks
+3,George Hill,PG,6-4,188,1986-05-04,us US,13,IUPUI,2021-22,Milwaukee Bucks
+21,Jrue Holiday,PG,6-4,220,1990-06-12,us US,12,UCLA,2021-22,Milwaukee Bucks
+5,Rodney Hood,PF,6-8,208,1992-10-20,us US,7,Mississippi State Duke,2021-22,Milwaukee Bucks
+25,Serge Ibaka,C,6-11,235,1989-09-18,cg CG,12,,2021-22,Milwaukee Bucks
+18,Georgios Kalaitzakis,SF,6-8,192,1999-01-02,gr GR,R,,2021-22,Milwaukee Bucks
+35,Luke Kornet,C,7-1,250,1995-07-15,us US,4,Vanderbilt,2021-22,Milwaukee Bucks
+11,Brook Lopez,C,7-1,282,1988-04-01,us US,13,Stanford,2021-22,Milwaukee Bucks
+54,Sandro Mamukelashvili,PF,6-9,240,1999-05-23,us US,R,Seton Hall,2021-22,Milwaukee Bucks
+23,Wesley Matthews,SG,6-5,220,1986-10-14,us US,12,Marquette,2021-22,Milwaukee Bucks
+22,Khris Middleton,SF,6-7,222,1991-08-12,us US,9,Texas A&M,2021-22,Milwaukee Bucks
+15,Greg Monroe,C,6-11,265,1990-06-04,us US,9,Georgetown,2021-22,Milwaukee Bucks
+13,Jordan Nwora,SF,6-8,225,1998-09-09,us US,1,Louisville,2021-22,Milwaukee Bucks
+37,Semi Ojeleye,PF,6-6,240,1994-12-05,us US,4,Duke SMU,2021-22,Milwaukee Bucks
+9,Bobby Portis,C,6-9,250,1995-02-10,us US,6,Arkansas,2021-22,Milwaukee Bucks
+55,Justin Robinson,PG,6-1,195,1997-10-12,us US,2,Virginia Tech,2021-22,Milwaukee Bucks
+6,Javonte Smart,PG,6-4,205,1999-06-03,us US,R,LSU,2021-22,Milwaukee Bucks
+59,Rayjon Tucker,SG,6-3,209,1997-09-24,us US,2,Florida Gulf Coast Little Rock,2021-22,Milwaukee Bucks
+6,Luca Vildoza,PG,6-3,190,1995-08-11,ar AR,R,,2021-22,Milwaukee Bucks
+28,Lindell Wigginton,PG,6-1,189,1998-03-28,ca CA,R,Iowa State,2021-22,Milwaukee Bucks
+2,LaMelo Ball,PG,6-7,180,2001-08-22,us US,1,,2021-22,Charlotte Hornets
+5,James Bouknight,SG,6-4,190,2000-09-18,us US,R,UConn,2021-22,Charlotte Hornets
+0,Miles Bridges,PF,6-7,225,1998-03-21,us US,3,Michigan State,2021-22,Charlotte Hornets
+22,Vernon Carey Jr.,C,6-10,270,2001-02-25,us US,1,Duke,2021-22,Charlotte Hornets
+8,Montrezl Harrell,C,6-7,240,1994-01-26,us US,6,Louisville,2021-22,Charlotte Hornets
+20,Gordon Hayward,SF,6-7,225,1990-03-23,us US,11,Butler,2021-22,Charlotte Hornets
+23,Kai Jones,C,6-11,221,2001-01-19,bs BS,R,Texas,2021-22,Charlotte Hornets
+98,Arnoldas Kulboka,SF,6-10,220,1998-01-04,lt LT,R,,2021-22,Charlotte Hornets
+16,Scottie Lewis,SG,6-4,188,2000-03-12,us US,R,Florida,2021-22,Charlotte Hornets
+11,Cody Martin,SF,6-6,205,1995-09-28,us US,2,NC State Nevada,2021-22,Charlotte Hornets
+6,Jalen McDaniels,SF,6-9,205,1998-01-31,us US,2,San Diego State,2021-22,Charlotte Hornets
+12,Kelly Oubre Jr.,SF,6-8,210,1995-12-09,us US,6,Kansas,2021-22,Charlotte Hornets
+24,Mason Plumlee,C,7-0,254,1990-03-05,us US,8,Duke,2021-22,Charlotte Hornets
+14,Nick Richards,C,6-11,255,1997-11-29,jm JM,1,Kentucky,2021-22,Charlotte Hornets
+3,Terry Rozier,SG,6-1,190,1994-03-17,us US,6,Louisville,2021-22,Charlotte Hornets
+10,Ish Smith,PG,6-0,175,1988-07-05,us US,11,Wake Forest,2021-22,Charlotte Hornets
+4,Isaiah Thomas,PG,5-9,185,1989-02-07,us US,10,Washington,2021-22,Charlotte Hornets
+21,JT Thor,PF,6-9,203,2002-08-26,us US,R,Auburn,2021-22,Charlotte Hornets
+25,P.J. Washington,C,6-7,230,1998-08-23,us US,2,Kentucky,2021-22,Charlotte Hornets
+22,Deandre Ayton,C,7-0,252,1998-07-23,bs BS,3,Arizona,2021-22,Phoenix Suns
+30,Paris Bass,SF,6-8,200,1995-08-29,us US,R,Detroit Mercy,2021-22,Phoenix Suns
+18,Bismack Biyombo,C,6-8,255,1992-08-28,cd CD,10,,2021-22,Phoenix Suns
+1,Devin Booker,SG,6-5,206,1996-10-30,us US,6,Kentucky,2021-22,Phoenix Suns
+25,Mikal Bridges,SF,6-6,209,1996-08-30,us US,3,Villanova,2021-22,Phoenix Suns
+0,Torrey Craig,SF,6-5,221,1990-12-19,us US,4,USC Upstate,2021-22,Phoenix Suns
+99,Jae Crowder,PF,6-6,235,1990-07-06,us US,9,Marquette,2021-22,Phoenix Suns
+4,Aaron Holiday,PG,6-0,185,1996-09-30,us US,3,UCLA,2021-22,Phoenix Suns
+35,Chandler Hutchison,SF,6-6,210,1996-04-26,us US,3,Boise State,2021-22,Phoenix Suns
+45,Justin Jackson,SF,6-8,220,1995-03-28,us US,4,UNC,2021-22,Phoenix Suns
+23,Cameron Johnson,PF,6-8,210,1996-03-03,us US,2,Pitt UNC,2021-22,Phoenix Suns
+8,Frank Kaminsky,C,7-0,240,1993-04-04,us US,6,Wisconsin,2021-22,Phoenix Suns
+19,Gabriel Lundberg,SG,6-4,203,1994-12-04,dk DK,R,,2021-22,Phoenix Suns
+00,JaVale McGee,C,7-0,270,1988-01-19,us US,13,Nevada,2021-22,Phoenix Suns
+11,Abdel Nader,SF,6-5,225,1993-09-25,eg EG,4,Northern Illinois Iowa State,2021-22,Phoenix Suns
+3,Chris Paul,PG,6-0,175,1985-05-06,us US,16,Wake Forest,2021-22,Phoenix Suns
+15,Cameron Payne,PG,6-2,183,1994-08-08,us US,6,Murray State,2021-22,Phoenix Suns
+2,Elfrid Payton,PG,6-3,195,1994-02-22,us US,7,Louisiana,2021-22,Phoenix Suns
+14,Landry Shamet,SG,6-5,190,1997-03-13,us US,3,Wichita State,2021-22,Phoenix Suns
+10,Jalen Smith,PF,6-8,244,2000-03-16,us US,1,Maryland,2021-22,Phoenix Suns
+26,Emanuel Terry,PF,6-9,220,1996-08-21,us US,1,Lincoln Memorial,2021-22,Phoenix Suns
+12,Ish Wainright,PF,6-5,250,1994-09-12,us US,R,Baylor,2021-22,Phoenix Suns
+21,M.J. Walker,SG,6-5,213,1998-03-28,us US,R,Florida State,2021-22,Phoenix Suns
+5,Cat Barber,PG,6-2,180,1994-07-25,us US,R,NC State,2021-22,Atlanta Hawks
+13,Bogdan Bogdanović,SG,6-5,225,1992-08-18,rs RS,4,,2021-22,Atlanta Hawks
+45,Chaundee Brown Jr.,SG,6-5,215,1998-12-04,us US,R,Wake Forest Michigan,2021-22,Atlanta Hawks
+15,Clint Capela,C,6-10,256,1994-05-18,ch CH,7,,2021-22,Atlanta Hawks
+20,John Collins,PF,6-9,226,1997-09-23,us US,4,Wake Forest,2021-22,Atlanta Hawks
+2,Sharife Cooper,PG,6-0,176,2001-06-11,us US,R,Auburn,2021-22,Atlanta Hawks
+10,Gorgui Dieng,C,6-10,252,1990-01-18,sn SN,8,Louisville,2021-22,Atlanta Hawks
+8,Danilo Gallinari,PF,6-10,236,1988-08-08,it IT,12,,2021-22,Atlanta Hawks
+14,Malcolm Hill,SG,6-6,220,1995-10-26,us US,R,Illinois,2021-22,Atlanta Hawks
+18,Solomon Hill,SF,6-6,226,1991-03-18,us US,8,Arizona,2021-22,Atlanta Hawks
+3,Kevin Huerter,SF,6-6,190,1998-08-27,us US,3,Maryland,2021-22,Atlanta Hawks
+12,De'Andre Hunter,SF,6-7,221,1997-12-02,us US,2,Virginia,2021-22,Atlanta Hawks
+24,Wes Iwundu,SF,6-6,195,1994-12-20,us US,4,Kansas State,2021-22,Atlanta Hawks
+1,Jalen Johnson,PF,6-8,219,2001-12-18,us US,R,Duke,2021-22,Atlanta Hawks
+5,Kevin Knox,SF,6-8,215,1999-08-11,us US,3,Kentucky,2021-22,Atlanta Hawks
+7,Timothé Luwawu-Cabarrot,SF,6-7,210,1995-05-09,fr FR,5,,2021-22,Atlanta Hawks
+4,Skylar Mays,SG,6-4,205,1997-09-05,us US,1,LSU,2021-22,Atlanta Hawks
+17,Onyeka Okongwu,C,6-10,240,2000-12-11,us US,1,USC,2021-22,Atlanta Hawks
+49,Cameron Oliver,SF,6-8,225,1996-07-11,us US,1,Nevada,2021-22,Atlanta Hawks
+22,Cam Reddish,SF,6-7,230,1999-09-01,us US,2,Duke,2021-22,Atlanta Hawks
+33,Lance Stephenson,SG,6-6,230,1990-09-05,us US,9,Cincinnati,2021-22,Atlanta Hawks
+6,Lou Williams,PG,6-2,175,1986-10-27,us US,16,,2021-22,Atlanta Hawks
+0,Delon Wright,SG,6-4,185,1992-04-26,us US,6,Utah,2021-22,Atlanta Hawks
+11,Trae Young,PG,6-2,164,1998-09-19,us US,3,Oklahoma,2021-22,Atlanta Hawks
+6,Nickeil Alexander-Walker,SG,6-5,205,1998-09-02,ca CA,2,Virginia Tech,2021-22,Utah Jazz
+20,Udoka Azubuike,C,6-11,270,1999-09-17,ng NG,1,Kansas,2021-22,Utah Jazz
+44,Bojan Bogdanović,PF,6-7,226,1989-04-18,ba BA,7,,2021-22,Utah Jazz
+13,Jared Butler,SG,6-3,193,2000-08-25,us US,R,Baylor,2021-22,Utah Jazz
+6,Zylan Cheatham,SF,6-5,220,1995-11-17,us US,1,San Diego State Arizona State,2021-22,Utah Jazz
+00,Jordan Clarkson,SG,6-5,194,1992-06-07,us US,7,Tulsa Missouri,2021-22,Utah Jazz
+11,Mike Conley,PG,6-1,175,1987-10-11,us US,14,Ohio State,2021-22,Utah Jazz
+24,Malik Fitts,PF,6-5,230,1997-07-04,us US,1,South Florida Saint Mary's,2021-22,Utah Jazz
+3,Trent Forrest,PG,6-4,210,1998-06-12,us US,1,Florida State,2021-22,Utah Jazz
+8,Rudy Gay,PF,6-8,250,1986-08-17,us US,15,UConn,2021-22,Utah Jazz
+27,Rudy Gobert,C,7-1,258,1992-06-26,fr FR,8,,2021-22,Utah Jazz
+41,Juancho Hernangómez,PF,6-9,214,1995-09-28,es ES,5,,2021-22,Utah Jazz
+25,Danuel House Jr.,SF,6-6,220,1993-06-07,us US,5,Texas A&M,2021-22,Utah Jazz
+33,Elijah Hughes,SF,6-5,215,1998-03-10,us US,1,Syracuse East Carolina University,2021-22,Utah Jazz
+2,Joe Ingles,SF,6-8,220,1987-10-02,au AU,7,,2021-22,Utah Jazz
+45,Donovan Mitchell,SG,6-2,215,1996-09-07,us US,4,Louisville,2021-22,Utah Jazz
+10,Greg Monroe,C,6-11,265,1990-06-04,us US,9,Georgetown,2021-22,Utah Jazz
+23,Royce O'Neale,SF,6-6,226,1993-06-05,us US,4,Denver Baylor,2021-22,Utah Jazz
+81,Miye Oni,SG,6-5,206,1997-08-04,us US,2,Yale,2021-22,Utah Jazz
+0,Eric Paschall,PF,6-6,255,1996-11-04,us US,2,Fordham Villanova,2021-22,Utah Jazz
+5,Norvel Pelle,C,6-10,231,1993-02-03,ag AG,2,,2021-22,Utah Jazz
+19,Xavier Sneed,SF,6-5,215,1997-12-21,us US,R,Kansas State,2021-22,Utah Jazz
+15,Denzel Valentine,SG,6-4,220,1993-11-16,us US,4,Michigan State,2021-22,Utah Jazz
+21,Hassan Whiteside,C,7-0,265,1989-06-13,us US,9,Marshall,2021-22,Utah Jazz
+31,Keita Bates-Diop,SF,6-8,229,1996-01-23,us US,3,Ohio State,2021-22,San Antonio Spurs
+18,Devontae Cacok,PF,6-7,240,1996-10-08,us US,2,UNC Wilmington,2021-22,San Antonio Spurs
+23,Zach Collins,C,6-9,240,1997-11-19,us US,3,Gonzaga,2021-22,San Antonio Spurs
+14,Drew Eubanks,C,6-10,245,1997-02-01,us US,3,Oregon State,2021-22,San Antonio Spurs
+7,Bryn Forbes,SG,6-2,205,1993-07-23,us US,5,Michigan State,2021-22,San Antonio Spurs
+41,Juancho Hernangómez,PF,6-9,214,1995-09-28,es ES,5,,2021-22,San Antonio Spurs
+3,Keldon Johnson,SF,6-6,220,1999-10-11,us US,2,Kentucky,2021-22,San Antonio Spurs
+28,Tyler Johnson,PG,6-3,186,1992-05-07,us US,7,Fresno State,2021-22,San Antonio Spurs
+33,Tre Jones,PG,6-1,190,2000-01-08,us US,1,Duke,2021-22,San Antonio Spurs
+35,Anthony Lamb,SF,6-6,227,1998-01-20,us US,1,University of Vermont,2021-22,San Antonio Spurs
+34,Jock Landale,C,6-11,255,1995-10-25,au AU,R,Saint Mary's,2021-22,San Antonio Spurs
+35,Romeo Langford,SG,6-5,216,1999-10-25,us US,2,Indiana,2021-22,San Antonio Spurs
+17,Doug McDermott,PF,6-7,225,1992-01-03,us US,7,Creighton,2021-22,San Antonio Spurs
+16,Jaylen Morris,SG,6-5,185,1995-09-19,us US,2,Molloy,2021-22,San Antonio Spurs
+5,Dejounte Murray,PG,6-4,180,1996-09-19,us US,4,Washington,2021-22,San Antonio Spurs
+25,Jakob Poeltl,C,7-0,253,1995-10-15,at AT,5,Utah,2021-22,San Antonio Spurs
+11,Joshua Primo,SF,6-4,189,2002-12-24,ca CA,R,Alabama,2021-22,San Antonio Spurs
+7,Josh Richardson,SG,6-5,200,1993-09-15,us US,6,Tennessee,2021-22,San Antonio Spurs
+45,Tomáš Satoranský,SF,6-7,210,1991-10-30,cz CZ,5,,2021-22,San Antonio Spurs
+24,Devin Vassell,SF,6-5,200,2000-08-23,us US,1,Florida State,2021-22,San Antonio Spurs
+1,Lonnie Walker IV,SG,6-4,204,1998-12-14,us US,3,Miami (FL),2021-22,San Antonio Spurs
+4,Derrick White,SG,6-4,190,1994-07-02,us US,4,Colorado-Colorado Springs Colorado,2021-22,San Antonio Spurs
+15,Joe Wieskamp,SG,6-6,205,1999-08-23,us US,R,Iowa,2021-22,San Antonio Spurs
+30,Thaddeus Young,PF,6-8,225,1988-06-21,us US,14,Georgia Tech,2021-22,San Antonio Spurs
+21,LaMarcus Aldridge,C,6-11,250,1985-07-19,us US,15,Texas,2021-22,Brooklyn Nets
+95,DeAndre' Bembry,SF,6-5,210,1994-07-04,us US,5,Saint Joseph's,2021-22,Brooklyn Nets
+1,Bruce Brown,SF,6-4,202,1996-08-15,us US,3,Miami (FL),2021-22,Brooklyn Nets
+0,Jevon Carter,PG,6-0,190,1995-09-14,us US,3,West Virginia,2021-22,Brooklyn Nets
+33,Nic Claxton,C,6-11,215,1999-04-17,us US,2,Georgia,2021-22,Brooklyn Nets
+30,Seth Curry,SG,6-1,185,1990-08-23,us US,7,Liberty Duke,2021-22,Brooklyn Nets
+9,Goran Dragić,PG,6-4,190,1986-05-06,si SI,13,,2021-22,Brooklyn Nets
+0 4,Andre Drummond,C,6-11,279,1993-08-10,us US,9,UConn,2021-22,Brooklyn Nets
+6,David Duke Jr.,PG,6-4,204,1999-10-13,us US,R,Providence,2021-22,Brooklyn Nets
+7,Kevin Durant,PF,6-11,240,1988-09-29,us US,13,Texas,2021-22,Brooklyn Nets
+14,Kessler Edwards,SF,6-8,203,2000-08-09,us US,R,Pepperdine,2021-22,Brooklyn Nets
+10,James Ennis III,SF,6-6,215,1990-07-01,us US,7,Cal State Long Beach,2021-22,Brooklyn Nets
+34,Wenyen Gabriel,PF,6-9,205,1997-03-26,sd SD,2,Kentucky,2021-22,Brooklyn Nets
+9,Langston Galloway,SG,6-1,200,1991-12-09,us US,7,Saint Joseph's,2021-22,Brooklyn Nets
+2,Blake Griffin,C,6-9,250,1989-03-16,us US,11,Oklahoma,2021-22,Brooklyn Nets
+13,James Harden,PG,6-5,220,1989-08-26,us US,12,Arizona State,2021-22,Brooklyn Nets
+12,Joe Harris,SF,6-6,220,1991-09-06,us US,7,Virginia,2021-22,Brooklyn Nets
+4,Shaquille Harrison,SG,6-4,195,1993-10-06,us US,4,Tulsa,2021-22,Brooklyn Nets
+11,Kyrie Irving,PG,6-2,195,1992-03-23,au AU,10,Duke,2021-22,Brooklyn Nets
+16,James Johnson,PF,6-7,240,1987-02-20,us US,12,Wake Forest,2021-22,Brooklyn Nets
+8,Patty Mills,SG,6-2,180,1988-08-11,au AU,12,Saint Mary's,2021-22,Brooklyn Nets
+31,Paul Millsap,C,6-7,257,1985-02-10,us US,15,Louisiana Tech,2021-22,Brooklyn Nets
+20,Day'Ron Sharpe,PF,6-10,265,2001-11-06,us US,R,UNC,2021-22,Brooklyn Nets
+24,Cam Thomas,SG,6-3,210,2001-10-13,jp JP,R,LSU,2021-22,Brooklyn Nets
+5,Will Barton,SG,6-5,181,1991-01-06,us US,9,Memphis,2021-22,Denver Nuggets
+10,Bol Bol,PF,7-3,220,1999-11-16,sd SD,2,Oregon,2021-22,Denver Nuggets
+7,Facundo Campazzo,PG,5-10,195,1991-03-23,ar AR,1,,2021-22,Denver Nuggets
+31,Vlatko Čančar,PF,6-8,236,1997-04-10,si SI,2,,2021-22,Denver Nuggets
+21,Petr Cornelie,PF,6-11,220,1995-07-26,fr FR,R,,2021-22,Denver Nuggets
+4,DeMarcus Cousins,C,6-10,270,1990-08-13,us US,10,Kentucky,2021-22,Denver Nuggets
+35,PJ Dozier,SG,6-6,212,1996-10-25,us US,4,South Carolina,2021-22,Denver Nuggets
+10,James Ennis III,SF,6-6,215,1990-07-01,us US,7,Cal State Long Beach,2021-22,Denver Nuggets
+6,Bryn Forbes,SG,6-2,205,1993-07-23,us US,5,Michigan State,2021-22,Denver Nuggets
+50,Aaron Gordon,PF,6-8,235,1995-09-16,us US,7,Arizona,2021-22,Denver Nuggets
+0,JaMychal Green,PF,6-9,227,1990-06-21,us US,7,Alabama,2021-22,Denver Nuggets
+32,Jeff Green,PF,6-8,235,1986-08-28,us US,13,Georgetown,2021-22,Denver Nuggets
+00,Markus Howard,SG,5-10,175,1999-03-03,us US,1,Marquette,2021-22,Denver Nuggets
+3,Bones Hyland,SG,6-2,169,2000-09-14,us US,R,VCU,2021-22,Denver Nuggets
+15,Nikola Jokić,C,6-11,284,1995-02-19,rs RS,6,,2021-22,Denver Nuggets
+23,Carlik Jones,PG,6-0,174,1997-12-23,us US,R,Radford Louisville,2021-22,Denver Nuggets
+11,Monte Morris,PG,6-2,183,1995-06-27,us US,4,Iowa State,2021-22,Denver Nuggets
+22,Zeke Nnaji,PF,6-10,240,2001-01-09,us US,1,Arizona,2021-22,Denver Nuggets
+1,Michael Porter Jr.,SF,6-10,218,1998-06-29,us US,2,Missouri,2021-22,Denver Nuggets
+9,Davon Reed,SG,6-5,206,1995-06-11,us US,2,Miami (FL),2021-22,Denver Nuggets
+25,Austin Rivers,SG,6-4,200,1992-08-01,us US,9,Duke,2021-22,Denver Nuggets
+6,Rayjon Tucker,SG,6-3,209,1997-09-24,us US,2,Florida Gulf Coast Little Rock,2021-22,Denver Nuggets
+7,Carmelo Anthony,PF,6-7,238,1984-05-29,us US,18,Syracuse,2021-22,Los Angeles Lakers
+1,Trevor Ariza,SF,6-8,215,1985-06-30,us US,17,UCLA,2021-22,Los Angeles Lakers
+4,D.J. Augustin,PG,5-11,183,1987-11-10,us US,13,Texas,2021-22,Los Angeles Lakers
+9,Kent Bazemore,SF,6-4,195,1989-07-01,us US,9,Old Dominion,2021-22,Los Angeles Lakers
+20,Avery Bradley,SG,6-3,180,1990-11-26,us US,11,Texas,2021-22,Los Angeles Lakers
+38,Chaundee Brown Jr.,SF,6-5,215,1998-12-04,us US,R,Wake Forest Michigan,2021-22,Los Angeles Lakers
+21,Darren Collison,PG,6-0,175,1987-08-23,us US,10,UCLA,2021-22,Los Angeles Lakers
+3,Anthony Davis,C,6-10,253,1993-03-11,us US,9,Kentucky,2021-22,Los Angeles Lakers
+45,Sekou Doumbouya,PF,6-8,230,2000-12-23,gn GN,2,,2021-22,Los Angeles Lakers
+2,Wayne Ellington,SG,6-4,207,1987-11-29,us US,12,UNC,2021-22,Los Angeles Lakers
+35,Wenyen Gabriel,PF,6-9,205,1997-03-26,sd SD,2,Kentucky,2021-22,Los Angeles Lakers
+5,Talen Horton-Tucker,SG,6-4,234,2000-11-25,us US,2,Iowa State,2021-22,Los Angeles Lakers
+39,Dwight Howard,C,6-10,265,1985-12-08,us US,17,,2021-22,Los Angeles Lakers
+30,Jay Huff,C,7-1,240,1998-08-25,us US,R,Virginia,2021-22,Los Angeles Lakers
+6,LeBron James,C,6-9,250,1984-12-30,us US,18,,2021-22,Los Angeles Lakers
+14,Stanley Johnson,PF,6-6,242,1996-05-29,us US,6,Arizona,2021-22,Los Angeles Lakers
+50,Jemerrio Jones,SF,6-5,174,1995-04-09,us US,1,Hill College New Mexico State,2021-22,Los Angeles Lakers
+40,Mason Jones,SG,6-4,200,1998-07-21,us US,1,Connors State College Arkansas,2021-22,Los Angeles Lakers
+10,DeAndre Jordan,C,6-11,265,1988-07-21,us US,13,Texas A&M,2021-22,Los Angeles Lakers
+37,Mac McClung,SG,6-2,185,1999-01-06,us US,R,Georgetown Texas Tech,2021-22,Los Angeles Lakers
+11,Malik Monk,SG,6-3,200,1998-02-04,us US,4,Kentucky,2021-22,Los Angeles Lakers
+15,Austin Reaves,SG,6-5,197,1998-05-29,us US,R,Wichita State Oklahoma,2021-22,Los Angeles Lakers
+4,Rajon Rondo,PG,6-1,180,1986-02-22,us US,15,Kentucky,2021-22,Los Angeles Lakers
+31,Isaiah Thomas,PG,5-9,185,1989-02-07,us US,10,Washington,2021-22,Los Angeles Lakers
+0,Russell Westbrook,PG,6-4,200,1988-11-12,us US,13,UCLA,2021-22,Los Angeles Lakers
+7,Jaylen Brown,SF,6-6,223,1996-10-24,us US,5,California,2021-22,Boston Celtics
+28,Bruno Fernando,C,6-9,240,1998-08-15,ao AO,2,Maryland,2021-22,Boston Celtics
+8,Malik Fitts,PF,6-5,230,1997-07-04,us US,1,South Florida Saint Mary's,2021-22,Boston Celtics
+13,Enes Freedom,C,6-10,250,1992-05-20,ch CH,10,Kentucky,2021-22,Boston Celtics
+30,Sam Hauser,SF,6-7,217,1997-12-08,us US,R,Marquette Virginia,2021-22,Boston Celtics
+41,Juancho Hernangómez,PF,6-9,214,1995-09-28,es ES,5,,2021-22,Boston Celtics
+42,Al Horford,C,6-8,258,1986-06-03,do DO,14,Florida,2021-22,Boston Celtics
+43,Justin Jackson,SF,6-8,220,1995-03-28,us US,4,UNC,2021-22,Boston Celtics
+55,Joe Johnson,SG,6-7,240,1981-06-29,us US,17,Arkansas,2021-22,Boston Celtics
+40,Luke Kornet,C,7-1,250,1995-07-15,us US,4,Vanderbilt,2021-22,Boston Celtics
+9,Romeo Langford,SG,6-5,216,1999-10-25,us US,2,Indiana,2021-22,Boston Celtics
+4,Kelan Martin,SF,6-5,230,1995-08-03,us US,2,Butler,2021-22,Boston Celtics
+50,C.J. Miles,SG,6-6,220,1987-03-18,us US,15,,2021-22,Boston Celtics
+4,Juwan Morgan,PF,6-7,232,1997-04-17,us US,2,Indiana,2021-22,Boston Celtics
+26,Aaron Nesmith,SF,6-5,215,1999-10-16,us US,1,Vanderbilt,2021-22,Boston Celtics
+20,Jabari Parker,PF,6-7,245,1995-03-15,us US,7,Duke,2021-22,Boston Celtics
+11,Payton Pritchard,PG,6-1,195,1998-01-28,us US,1,Oregon,2021-22,Boston Celtics
+8,Josh Richardson,SG,6-5,200,1993-09-15,us US,6,Tennessee,2021-22,Boston Celtics
+37,Matt Ryan,SF,6-6,215,1997-04-17,us US,R,Notre Dame Vanderbilt Chattanooga,2021-22,Boston Celtics
+71,Dennis Schröder,PG,6-1,175,1993-09-15,de DE,8,,2021-22,Boston Celtics
+36,Marcus Smart,PG,6-3,220,1994-03-06,us US,7,Oklahoma State,2021-22,Boston Celtics
+13,Nik Stauskas,SG,6-6,205,1993-10-07,ca CA,5,Michigan,2021-22,Boston Celtics
+0,Jayson Tatum,SF,6-8,210,1998-03-03,us US,4,Duke,2021-22,Boston Celtics
+27,Daniel Theis,C,6-8,245,1992-04-04,de DE,4,,2021-22,Boston Celtics
+97,Brodric Thomas,SG,6-5,185,1997-01-28,us US,1,Truman State University,2021-22,Boston Celtics
+9,Derrick White,SG,6-4,190,1994-07-02,us US,4,Colorado-Colorado Springs Colorado,2021-22,Boston Celtics
+12,Grant Williams,PF,6-7,236,1998-11-30,us US,2,Tennessee,2021-22,Boston Celtics
+44,Robert Williams,C,6-9,249,1997-10-17,us US,3,Texas A&M,2021-22,Boston Celtics
+2,Lonzo Ball,PG,6-5,190,1997-10-27,us US,4,UCLA,2021-22,Chicago Bulls
+20,Jordan Bell,C,6-8,216,1995-01-07,us US,4,Oregon,2021-22,Chicago Bulls
+13,Tony Bradley,C,6-10,248,1998-01-08,us US,4,UNC,2021-22,Chicago Bulls
+7,Troy Brown Jr.,SF,6-7,215,1999-07-28,us US,3,Oregon,2021-22,Chicago Bulls
+6,Alex Caruso,SG,6-5,186,1994-02-28,us US,4,Texas A&M,2021-22,Chicago Bulls
+25,Tyler Cook,PF,6-8,255,1997-09-23,us US,2,Iowa,2021-22,Chicago Bulls
+11,DeMar DeRozan,PF,6-6,220,1989-08-07,us US,12,USC,2021-22,Chicago Bulls
+12,Ayo Dosunmu,SG,6-4,201,2000-01-17,us US,R,Illinois,2021-22,Chicago Bulls
+3,Devon Dotson,PG,6-1,185,1999-08-02,us US,1,Kansas,2021-22,Chicago Bulls
+24,Javonte Green,SF,6-5,205,1993-07-23,us US,2,Radford,2021-22,Chicago Bulls
+14,Malcolm Hill,SF,6-6,220,1995-10-26,us US,R,Illinois,2021-22,Chicago Bulls
+22,Alize Johnson,PF,6-9,212,1996-04-22,us US,3,Frank Phillips College Missouri State,2021-22,Chicago Bulls
+5,Derrick Jones Jr.,PF,6-6,210,1997-02-15,us US,5,UNLV,2021-22,Chicago Bulls
+8,Zach LaVine,SG,6-5,200,1995-03-10,us US,7,UCLA,2021-22,Chicago Bulls
+00,Mac McClung,PG,6-2,185,1999-01-06,us US,R,Georgetown Texas Tech,2021-22,Chicago Bulls
+28,Alfonzo McKinnie,SF,6-7,215,1992-09-17,us US,4,Green Bay,2021-22,Chicago Bulls
+19,Marko Simonovic,C,7-0,220,1999-10-15,me ME,R,,2021-22,Chicago Bulls
+21,Matt Thomas,SG,6-3,190,1994-08-04,us US,2,Iowa State,2021-22,Chicago Bulls
+3,Tristan Thompson,C,6-9,254,1991-03-13,ca CA,10,Texas,2021-22,Chicago Bulls
+9,Nikola Vučević,C,6-9,265,1990-10-24,ch CH,10,USC,2021-22,Chicago Bulls
+0,Coby White,PG,6-4,210,2000-02-16,us US,2,UNC,2021-22,Chicago Bulls
+44,Patrick Williams,PF,6-6,235,2001-08-26,us US,1,Florida State,2021-22,Chicago Bulls
+10,Justin Anderson,SF,6-6,230,1993-11-19,us US,5,Virginia,2021-22,Indiana Pacers
+88,Goga Bitadze,C,6-11,250,1999-07-20,ge GE,2,,2021-22,Indiana Pacers
+12,Oshae Brissett,SF,6-7,210,1998-06-20,ca CA,2,Syracuse,2021-22,Indiana Pacers
+7,Malcolm Brogdon,PG,6-4,229,1992-12-11,us US,5,Virginia,2021-22,Indiana Pacers
+2,Ahmad Caver,SG,6-2,174,1996-09-12,us US,R,Old Dominion,2021-22,Indiana Pacers
+13,Torrey Craig,SF,6-5,221,1990-12-19,us US,4,USC Upstate,2021-22,Indiana Pacers
+3,Chris Duarte,SG,6-5,190,1997-06-13,do DO,R,Oregon,2021-22,Indiana Pacers
+0,Tyrese Haliburton,PG,6-5,185,2000-02-29,us US,1,Iowa State,2021-22,Indiana Pacers
+24,Buddy Hield,SG,6-4,220,1992-12-17,bs BS,5,Oklahoma,2021-22,Indiana Pacers
+14,Nate Hinton,SG,6-5,210,1999-06-08,us US,1,Houston,2021-22,Indiana Pacers
+8,Justin Holiday,SF,6-6,180,1989-04-05,us US,8,Washington,2021-22,Indiana Pacers
+23,Isaiah Jackson,C,6-8,205,2002-01-10,us US,R,Kentucky,2021-22,Indiana Pacers
+17,DeJon Jarreau,SG,6-5,185,1998-01-23,us US,R,UMass Houston,2021-22,Indiana Pacers
+26,Jeremy Lamb,SF,6-5,180,1992-05-30,us US,9,UConn,2021-22,Indiana Pacers
+22,Caris LeVert,SG,6-7,205,1994-08-25,us US,5,Michigan,2021-22,Indiana Pacers
+21,Kelan Martin,SF,6-5,230,1995-08-03,us US,2,Butler,2021-22,Indiana Pacers
+9,T.J. McConnell,PG,6-1,190,1992-03-25,us US,6,Duquesne Arizona,2021-22,Indiana Pacers
+0,Reggie Perry,PF,6-8,250,2000-03-21,us US,1,Mississippi State,2021-22,Indiana Pacers
+11,Domantas Sabonis,PF,6-10,240,1996-05-03,us US,5,Gonzaga,2021-22,Indiana Pacers
+25,Jalen Smith,PF,6-8,244,2000-03-16,us US,1,Maryland,2021-22,Indiana Pacers
+6,Lance Stephenson,PG,6-6,230,1990-09-05,us US,9,Cincinnati,2021-22,Indiana Pacers
+28,Keifer Sykes,PG,5-11,167,1993-12-30,us US,R,Green Bay,2021-22,Indiana Pacers
+32,Terry Taylor,PF,6-5,230,1999-09-23,us US,R,Austin Peay State University,2021-22,Indiana Pacers
+11,Tristan Thompson,C,6-9,254,1991-03-13,ca CA,10,Texas,2021-22,Indiana Pacers
+33,Myles Turner,C,6-11,250,1996-03-24,us US,6,Texas,2021-22,Indiana Pacers
+10,Brad Wanamaker,PG,6-3,210,1989-07-25,us US,3,Pitt,2021-22,Indiana Pacers
+4,Duane Washington Jr.,PG,6-2,197,2000-03-24,de DE,R,Ohio State,2021-22,Indiana Pacers
+8,Gabe York,SG,6-3,185,1993-08-02,us US,R,Arizona,2021-22,Indiana Pacers
+8,Nemanja Bjelica,C,6-10,234,1988-05-09,rs RS,6,,2021-22,Golden State Warriors
+2,Chris Chiozza,PG,5-11,179,1995-11-21,us US,3,Florida,2021-22,Golden State Warriors
+30,Stephen Curry,PG,6-2,200,1988-03-14,us US,12,Davidson,2021-22,Golden State Warriors
+21,Jeff Dowtin Jr.,PG,6-3,177,1997-05-10,us US,R,Rhode Island,2021-22,Golden State Warriors
+23,Draymond Green,PF,6-6,235,1990-03-04,us US,9,Michigan State,2021-22,Golden State Warriors
+9,Andre Iguodala,SF,6-6,215,1984-01-28,us US,17,Arizona,2021-22,Golden State Warriors
+00,Jonathan Kuminga,SF,6-7,225,2002-10-06,cd CD,R,,2021-22,Golden State Warriors
+1,Damion Lee,SG,6-6,210,1992-10-21,us US,4,Drexel Louisville,2021-22,Golden State Warriors
+5,Kevon Looney,C,6-9,222,1996-02-06,us US,6,UCLA,2021-22,Golden State Warriors
+4,Moses Moody,SG,6-5,215,2002-05-31,us US,R,Arkansas,2021-22,Golden State Warriors
+0,Gary Payton II,SG,6-2,195,1992-12-01,us US,5,Oregon State,2021-22,Golden State Warriors
+3,Jordan Poole,SG,6-4,194,1999-06-19,us US,2,Michigan,2021-22,Golden State Warriors
+32,Otto Porter Jr.,PF,6-8,198,1993-06-03,us US,8,Georgetown,2021-22,Golden State Warriors
+11,Klay Thompson,SG,6-5,200,1990-02-08,us US,8,Washington State,2021-22,Golden State Warriors
+95,Juan Toscano-Anderson,SF,6-6,209,1993-04-10,us US,2,Marquette,2021-22,Golden State Warriors
+12,Quinndary Weatherspoon,SG,6-3,207,1996-09-10,us US,2,Mississippi State,2021-22,Golden State Warriors
+22,Andrew Wiggins,SF,6-6,210,1995-02-23,ca CA,7,Kansas,2021-22,Golden State Warriors
+35,Marvin Bagley III,PF,6-10,235,1999-03-14,us US,3,Duke,2021-22,Sacramento Kings
+40,Harrison Barnes,PF,6-7,225,1992-05-30,us US,9,UNC,2021-22,Sacramento Kings
+3,Terence Davis,SG,6-4,201,1997-05-16,us US,2,Ole Miss,2021-22,Sacramento Kings
+0,Donte DiVincenzo,SG,6-4,203,1997-01-31,us US,3,Villanova,2021-22,Sacramento Kings
+5,De'Aaron Fox,PG,6-3,185,1997-12-20,us US,4,Kentucky,2021-22,Sacramento Kings
+0,Tyrese Haliburton,SG,6-5,185,2000-02-29,us US,1,Iowa State,2021-22,Sacramento Kings
+8,Maurice Harkless,SF,6-7,220,1993-05-11,us US,9,St. John's,2021-22,Sacramento Kings
+24,Buddy Hield,SG,6-4,220,1992-12-17,bs BS,5,Oklahoma,2021-22,Sacramento Kings
+9,Justin Holiday,SG,6-6,180,1989-04-05,us US,8,Washington,2021-22,Sacramento Kings
+22,Richaun Holmes,C,6-9,235,1993-10-15,us US,6,Bowling Green,2021-22,Sacramento Kings
+55,Josh Jackson,SF,6-8,207,1997-02-10,us US,4,Kansas,2021-22,Sacramento Kings
+30,Damian Jones,C,6-10,245,1995-06-30,us US,5,Vanderbilt,2021-22,Sacramento Kings
+23,Louis King,SF,6-7,205,1999-04-06,us US,2,Oregon,2021-22,Sacramento Kings
+26,Jeremy Lamb,SG,6-5,180,1992-05-30,us US,9,UConn,2021-22,Sacramento Kings
+25,Alex Len,C,7-0,250,1993-06-16,ua UA,8,Maryland,2021-22,Sacramento Kings
+41,Trey Lyles,PF,6-9,234,1995-11-05,ca CA,6,Kentucky,2021-22,Sacramento Kings
+7,Chimezie Metu,C,6-10,225,1997-03-22,us US,3,USC,2021-22,Sacramento Kings
+15,Davion Mitchell,PG,6-0,200,1998-09-05,us US,R,Auburn Baylor,2021-22,Sacramento Kings
+10,Emmanuel Mudiay,PG,6-3,200,1996-03-05,cd CD,5,,2021-22,Sacramento Kings
+31,Ade Murkey,SG,6-5,200,1998-01-29,us US,R,Denver,2021-22,Sacramento Kings
+88,Neemias Queta,C,7-0,248,1999-07-13,pt PT,R,Utah State University,2021-22,Sacramento Kings
+20,Jahmi'us Ramsey,SG,6-3,190,2001-06-09,us US,1,Texas Tech,2021-22,Sacramento Kings
+9,Justin Robinson,PG,6-1,195,1997-10-12,us US,2,Virginia Tech,2021-22,Sacramento Kings
+10,Domantas Sabonis,PF,6-10,240,1996-05-03,us US,5,Gonzaga,2021-22,Sacramento Kings
+13,Tristan Thompson,C,6-9,254,1991-03-13,ca CA,10,Texas,2021-22,Sacramento Kings
+17,Robert Woodard II,SF,6-6,235,1999-09-22,us US,1,Mississippi State,2021-22,Sacramento Kings
+13,Bam Adebayo,C,6-9,260,1997-07-18,us US,4,Kentucky,2021-22,Miami Heat
+22,Jimmy Butler,SF,6-6,230,1989-09-14,us US,10,Tyler Junior College Marquette,2021-22,Miami Heat
+21,Dewayne Dedmon,C,6-10,245,1989-08-12,us US,8,USC,2021-22,Miami Heat
+0,Marcus Garrett,SG,6-5,205,1998-11-09,us US,R,Kansas,2021-22,Miami Heat
+5,Kyle Guy,SG,6-1,167,1997-08-11,us US,2,Virginia,2021-22,Miami Heat
+40,Udonis Haslem,C,6-8,235,1980-06-09,us US,18,Florida,2021-22,Miami Heat
+14,Tyler Herro,SG,6-5,195,2000-01-20,us US,2,Kentucky,2021-22,Miami Heat
+24,Haywood Highsmith,SF,6-5,220,1996-12-09,us US,1,Wheeling University,2021-22,Miami Heat
+7,Kyle Lowry,PG,6-0,196,1986-03-25,us US,15,Villanova,2021-22,Miami Heat
+16,Caleb Martin,SF,6-5,205,1995-09-28,us US,2,NC State Nevada,2021-22,Miami Heat
+8,Markieff Morris,PF,6-9,245,1989-09-02,us US,10,Kansas,2021-22,Miami Heat
+12,Mychal Mulder,PG,6-3,195,1994-06-12,ca CA,2,Vincennes University Kentucky,2021-22,Miami Heat
+11,KZ Okpala,PF,6-8,215,1999-04-28,us US,2,Stanford,2021-22,Miami Heat
+4,Victor Oladipo,SG,6-3,213,1992-05-04,us US,8,Indiana,2021-22,Miami Heat
+55,Duncan Robinson,SG,6-7,215,1994-04-22,us US,3,Williams Michigan,2021-22,Miami Heat
+30,Chris Silva,PF,6-8,234,1996-09-19,ga GA,2,South Carolina,2021-22,Miami Heat
+15,Javonte Smart,PG,6-4,205,1999-06-03,us US,R,LSU,2021-22,Miami Heat
+9,Nik Stauskas,SG,6-6,205,1993-10-07,ca CA,5,Michigan,2021-22,Miami Heat
+31,Max Strus,SF,6-5,215,1996-03-28,us US,2,Lewis (IL) DePaul,2021-22,Miami Heat
+17,P.J. Tucker,PF,6-5,245,1985-05-05,us US,10,Texas,2021-22,Miami Heat
+2,Gabe Vincent,PG,6-2,200,1996-06-14,us US,2,UC Santa Barbara,2021-22,Miami Heat
+77,Omer Yurtseven,C,6-11,275,1998-06-19,uz UZ,R,NC State Georgetown,2021-22,Miami Heat
+23,Charles Bassey,C,6-10,230,2000-10-28,ng NG,R,Western Kentucky,2021-22,Philadelphia 76ers
+16,Charlie Brown Jr.,SG,6-6,199,1997-02-02,us US,2,Saint Joseph's,2021-22,Philadelphia 76ers
+00,Willie Cauley-Stein,C,7-0,240,1993-08-18,us US,6,Kentucky,2021-22,Philadelphia 76ers
+31,Seth Curry,SG,6-1,185,1990-08-23,us US,7,Liberty Duke,2021-22,Philadelphia 76ers
+1,Andre Drummond,C,6-11,279,1993-08-10,us US,9,UConn,2021-22,Philadelphia 76ers
+21,Joel Embiid,C,7-0,270,1994-03-16,cm CM,5,Kansas,2021-22,Philadelphia 76ers
+14,Danny Green,SF,6-6,215,1987-06-22,us US,12,UNC,2021-22,Philadelphia 76ers
+1,James Harden,PG,6-5,220,1989-08-26,us US,12,Arizona State,2021-22,Philadelphia 76ers
+12,Tobias Harris,PF,6-8,226,1992-07-15,us US,10,Tennessee,2021-22,Philadelphia 76ers
+50,Aaron Henry,SF,6-5,210,1999-08-30,us US,R,Michigan State,2021-22,Philadelphia 76ers
+7,Isaiah Joe,SG,6-4,165,1999-07-02,us US,1,Arkansas,2021-22,Philadelphia 76ers
+8,Tyler Johnson,PG,6-3,186,1992-05-07,us US,7,Fresno State,2021-22,Philadelphia 76ers
+9,DeAndre Jordan,C,6-11,265,1988-07-21,us US,13,Texas A&M,2021-22,Philadelphia 76ers
+17,Braxton Key,SF,6-7,225,1997-02-14,us US,R,Alabama Virginia,2021-22,Philadelphia 76ers
+30,Furkan Korkmaz,SG,6-7,202,1997-07-24,tr TR,4,,2021-22,Philadelphia 76ers
+0,Tyrese Maxey,PG,6-2,200,2000-11-04,us US,1,Kentucky,2021-22,Philadelphia 76ers
+8,Paul Millsap,C,6-7,257,1985-02-10,us US,15,Louisiana Tech,2021-22,Philadelphia 76ers
+18,Shake Milton,SG,6-5,205,1996-09-26,us US,3,SMU,2021-22,Philadelphia 76ers
+20,Georges Niang,PF,6-6,230,1993-06-17,us US,5,Iowa State,2021-22,Philadelphia 76ers
+5,Myles Powell,PG,6-2,195,1997-07-07,us US,R,Seton Hall,2021-22,Philadelphia 76ers
+44,Paul Reed,C,6-9,210,1999-06-14,us US,1,DePaul,2021-22,Philadelphia 76ers
+11,Jaden Springer,SG,6-4,202,2002-09-25,us US,R,Tennessee,2021-22,Philadelphia 76ers
+22,Matisse Thybulle,SG,6-5,202,1997-03-04,us US,2,Washington,2021-22,Philadelphia 76ers
+14,D.J. Augustin,PG,5-11,183,1987-11-10,us US,13,Texas,2021-22,Houston Rockets
+7,Armoni Brooks,SG,6-3,195,1998-06-05,us US,1,Houston,2021-22,Houston Rockets
+9,Josh Christopher,SG,6-4,215,2001-12-08,us US,R,Arizona State,2021-22,Houston Rockets
+20,Bruno Fernando,C,6-9,240,1998-08-15,ao AO,2,Maryland,2021-22,Houston Rockets
+16,Usman Garuba,PF,6-8,229,2002-03-09,es ES,R,,2021-22,Houston Rockets
+10,Eric Gordon,SG,6-3,215,1988-12-25,us US,13,Indiana,2021-22,Houston Rockets
+0,Jalen Green,SG,6-4,186,2002-02-09,us US,R,,2021-22,Houston Rockets
+4,Danuel House Jr.,SF,6-6,220,1993-06-07,us US,5,Texas A&M,2021-22,Houston Rockets
+6,KJ Martin,SF,6-6,215,2001-01-06,us US,1,,2021-22,Houston Rockets
+25,Garrison Mathews,SG,6-5,215,1996-10-24,us US,2,Lipscomb,2021-22,Houston Rockets
+15,Daishen Nix,SG,6-3,226,2002-02-13,us US,R,,2021-22,Houston Rockets
+2,David Nwaba,SF,6-5,219,1993-01-14,us US,5,Cal Poly,2021-22,Houston Rockets
+3,Kevin Porter Jr.,PG,6-5,203,2000-05-04,us US,2,USC,2021-22,Houston Rockets
+21,Trevelin Queen,SG,6-5,190,1997-02-25,us US,R,College of Marin New Mexico Military Institute New Mexico State,2021-22,Houston Rockets
+17,Dennis Schröder,PG,6-1,175,1993-09-15,de DE,8,,2021-22,Houston Rockets
+28,Alperen Şengün,C,6-11,243,2002-07-25,tr TR,R,,2021-22,Houston Rockets
+8,Jae'Sean Tate,PF,6-4,230,1995-10-28,us US,1,Ohio State,2021-22,Houston Rockets
+27,Daniel Theis,C,6-8,245,1992-04-04,de DE,4,,2021-22,Houston Rockets
+35,Christian Wood,C,6-8,214,1995-09-27,us US,5,UNLV,2021-22,Houston Rockets
+5,Precious Achiuwa,C,6-8,243,1999-09-19,ng NG,1,Memphis,2021-22,Toronto Raptors
+3,OG Anunoby,SF,6-7,240,1997-07-17,gb GB,4,Indiana,2021-22,Toronto Raptors
+45,Dalano Banton,PG,6-8,203,1999-11-07,ca CA,R,Nebraska,2021-22,Toronto Raptors
+4,Scottie Barnes,PF,6-8,237,2001-08-01,us US,R,Florida State,2021-22,Toronto Raptors
+24,Khem Birch,C,6-8,233,1992-09-28,ca CA,4,Pitt UNLV,2021-22,Toronto Raptors
+17,Isaac Bonga,SF,6-8,180,1999-11-08,de DE,3,,2021-22,Toronto Raptors
+25,Chris Boucher,SF,6-8,200,1993-01-11,lc LC,4,New Mexico Junior College Northwest College Oregon,2021-22,Toronto Raptors
+1,Armoni Brooks,PG,6-3,195,1998-06-05,us US,1,Houston,2021-22,Toronto Raptors
+11,Justin Champagnie,SF,6-6,206,2001-06-29,us US,R,Pitt,2021-22,Toronto Raptors
+8,Sam Dekker,PF,6-9,230,1994-05-06,us US,4,Wisconsin,2021-22,Toronto Raptors
+1,Goran Dragić,PG,6-4,190,1986-05-06,si SI,13,,2021-22,Toronto Raptors
+22,Malachi Flynn,PG,6-1,185,1998-05-10,us US,1,Washington State San Diego State,2021-22,Toronto Raptors
+13,David Johnson,SG,6-4,203,2001-02-26,us US,R,Louisville,2021-22,Toronto Raptors
+16,Juwan Morgan,PF,6-7,232,1997-04-17,us US,2,Indiana,2021-22,Toronto Raptors
+14,Svi Mykhailiuk,SF,6-7,205,1997-06-10,ua UA,3,Kansas,2021-22,Toronto Raptors
+20,Daniel Oturu,C,6-10,240,1999-09-20,us US,1,Minnesota,2021-22,Toronto Raptors
+43,Pascal Siakam,PF,6-8,245,1994-04-02,cm CM,5,New Mexico State,2021-22,Toronto Raptors
+33,Gary Trent Jr.,SG,6-5,204,1999-01-18,us US,3,Duke,2021-22,Toronto Raptors
+23,Fred VanVleet,PG,6-0,197,1994-02-25,us US,5,Wichita State,2021-22,Toronto Raptors
+18,Yuta Watanabe,SF,6-9,215,1994-10-13,jp JP,3,George Washington,2021-22,Toronto Raptors
+51,Tremont Waters,PG,5-10,175,1998-01-10,us US,2,LSU,2021-22,Toronto Raptors
+9,D.J. Wilson,PF,6-10,231,1996-02-19,us US,4,Michigan,2021-22,Toronto Raptors
+21,Thaddeus Young,PF,6-8,225,1988-06-21,us US,14,Georgia Tech,2021-22,Toronto Raptors
+6,Nickeil Alexander-Walker,SG,6-5,205,1998-09-02,ca CA,2,Virginia Tech,2021-22,New Orleans Pelicans
+15,Jose Alvarado,PG,6-0,179,1998-04-12,us US,R,Georgia Tech,2021-22,New Orleans Pelicans
+12,Gary Clark,PF,6-6,225,1994-11-16,us US,3,Cincinnati,2021-22,New Orleans Pelicans
+4,Devonte' Graham,PG,6-1,195,1995-02-22,us US,3,Kansas,2021-22,New Orleans Pelicans
+2,Jared Harper,PG,5-10,175,1997-09-14,us US,2,Auburn,2021-22,New Orleans Pelicans
+3,Josh Hart,SG,6-5,215,1995-03-06,us US,4,Villanova,2021-22,New Orleans Pelicans
+10,Jaxson Hayes,C,7-0,220,2000-05-23,us US,2,Texas,2021-22,New Orleans Pelicans
+9,Willy Hernangómez,C,6-11,250,1994-05-27,es ES,5,,2021-22,New Orleans Pelicans
+14,Brandon Ingram,SF,6-8,190,1997-09-02,us US,5,Duke,2021-22,New Orleans Pelicans
+24,Alize Johnson,PF,6-9,212,1996-04-22,us US,3,Frank Phillips College Missouri State,2021-22,New Orleans Pelicans
+5,Herbert Jones,PF,6-7,206,1998-10-06,us US,R,Alabama,2021-22,New Orleans Pelicans
+13,Kira Lewis Jr.,PG,6-1,170,2001-04-06,us US,1,Alabama,2021-22,New Orleans Pelicans
+0,Didi Louzada,SF,6-5,188,1999-02-07,br BR,1,,2021-22,New Orleans Pelicans
+8,Naji Marshall,SF,6-6,220,1998-01-24,us US,1,Xavier,2021-22,New Orleans Pelicans
+3,CJ McCollum,PG,6-3,190,1991-09-19,us US,8,Lehigh,2021-22,New Orleans Pelicans
+25,Trey Murphy III,SF,6-8,206,2000-06-18,us US,R,Rice University Virginia,2021-22,New Orleans Pelicans
+22,Larry Nance Jr.,PF,6-6,245,1993-01-01,us US,6,Wyoming,2021-22,New Orleans Pelicans
+31,Tomáš Satoranský,SG,6-7,210,1991-10-30,cz CZ,5,,2021-22,New Orleans Pelicans
+21,Tony Snell,SG,6-6,213,1991-11-10,us US,8,New Mexico,2021-22,New Orleans Pelicans
+41,Garrett Temple,SG,6-5,195,1986-05-08,us US,11,LSU,2021-22,New Orleans Pelicans
+17,Jonas Valančiūnas,C,6-11,265,1992-05-06,lt LT,9,,2021-22,New Orleans Pelicans
+6,Tyrone Wallace,SG,6-5,198,1994-06-10,us US,3,California,2021-22,New Orleans Pelicans
+9,Deni Avdija,SF,6-8,228,2001-01-03,il IL,1,,2021-22,Washington Wizards
+17,Joel Ayayi,SG,6-4,180,2000-03-05,fr FR,R,Gonzaga,2021-22,Washington Wizards
+3,Bradley Beal,SG,6-4,207,1993-06-28,us US,9,Florida,2021-22,Washington Wizards
+42,Dāvis Bertāns,PF,6-10,225,1992-11-12,lv LV,5,,2021-22,Washington Wizards
+13,Thomas Bryant,C,6-9,248,1997-07-31,us US,4,Indiana,2021-22,Washington Wizards
+1,Kentavious Caldwell-Pope,SG,6-5,204,1993-02-18,us US,8,Georgia,2021-22,Washington Wizards
+22,Vernon Carey Jr.,C,6-10,270,2001-02-25,us US,1,Duke,2021-22,Washington Wizards
+26,Spencer Dinwiddie,PG,6-5,215,1993-04-06,us US,7,Colorado,2021-22,Washington Wizards
+12,Jaime Echenique,C,6-11,258,1997-04-27,co CO,R,Trinity Valley CC Wichita State,2021-22,Washington Wizards
+21,Daniel Gafford,C,6-10,265,1998-10-01,us US,2,Arkansas,2021-22,Washington Wizards
+16,Anthony Gill,PF,6-7,230,1992-10-17,us US,1,South Carolina Virginia,2021-22,Washington Wizards
+7,Jordan Goodwin,SG,6-3,215,1998-10-23,us US,R,Saint Louis,2021-22,Washington Wizards
+8,Rui Hachimura,PF,6-8,230,1998-02-08,jp JP,2,Gonzaga,2021-22,Washington Wizards
+6,Montrezl Harrell,C,6-7,240,1994-01-26,us US,6,Louisville,2021-22,Washington Wizards
+4,Aaron Holiday,PG,6-0,185,1996-09-30,us US,3,UCLA,2021-22,Washington Wizards
+27,Alize Johnson,PF,6-9,212,1996-04-22,us US,3,Frank Phillips College Missouri State,2021-22,Washington Wizards
+24,Corey Kispert,SF,6-6,224,1999-03-03,us US,R,Gonzaga,2021-22,Washington Wizards
+33,Kyle Kuzma,PF,6-8,221,1995-07-24,us US,4,Utah,2021-22,Washington Wizards
+55,Greg Monroe,C,6-11,265,1990-06-04,us US,9,Georgetown,2021-22,Washington Wizards
+19,Raul Neto,PG,6-2,180,1992-05-19,br BR,6,,2021-22,Washington Wizards
+6,Kristaps Porziņģis,PF,7-2,240,1995-08-02,lv LV,5,,2021-22,Washington Wizards
+31,Tomáš Satoranský,PG,6-7,210,1991-10-30,cz CZ,5,,2021-22,Washington Wizards
+20,Jordan Schakel,SG,6-6,200,1998-06-13,us US,R,San Diego State,2021-22,Washington Wizards
+4,Ish Smith,PG,6-0,175,1988-07-05,us US,11,Wake Forest,2021-22,Washington Wizards
+32,Craig Sword,SG,6-3,196,1994-01-16,us US,R,Mississippi State,2021-22,Washington Wizards
+14,Isaiah Todd,PF,6-9,219,2001-10-17,us US,R,,2021-22,Washington Wizards
+22,Brad Wanamaker,PG,6-3,210,1989-07-25,us US,3,Pitt,2021-22,Washington Wizards
+51,Tremont Waters,PG,5-10,175,1998-01-10,us US,2,LSU,2021-22,Washington Wizards
+5,Cassius Winston,PG,6-1,185,1998-02-28,us US,1,Michigan State,2021-22,Washington Wizards
+33,Nicolas Batum,PF,6-7,230,1988-12-14,fr FR,13,,2021-22,Los Angeles Clippers
+12,Eric Bledsoe,PG,6-1,214,1989-12-09,us US,11,Kentucky,2021-22,Los Angeles Clippers
+4,Brandon Boston Jr.,SG,6-6,188,2001-11-28,us US,R,Kentucky,2021-22,Los Angeles Clippers
+7,Amir Coffey,SG,6-7,210,1997-06-17,us US,2,Minnesota,2021-22,Los Angeles Clippers
+23,Robert Covington,PF,6-7,209,1990-12-14,us US,8,Tennessee State,2021-22,Los Angeles Clippers
+10,James Ennis III,SF,6-6,215,1990-07-01,us US,7,Cal State Long Beach,2021-22,Los Angeles Clippers
+35,Wenyen Gabriel,PF,6-9,205,1997-03-26,sd SD,2,Kentucky,2021-22,Los Angeles Clippers
+13,Paul George,PF,6-8,230,1990-05-02,us US,11,Fresno State,2021-22,Los Angeles Clippers
+55,Isaiah Hartenstein,C,7-0,250,1998-05-05,us US,3,,2021-22,Los Angeles Clippers
+22,Rodney Hood,SF,6-8,208,1992-10-20,us US,7,Mississippi State Duke,2021-22,Los Angeles Clippers
+9,Serge Ibaka,C,6-11,235,1989-09-18,cg CG,12,,2021-22,Los Angeles Clippers
+1,Reggie Jackson,SG,6-2,208,1990-04-16,it IT,10,Boston College,2021-22,Los Angeles Clippers
+45,Keon Johnson,SG,6-5,185,2002-03-10,us US,R,Tennessee,2021-22,Los Angeles Clippers
+5,Luke Kennard,SG,6-5,206,1996-06-24,us US,4,Duke,2021-22,Los Angeles Clippers
+14,Terance Mann,SF,6-6,215,1996-10-18,us US,2,Florida State,2021-22,Los Angeles Clippers
+15,Xavier Moon,SG,6-0,165,1995-01-02,us US,R,Northwest Florida State College Morehead State University,2021-22,Los Angeles Clippers
+8,Marcus Morris,PF,6-8,218,1989-09-02,us US,10,Kansas,2021-22,Los Angeles Clippers
+37,Semi Ojeleye,PF,6-6,240,1994-12-05,us US,4,Duke SMU,2021-22,Los Angeles Clippers
+24,Norman Powell,SG,6-3,215,1993-05-25,us US,6,UCLA,2021-22,Los Angeles Clippers
+0,Jay Scrubb,SG,6-5,220,2000-09-01,us US,1,John A. Logan College,2021-22,Los Angeles Clippers
+20,Justise Winslow,PF,6-6,222,1996-03-26,us US,6,Duke,2021-22,Los Angeles Clippers
+11,Moses Wright,PF,6-8,226,1998-12-23,us US,R,Georgia Tech,2021-22,Los Angeles Clippers
+40,Ivica Zubac,C,7-0,240,1997-03-18,ba BA,5,,2021-22,Los Angeles Clippers
+44,Dāvis Bertāns,PF,6-10,225,1992-11-12,lv LV,5,,2021-22,Dallas Mavericks
+44,Charlie Brown Jr.,SG,6-6,199,1997-02-02,us US,2,Saint Joseph's,2021-22,Dallas Mavericks
+9,Moses Brown,C,7-2,258,1999-10-13,us US,2,UCLA,2021-22,Dallas Mavericks
+0,Sterling Brown,SG,6-5,219,1995-02-10,us US,4,SMU,2021-22,Dallas Mavericks
+13,Jalen Brunson,SG,6-2,190,1996-08-31,us US,3,Villanova,2021-22,Dallas Mavericks
+25,Reggie Bullock,SF,6-6,205,1991-03-16,us US,8,UNC,2021-22,Dallas Mavericks
+3,Trey Burke,PG,6-0,185,1992-11-12,us US,8,Michigan,2021-22,Dallas Mavericks
+33,Willie Cauley-Stein,C,7-0,240,1993-08-18,us US,6,Kentucky,2021-22,Dallas Mavericks
+32,Marquese Chriss,PF,6-9,240,1997-07-02,us US,5,Washington,2021-22,Dallas Mavericks
+26,Spencer Dinwiddie,PG,6-5,215,1993-04-06,us US,7,Colorado,2021-22,Dallas Mavericks
+77,Luka Dončić,PG,6-8,230,1999-02-28,si SI,3,,2021-22,Dallas Mavericks
+10,Dorian Finney-Smith,PF,6-7,220,1993-05-04,us US,5,Florida,2021-22,Dallas Mavericks
+8,Josh Green,SG,6-6,200,2000-11-16,au AU,1,Arizona,2021-22,Dallas Mavericks
+11,Tim Hardaway Jr.,SG,6-5,205,1992-03-16,us US,8,Michigan,2021-22,Dallas Mavericks
+23,Carlik Jones,PG,6-0,174,1997-12-23,us US,R,Radford Louisville,2021-22,Dallas Mavericks
+94,George King,SF,6-6,220,1994-01-15,us US,1,Colorado,2021-22,Dallas Mavericks
+42,Maxi Kleber,PF,6-10,240,1992-01-29,de DE,4,,2021-22,Dallas Mavericks
+20,Brandon Knight,PG,6-2,182,1991-12-02,us US,8,Kentucky,2021-22,Dallas Mavericks
+51,Boban Marjanović,C,7-4,290,1988-08-15,rs RS,6,,2021-22,Dallas Mavericks
+30,JaQuori McLaughlin,PG,6-4,190,1998-01-29,us US,R,Oregon State UC Santa Barbara,2021-22,Dallas Mavericks
+21,Frank Ntilikina,SG,6-4,200,1998-07-28,be BE,4,,2021-22,Dallas Mavericks
+2,Eugene Omoruyi,SF,6-6,235,1997-02-14,ng NG,R,Rutgers University Oregon,2021-22,Dallas Mavericks
+1,Theo Pinson,SF,6-5,212,1995-11-05,us US,3,UNC,2021-22,Dallas Mavericks
+6,Kristaps Porziņģis,PF,7-2,240,1995-08-02,lv LV,5,,2021-22,Dallas Mavericks
+7,Dwight Powell,C,6-10,240,1991-07-20,ca CA,7,Stanford,2021-22,Dallas Mavericks
+2,Isaiah Thomas,PG,5-9,185,1989-02-07,us US,10,Washington,2021-22,Dallas Mavericks
+5,Moses Wright,PF,6-8,226,1998-12-23,us US,R,Georgia Tech,2021-22,Dallas Mavericks
+31,Jarrett Allen,C,6-9,243,1998-04-21,us US,4,Texas,2021-22,Cleveland Cavaliers
+1,Justin Anderson,SF,6-6,230,1993-11-19,us US,5,Virginia,2021-22,Cleveland Cavaliers
+6,Moses Brown,C,7-2,258,1999-10-13,us US,2,UCLA,2021-22,Cleveland Cavaliers
+21,Ed Davis,C,6-9,218,1989-06-05,us US,11,UNC,2021-22,Cleveland Cavaliers
+99,Tacko Fall,C,7-6,311,1995-12-10,sn SN,2,Central Florida,2021-22,Cleveland Cavaliers
+12,Tim Frazier,PG,6-1,170,1990-11-01,us US,7,Penn State,2021-22,Cleveland Cavaliers
+10,Darius Garland,PG,6-1,192,2000-01-26,us US,2,Vanderbilt,2021-22,Cleveland Cavaliers
+00 26,Brandon Goodwin,PG,6-0,180,1995-10-02,us US,3,Central Florida Florida Gulf Coast,2021-22,Cleveland Cavaliers
+12,Luke Kornet,C,7-1,250,1995-07-15,us US,4,Vanderbilt,2021-22,Cleveland Cavaliers
+3,Caris LeVert,SG,6-7,205,1994-08-25,us US,5,Michigan,2021-22,Cleveland Cavaliers
+0,Kevin Love,C,6-10,251,1988-09-07,us US,13,UCLA,2021-22,Cleveland Cavaliers
+24,Lauri Markkanen,SF,7-1,240,1997-05-22,fi FI,4,Arizona,2021-22,Cleveland Cavaliers
+4,Evan Mobley,PF,6-11,215,2001-06-18,us US,R,USC,2021-22,Cleveland Cavaliers
+5,RJ Nembhard Jr.,SG,6-5,200,1999-03-22,us US,R,TCU,2021-22,Cleveland Cavaliers
+14,Malik Newman,PG,6-3,190,1997-02-21,us US,1,Mississippi State Kansas,2021-22,Cleveland Cavaliers
+35,Isaac Okoro,SF,6-4,225,2001-01-26,us US,1,Auburn,2021-22,Cleveland Cavaliers
+16,Cedi Osman,SF,6-7,230,1995-04-08,mk MK,4,,2021-22,Cleveland Cavaliers
+6,Kevin Pangos,PG,6-1,179,1993-01-26,ca CA,R,Gonzaga,2021-22,Cleveland Cavaliers
+1,Rajon Rondo,PG,6-1,180,1986-02-22,us US,15,Kentucky,2021-22,Cleveland Cavaliers
+3,Ricky Rubio,PG,6-2,190,1990-10-21,es ES,10,,2021-22,Cleveland Cavaliers
+15,Tre Scott,SF,6-8,225,1996-11-25,us US,R,Cincinnati,2021-22,Cleveland Cavaliers
+2,Collin Sexton,SG,6-3,190,1999-01-04,us US,3,Alabama,2021-22,Cleveland Cavaliers
+8,Lamar Stevens,PF,6-7,230,1997-07-09,us US,1,Penn State,2021-22,Cleveland Cavaliers
+45,Denzel Valentine,SG,6-4,220,1993-11-16,us US,4,Michigan State,2021-22,Cleveland Cavaliers
+32,Dean Wade,PF,6-9,228,1996-11-20,us US,2,Kansas State,2021-22,Cleveland Cavaliers
+9,Dylan Windler,SF,6-7,196,1996-09-22,us US,1,Belmont,2021-22,Cleveland Cavaliers
+51,Ryan Arcidiacono,PG,6-3,195,1994-03-26,us US,4,Villanova,2021-22,New York Knicks
+9,RJ Barrett,SF,6-6,214,2000-06-14,ca CA,2,Duke,2021-22,New York Knicks
+18,Alec Burks,SG,6-5,214,1991-07-20,us US,10,Colorado,2021-22,New York Knicks
+21,Damyean Dotson,SG,6-5,210,1994-05-06,us US,4,Oregon Houston,2021-22,New York Knicks
+13,Evan Fournier,SG,6-6,205,1992-10-29,fr FR,9,,2021-22,New York Knicks
+67,Taj Gibson,C,6-9,232,1985-06-24,us US,12,USC,2021-22,New York Knicks
+6,Quentin Grimes,SG,6-5,207,2000-05-08,us US,R,Kansas Houston,2021-22,New York Knicks
+16,Tyler Hall,SG,6-5,210,1997-03-25,us US,R,Montana State,2021-22,New York Knicks
+44,Danuel House Jr.,SF,6-6,220,1993-06-07,us US,5,Texas A&M,2021-22,New York Knicks
+16,Feron Hunt,SF,6-8,195,1999-07-05,us US,R,SMU,2021-22,New York Knicks
+20,Kevin Knox,SF,6-8,215,1999-08-11,us US,3,Kentucky,2021-22,New York Knicks
+2,Miles McBride,PG,6-2,195,2000-09-08,us US,R,West Virginia,2021-22,New York Knicks
+31,Matt Mooney,SG,6-3,199,1996-02-07,us US,1,Air Force South Dakota Texas Tech,2021-22,New York Knicks
+3,Nerlens Noel,C,6-10,220,1994-04-10,us US,7,Kentucky,2021-22,New York Knicks
+5,Immanuel Quickley,PG,6-2,190,1999-06-17,us US,1,Kentucky,2021-22,New York Knicks
+30,Julius Randle,PF,6-9,250,1994-11-29,us US,7,Kentucky,2021-22,New York Knicks
+21,Cam Reddish,SF,6-7,230,1999-09-01,us US,2,Duke,2021-22,New York Knicks
+23,Mitchell Robinson,C,7-0,240,1998-04-01,us US,3,Western Kentucky,2021-22,New York Knicks
+4,Derrick Rose,PG,6-3,200,1988-10-04,us US,12,Memphis,2021-22,New York Knicks
+11,Wayne Selden,SG,6-4,232,1994-09-30,us US,3,Kansas,2021-22,New York Knicks
+45,Jericho Sims,PF,6-10,250,1998-10-20,us US,R,Texas,2021-22,New York Knicks
+1,Obi Toppin,PF,6-9,220,1998-03-04,us US,1,Dayton,2021-22,New York Knicks
+8,Kemba Walker,PG,6-0,184,1990-05-08,us US,10,UConn,2021-22,New York Knicks
+21,Keljin Blevins,SF,6-4,200,1995-11-24,us US,1,Southern Miss Montana State,2021-22,Portland Trail Blazers
+4,Greg Brown III,SF,6-7,206,2001-09-01,us US,R,Texas,2021-22,Portland Trail Blazers
+33,Robert Covington,PF,6-7,209,1990-12-14,us US,8,Tennessee State,2021-22,Portland Trail Blazers
+34,Jarron Cumberland,SG,6-5,205,1997-09-22,us US,R,Cincinnati,2021-22,Portland Trail Blazers
+18,Kris Dunn,PG,6-3,205,1994-03-18,us US,5,Providence,2021-22,Portland Trail Blazers
+16,CJ Elleby,SF,6-6,200,2000-06-16,us US,1,Washington State,2021-22,Portland Trail Blazers
+24,Drew Eubanks,C,6-10,245,1997-02-01,us US,3,Oregon State,2021-22,Portland Trail Blazers
+11,Josh Hart,SG,6-5,215,1995-03-06,us US,4,Villanova,2021-22,Portland Trail Blazers
+19,Elijah Hughes,SG,6-5,215,1998-03-10,us US,1,Syracuse East Carolina University,2021-22,Portland Trail Blazers
+6,Keon Johnson,SG,6-5,185,2002-03-10,us US,R,Tennessee,2021-22,Portland Trail Blazers
+0,Damian Lillard,PG,6-2,200,1990-07-15,us US,9,Weber State,2021-22,Portland Trail Blazers
+9,Nassir Little,SF,6-6,220,2000-02-11,us US,2,UNC,2021-22,Portland Trail Blazers
+35,Didi Louzada,SG,6-5,188,1999-02-07,br BR,1,,2021-22,Portland Trail Blazers
+3,CJ McCollum,SG,6-3,190,1991-09-19,us US,8,Lehigh,2021-22,Portland Trail Blazers
+8,Cameron McGriff,SF,6-7,220,1997-09-30,us US,R,Oklahoma State,2021-22,Portland Trail Blazers
+23,Ben McLemore,SG,6-3,195,1993-02-11,us US,8,Kansas,2021-22,Portland Trail Blazers
+11,Larry Nance Jr.,C,6-6,245,1993-01-01,us US,6,Wyoming,2021-22,Portland Trail Blazers
+27,Jusuf Nurkić,C,6-11,290,1994-08-23,ba BA,7,,2021-22,Portland Trail Blazers
+10 18,Reggie Perry,PF,6-8,250,2000-03-21,us US,1,Mississippi State,2021-22,Portland Trail Blazers
+24,Norman Powell,SF,6-3,215,1993-05-25,us US,6,UCLA,2021-22,Portland Trail Blazers
+1,Anfernee Simons,SG,6-3,200,1999-06-08,us US,3,,2021-22,Portland Trail Blazers
+10,Dennis Smith Jr.,PG,6-2,205,1997-11-25,us US,4,NC State,2021-22,Portland Trail Blazers
+17,Tony Snell,SG,6-6,213,1991-11-10,us US,8,New Mexico,2021-22,Portland Trail Blazers
+2,Trendon Watford,SF,6-8,244,2000-11-09,us US,R,LSU,2021-22,Portland Trail Blazers
+5 8,Brandon Williams,PG,6-1,190,1999-11-22,us US,R,Arizona,2021-22,Portland Trail Blazers
+26,Justise Winslow,PF,6-6,222,1996-03-26,us US,6,Duke,2021-22,Portland Trail Blazers
+40,Cody Zeller,C,6-11,240,1992-10-05,us US,8,Indiana,2021-22,Portland Trail Blazers
+35,Marvin Bagley III,PF,6-10,235,1999-03-14,us US,3,Duke,2021-22,Detroit Pistons
+41,Saddiq Bey,SF,6-8,215,1999-04-09,us US,1,Villanova,2021-22,Detroit Pistons
+2,Cade Cunningham,SG,6-6,220,2001-09-25,us US,R,Oklahoma State,2021-22,Detroit Pistons
+00,Cheick Diallo,C,6-8,219,1996-09-13,ml ML,4,Kansas,2021-22,Detroit Pistons
+6,Hamidou Diallo,SG,6-5,202,1998-07-31,us US,3,Kentucky,2021-22,Detroit Pistons
+20,Carsen Edwards,SG,5-11,200,1998-03-12,us US,2,Purdue,2021-22,Detroit Pistons
+55,Luka Garza,C,6-10,243,1998-12-27,us US,R,Iowa,2021-22,Detroit Pistons
+9,Jerami Grant,PF,6-7,213,1994-03-12,us US,7,Syracuse,2021-22,Detroit Pistons
+7,Killian Hayes,PG,6-4,195,2001-07-27,us US,1,,2021-22,Detroit Pistons
+5,Frank Jackson,PG,6-3,205,1998-05-04,us US,3,Duke,2021-22,Detroit Pistons
+20,Josh Jackson,SF,6-8,207,1997-02-10,us US,4,Kansas,2021-22,Detroit Pistons
+18,Cory Joseph,PG,6-2,200,1991-08-20,ca CA,10,Texas,2021-22,Detroit Pistons
+8,Braxton Key,SF,6-7,225,1997-02-14,us US,R,Alabama Virginia,2021-22,Detroit Pistons
+38,Saben Lee,PG,6-2,183,1999-06-23,us US,1,Vanderbilt,2021-22,Detroit Pistons
+12,Isaiah Livers,SF,6-6,232,1998-07-28,us US,R,Michigan,2021-22,Detroit Pistons
+8,Trey Lyles,PF,6-9,234,1995-11-05,ca CA,6,Kentucky,2021-22,Detroit Pistons
+17,Rodney McGruder,SG,6-4,205,1991-07-29,us US,5,Kansas State,2021-22,Detroit Pistons
+13,Kelly Olynyk,C,7-0,240,1991-04-19,ca CA,8,Gonzaga,2021-22,Detroit Pistons
+42,Jaysean Paige,PG,6-2,200,1994-07-30,us US,R,College of Southern Idaho Moberly Area Community College West Virginia,2021-22,Detroit Pistons
+31,Trayvon Palmer,SG,6-6,200,1994-11-13,us US,R,North Dakota State College of Science Chicago State,2021-22,Detroit Pistons
+24,Jamorko Pickett,PF,6-9,206,1997-12-24,us US,R,Georgetown,2021-22,Detroit Pistons
+19,Micah Potter,C,6-9,248,1998-04-06,us US,R,Ohio State Wisconsin,2021-22,Detroit Pistons
+34,Justin Robinson,PG,6-1,195,1997-10-12,us US,2,Virginia Tech,2021-22,Detroit Pistons
+91,Deividas Sirvydis,SG,6-8,190,2000-06-10,lt LT,1,,2021-22,Detroit Pistons
+14,Cassius Stanley,SG,6-5,190,1999-08-18,us US,1,Duke,2021-22,Detroit Pistons
+28,Isaiah Stewart,C,6-8,250,2001-05-22,us US,1,Washington,2021-22,Detroit Pistons
+25,Derrick Walton,PG,6-0,189,1995-04-03,us US,2,Michigan,2021-22,Detroit Pistons
+50,Cole Anthony,PG,6-2,185,2000-05-15,us US,1,UNC,2021-22,Orlando Magic
+5,Mo Bamba,C,7-0,231,1998-05-12,us US,3,Texas,2021-22,Orlando Magic
+17,Ignas Brazdeikis,SF,6-6,221,1999-01-08,lt LT,2,Michigan,2021-22,Orlando Magic
+30,Devin Cannady,PG,6-2,183,1996-05-21,us US,1,Princeton,2021-22,Orlando Magic
+34,Wendell Carter Jr.,PF,6-10,270,1999-04-16,us US,3,Duke,2021-22,Orlando Magic
+11,Jeff Dowtin Jr.,PG,6-3,177,1997-05-10,us US,R,Rhode Island,2021-22,Orlando Magic
+11,Aleem Ford,SF,6-8,220,1997-12-22,us US,R,Wisconsin,2021-22,Orlando Magic
+8,Tim Frazier,PG,6-1,170,1990-11-01,us US,7,Penn State,2021-22,Orlando Magic
+20,Markelle Fultz,PG,6-4,209,1998-05-29,us US,4,Washington,2021-22,Orlando Magic
+44,Freddie Gillespie,PF,6-9,245,1997-06-14,us US,1,Carleton College Baylor,2021-22,Orlando Magic
+12,Hassani Gravett,PG,6-2,188,1996-07-16,us US,R,Pensacola State South Carolina,2021-22,Orlando Magic
+13,R.J. Hampton,SG,6-4,175,2001-02-07,us US,1,,2021-22,Orlando Magic
+14,Gary Harris,SG,6-4,210,1994-09-14,us US,7,Michigan State,2021-22,Orlando Magic
+24,B.J. Johnson,SF,6-7,200,1995-12-21,us US,2,Syracuse La Salle,2021-22,Orlando Magic
+33,Robin Lopez,C,7-1,281,1988-04-01,us US,13,Stanford,2021-22,Orlando Magic
+2,Mychal Mulder,PG,6-3,195,1994-06-12,ca CA,2,Vincennes University Kentucky,2021-22,Orlando Magic
+3,Chuma Okeke,PF,6-7,229,1998-08-18,us US,1,Auburn,2021-22,Orlando Magic
+31,Terrence Ross,SG,6-6,206,1991-02-05,us US,9,Washington,2021-22,Orlando Magic
+25,Admiral Schofield,SF,6-5,241,1997-03-30,gb GB,1,Tennessee,2021-22,Orlando Magic
+4,Jalen Suggs,PG,6-5,205,2001-06-03,us US,R,Gonzaga,2021-22,Orlando Magic
+22,Franz Wagner,SF,6-10,220,2001-08-27,de DE,R,Michigan,2021-22,Orlando Magic
+21,Moritz Wagner,C,6-11,245,1997-04-26,de DE,3,Michigan,2021-22,Orlando Magic
+7,Darius Bazley,PF,6-9,216,2000-06-12,us US,2,,2021-22,Oklahoma City Thunder
+6,Gabriel Deck,PF,6-6,231,1995-02-08,ar AR,1,,2021-22,Oklahoma City Thunder
+12,Mamadi Diakite,PF,6-9,228,1997-01-21,gn GN,1,Virginia,2021-22,Oklahoma City Thunder
+5,Luguentz Dort,SG,6-4,220,1999-04-19,ca CA,2,Arizona State,2021-22,Oklahoma City Thunder
+25,Rob Edwards,SG,6-5,205,1997-01-20,us US,R,Cleveland State University Arizona State,2021-22,Oklahoma City Thunder
+15,Derrick Favors,C,6-9,265,1991-07-15,us US,11,Georgia Tech,2021-22,Oklahoma City Thunder
+6,Melvin Frazier,SG,6-6,210,1996-08-30,us US,2,Tulane,2021-22,Oklahoma City Thunder
+3,Josh Giddey,SF,6-7,214,2002-10-10,au AU,R,,2021-22,Oklahoma City Thunder
+2,Shai Gilgeous-Alexander,PG,6-6,195,1998-07-12,ca CA,3,Kentucky,2021-22,Oklahoma City Thunder
+14,Jaylen Hoard,SF,6-8,216,1999-03-30,fr FR,2,Wake Forest,2021-22,Oklahoma City Thunder
+55,Scotty Hopson,SG,6-7,215,1989-08-08,us US,2,Tennessee,2021-22,Oklahoma City Thunder
+16,Ty Jerome,SG,6-5,195,1997-07-08,us US,2,Virginia,2021-22,Oklahoma City Thunder
+18,Georgios Kalaitzakis,SF,6-8,192,1999-01-02,gr GR,R,,2021-22,Oklahoma City Thunder
+27,Vít Krejčí,SG,6-8,195,2000-06-19,cz CZ,R,,2021-22,Oklahoma City Thunder
+11,Théo Maledon,PG,6-4,175,2001-06-12,fr FR,1,,2021-22,Oklahoma City Thunder
+23,Tre Mann,PG,6-4,178,2001-02-03,us US,R,Florida,2021-22,Oklahoma City Thunder
+33,Mike Muscala,C,6-10,240,1991-07-01,us US,8,Bucknell,2021-22,Oklahoma City Thunder
+17,Aleksej Pokusevski,PF,7-0,210,2001-12-26,rs RS,1,,2021-22,Oklahoma City Thunder
+50,Jeremiah Robinson-Earl,C,6-9,240,2000-11-03,us US,R,Villanova,2021-22,Oklahoma City Thunder
+22,Isaiah Roby,PF,6-6,230,1998-02-03,us US,2,Nebraska,2021-22,Oklahoma City Thunder
+30,Olivier Sarr,C,6-10,240,1999-02-20,fr FR,R,Wake Forest Kentucky,2021-22,Oklahoma City Thunder
+9,Zavier Simpson,PG,6-0,190,1997-02-11,us US,R,Michigan,2021-22,Oklahoma City Thunder
+12,Lindy Waters III,SG,6-5,210,1997-07-28,us US,R,Oklahoma State,2021-22,Oklahoma City Thunder
+8,Paul Watson,SF,6-6,210,1994-12-30,us US,2,Fresno State,2021-22,Oklahoma City Thunder
+21,Aaron Wiggins,SG,6-5,190,1999-01-02,us US,R,Maryland,2021-22,Oklahoma City Thunder
+34,Kenrich Williams,SF,6-7,210,1994-12-02,us US,3,TCU,2021-22,Oklahoma City Thunder

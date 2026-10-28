@@ -1,0 +1,142 @@
+erDiagram
+    direction TB
+
+    %% Main star: every relationship connects the central fact directly to a dimension.
+    dim_player ||..o{ fact_player_stats : player
+    dim_season ||..o{ fact_player_stats : season
+    dim_team_scope ||..o{ fact_player_stats : reporting_scope
+    dim_phase ||..o{ fact_player_stats : competition_phase
+    dim_player_context ||..o{ fact_player_stats : observed_context
+
+    %% Two additional stars share the same dimension definitions and keys.
+    dim_player ||..o{ fact_mvp_voting : candidate
+    dim_season ||..o{ fact_mvp_voting : voting_season
+    dim_team_scope ||..o{ fact_mvp_voting : canonical_scope
+    dim_phase ||..o{ fact_mvp_voting : regular_season_only
+    dim_player_context ||..o{ fact_mvp_voting : canonical_context
+
+    dim_player ||..o{ fact_roster : member
+    dim_season ||..o{ fact_roster : membership_season
+    dim_team_scope ||..o{ fact_roster : real_team_only
+    dim_player_context ||..o{ fact_roster : roster_context
+
+    fact_player_stats {
+        INTEGER stat_key PK "MAIN FACT"
+        INTEGER source_stat_id UK
+        INTEGER player_key FK
+        INTEGER season_key FK
+        INTEGER scope_key FK
+        INTEGER phase_key FK
+        INTEGER context_key FK
+        INTEGER totals_source_rank
+        INTEGER advanced_source_rank
+        INTEGER is_player_phase_total
+        TEXT awards_source_text
+        INTEGER games_played
+        INTEGER games_started
+        INTEGER minutes_played
+        INTEGER field_goals
+        INTEGER field_goal_attempts
+        INTEGER two_point_field_goals
+        INTEGER two_point_attempts
+        INTEGER three_point_field_goals
+        INTEGER three_point_attempts
+        INTEGER free_throws
+        INTEGER free_throw_attempts
+        INTEGER offensive_rebounds
+        INTEGER defensive_rebounds
+        INTEGER total_rebounds
+        INTEGER assists
+        INTEGER steals
+        INTEGER blocks
+        INTEGER turnovers
+        INTEGER personal_fouls
+        INTEGER points
+        INTEGER triple_doubles
+        REAL player_efficiency_rating "nullable"
+        REAL offensive_rebound_percentage "nullable"
+        REAL defensive_rebound_percentage "nullable"
+        REAL total_rebound_percentage "nullable"
+        REAL assist_percentage "nullable"
+        REAL steal_percentage "nullable"
+        REAL block_percentage "nullable"
+        REAL usage_percentage "nullable"
+        REAL offensive_win_shares
+        REAL defensive_win_shares
+        REAL win_shares
+        REAL win_shares_per_48_minutes "nullable"
+        REAL offensive_box_plus_minus "nullable"
+        REAL defensive_box_plus_minus "nullable"
+        REAL box_plus_minus "nullable"
+        REAL value_over_replacement_player
+    }
+
+    dim_player {
+        INTEGER player_key PK
+        INTEGER source_player_id UK
+        TEXT player_name
+        TEXT birth_date
+        INTEGER listed_height_inches
+        INTEGER listed_weight_pounds
+    }
+
+    dim_season {
+        INTEGER season_key PK
+        TEXT season_label UK
+        TEXT champion_team_code
+        TEXT champion_team_name
+        INTEGER maximum_mvp_voting_points
+    }
+
+    dim_team_scope {
+        INTEGER scope_key PK
+        TEXT scope_code UK
+        TEXT scope_kind
+        INTEGER source_team_id UK "nullable for aggregates"
+        TEXT team_name "nullable for aggregates"
+        INTEGER aggregate_team_count "nullable for real teams"
+    }
+
+    dim_phase {
+        INTEGER phase_key PK
+        TEXT phase_code UK
+        TEXT phase_name
+    }
+
+    dim_player_context {
+        INTEGER context_key PK
+        INTEGER reported_age
+        INTEGER experience_years
+        TEXT position_code
+    }
+
+    fact_mvp_voting {
+        INTEGER mvp_vote_key PK
+        INTEGER player_key FK
+        INTEGER season_key FK
+        INTEGER scope_key FK
+        INTEGER phase_key FK
+        INTEGER context_key FK
+        INTEGER source_representative_stat_id UK
+        INTEGER first_place_votes
+        INTEGER voting_points_won
+    }
+
+    fact_roster {
+        INTEGER roster_key PK
+        INTEGER player_key FK
+        INTEGER season_key FK
+        INTEGER scope_key FK
+        INTEGER context_key FK
+    }
+
+    %% Salary is provisionally one player-season, with no source records yet.
+    dim_player ||..o{ fact_player_salary : paid_player
+    dim_season ||..o{ fact_player_salary : salary_season
+
+    fact_player_salary {
+        INTEGER salary_key PK
+        INTEGER player_key FK
+        INTEGER season_key FK
+        INTEGER annual_salary_usd
+    }
