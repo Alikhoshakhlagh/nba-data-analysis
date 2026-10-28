@@ -12,3 +12,5 @@ python-dotenv>=1.0
 jupyter>=1.0
 matplotlib>=3.11.2
 seaborn>=0.13.2
+scikit-learn>=1.4
+xgboost>=2.0
